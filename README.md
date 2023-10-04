@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#rl>RL</a></li>
   </ol>
 </details>
 
@@ -1991,6 +1992,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+
+## RL
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-03**|**What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?**|Sneha Silwal et.al.|[2310.02219](http://arxiv.org/abs/2310.02219)|null|
+|**2023-10-03**|**Towards a Unified Framework for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2310.02167](http://arxiv.org/abs/2310.02167)|null|
+|**2023-10-03**|**Navigating Uncertainty in ESG Investing**|Jiayue Zhang et.al.|[2310.02163](http://arxiv.org/abs/2310.02163)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**Probabilistic Reach-Avoid for Bayesian Neural Networks**|Matthew Wicker et.al.|[2310.01951](http://arxiv.org/abs/2310.01951)|**[link](https://github.com/matthewwicker/bnnreachavoid)**|
+|**2023-10-03**|**Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency**|Francisco Roldan Sanchez et.al.|[2310.01827](http://arxiv.org/abs/2310.01827)|**[link](https://github.com/franroldans/qmp-her)**|
+|**2023-10-03**|**Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI**|Emily Jin et.al.|[2310.01824](http://arxiv.org/abs/2310.01824)|**[link](https://github.com/stanfordvl/mini_behavior)**|
+|**2023-10-03**|**Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning**|Lev Grossman et.al.|[2310.01767](http://arxiv.org/abs/2310.01767)|**[link](https://github.com/a2r-lab/diffcompressdrl)**|
+|**2023-10-03**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
+|**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
 <p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
 
