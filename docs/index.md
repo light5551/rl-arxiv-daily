@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022](http://arxiv.org/abs/2310.03022)|null|
+|**2023-10-04**|**Proximal Policy Optimization-Based Reinforcement Learning Approach for DC-DC Boost Converter Control: A Comparative Evaluation Against Traditional Control Techniques**|Utsab Saha et.al.|[2310.02945](http://arxiv.org/abs/2310.02945)|null|
+|**2023-10-04**|**Searching for High-Value Molecules Using Reinforcement Learning and Transformers**|Raj Ghugare et.al.|[2310.02902](http://arxiv.org/abs/2310.02902)|null|
+|**2023-10-04**|**Learning to Scale Logits for Temperature-Conditional GFlowNets**|Minsu Kim et.al.|[2310.02823](http://arxiv.org/abs/2310.02823)|null|
+|**2023-10-04**|**Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design**|Matthew Thomas Jackson et.al.|[2310.02782](http://arxiv.org/abs/2310.02782)|null|
+|**2023-10-04**|**Reward Model Ensembles Help Mitigate Overoptimization**|Thomas Coste et.al.|[2310.02743](http://arxiv.org/abs/2310.02743)|null|
+|**2023-10-04**|**Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance**|Weirui Ye et.al.|[2310.02635](http://arxiv.org/abs/2310.02635)|null|
+|**2023-10-04**|**RLTrace: Synthesizing High-Quality System Call Traces for OS Fuzz Testing**|Wei Chen et.al.|[2310.02609](http://arxiv.org/abs/2310.02609)|null|
+|**2023-10-04**|**Multi-Agent Reinforcement Learning for Power Grid Topology Optimization**|Erica van der Sar et.al.|[2310.02605](http://arxiv.org/abs/2310.02605)|null|
+|**2023-10-04**|**Online Estimation and Inference for Robust Policy Evaluation in Reinforcement Learning**|Weidong Liu et.al.|[2310.02581](http://arxiv.org/abs/2310.02581)|null|
 |**2023-10-03**|**What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?**|Sneha Silwal et.al.|[2310.02219](http://arxiv.org/abs/2310.02219)|null|
 |**2023-10-03**|**Towards a Unified Framework for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2310.02167](http://arxiv.org/abs/2310.02167)|null|
 |**2023-10-03**|**Navigating Uncertainty in ESG Investing**|Jiayue Zhang et.al.|[2310.02163](http://arxiv.org/abs/2310.02163)|null|
@@ -44,6 +54,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
