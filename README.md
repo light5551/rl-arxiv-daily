@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,10 +27,10 @@
 |**2023-10-03**|**Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency**|Francisco Roldan Sanchez et.al.|[2310.01827](http://arxiv.org/abs/2310.01827)|**[link](https://github.com/franroldans/qmp-her)**|
 |**2023-10-03**|**Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI**|Emily Jin et.al.|[2310.01824](http://arxiv.org/abs/2310.01824)|**[link](https://github.com/stanfordvl/mini_behavior)**|
 |**2023-10-03**|**Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning**|Lev Grossman et.al.|[2310.01767](http://arxiv.org/abs/2310.01767)|**[link](https://github.com/a2r-lab/diffcompressdrl)**|
-|**2023-10-03**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
+|**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231005>back to top</a>)</p>
 
 ## SLAM
 
@@ -47,7 +47,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231005>back to top</a>)</p>
 
 ## NeRF
 
@@ -64,7 +64,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

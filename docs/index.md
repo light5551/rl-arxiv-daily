@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -22,7 +22,7 @@ layout: default
 |**2023-10-03**|**Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency**|Francisco Roldan Sanchez et.al.|[2310.01827](http://arxiv.org/abs/2310.01827)|**[link](https://github.com/franroldans/qmp-her)**|
 |**2023-10-03**|**Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI**|Emily Jin et.al.|[2310.01824](http://arxiv.org/abs/2310.01824)|**[link](https://github.com/stanfordvl/mini_behavior)**|
 |**2023-10-03**|**Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning**|Lev Grossman et.al.|[2310.01767](http://arxiv.org/abs/2310.01767)|**[link](https://github.com/a2r-lab/diffcompressdrl)**|
-|**2023-10-03**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
+|**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
 ## SLAM
