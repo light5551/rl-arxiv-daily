@@ -23,7 +23,7 @@ layout: default
 |**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|null|
 |**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581](http://arxiv.org/abs/2310.03581)|null|
 |**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511](http://arxiv.org/abs/2310.03511)|null|
-|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|null|
+|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|**[link](https://github.com/ajsvb/rl_path_tracing)**|
 |**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022](http://arxiv.org/abs/2310.03022)|null|
 |**2023-10-04**|**Proximal Policy Optimization-Based Reinforcement Learning Approach for DC-DC Boost Converter Control: A Comparative Evaluation Against Traditional Control Techniques**|Utsab Saha et.al.|[2310.02945](http://arxiv.org/abs/2310.02945)|null|
 |**2023-10-04**|**Searching for High-Value Molecules Using Reinforcement Learning and Transformers**|Raj Ghugare et.al.|[2310.02902](http://arxiv.org/abs/2310.02902)|null|
@@ -68,7 +68,7 @@ layout: default
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
-|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
