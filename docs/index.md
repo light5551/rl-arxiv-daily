@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -19,11 +19,11 @@ layout: default
 |**2023-10-11**|**Sample-Driven Federated Learning for Energy-Efficient and Real-Time IoT Sensing**|Minh Ngoc Luu et.al.|[2310.07497](http://arxiv.org/abs/2310.07497)|**[link](https://github.com/skyd-fl/scfl)**|
 |**2023-10-11**|**KwaiYiiMath: Technical Report**|Jiayi Fu et.al.|[2310.07488](http://arxiv.org/abs/2310.07488)|null|
 |**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
-|**2023-10-11**|**Imitation Learning from Observation with Automatic Discount Scheduling**|Yuyang Liu et.al.|[2310.07433](http://arxiv.org/abs/2310.07433)|null|
+|**2023-10-12**|**Imitation Learning from Observation with Automatic Discount Scheduling**|Yuyang Liu et.al.|[2310.07433](http://arxiv.org/abs/2310.07433)|null|
 |**2023-10-11**|**Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages**|Guozheng Ma et.al.|[2310.07418](http://arxiv.org/abs/2310.07418)|null|
 |**2023-10-11**|**RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts**|Matteo El-Hariry et.al.|[2310.07393](http://arxiv.org/abs/2310.07393)|null|
 |**2023-10-11**|**Learning a Reward Function for User-Preferred Appliance Scheduling**|Nikolina Čović et.al.|[2310.07389](http://arxiv.org/abs/2310.07389)|**[link](https://github.com/nikskiks/learning-reward-function-demand-response)**|
-|**2023-10-11**|**RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations**|Linfeng Liang et.al.|[2310.07378](http://arxiv.org/abs/2310.07378)|null|
+|**2023-10-12**|**RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations**|Linfeng Liang et.al.|[2310.07378](http://arxiv.org/abs/2310.07378)|null|
 |**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835](http://arxiv.org/abs/2310.06835)|null|
 |**2023-10-10**|**$f$-Policy Gradients: A General Framework for Goal Conditioned RL using $f$ -Divergences**|Siddhant Agarwal et.al.|[2310.06794](http://arxiv.org/abs/2310.06794)|null|
 |**2023-10-10**|**Spectral Entry-wise Matrix Estimation for Low-Rank Reinforcement Learning**|Stefan Stojanovic et.al.|[2310.06793](http://arxiv.org/abs/2310.06793)|null|
@@ -105,7 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
