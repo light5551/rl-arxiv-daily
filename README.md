@@ -49,7 +49,7 @@
 |**2023-10-10**|**Diversity from Human Feedback**|Ren-Jian Wang et.al.|[2310.06648](http://arxiv.org/abs/2310.06648)|null|
 |**2023-10-10**|**BridgeHand2Vec Bridge Hand Representation**|Anna Sztyber-Betley et.al.|[2310.06624](http://arxiv.org/abs/2310.06624)|**[link](https://github.com/johny-b/bridgehand2vec)**|
 |**2023-10-10**|**SYNLOCO: Synthesizing Central Pattern Generator and Reinforcement Learning for Quadruped Locomotion**|Xinyu Zhang et.al.|[2310.06606](http://arxiv.org/abs/2310.06606)|null|
-|**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910](http://arxiv.org/abs/2310.05910)|null|
+|**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910](http://arxiv.org/abs/2310.05910)|**[link](https://github.com/ibm/salmon)**|
 |**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858](http://arxiv.org/abs/2310.05858)|null|
 |**2023-10-09**|**A Simple Open-Loop Baseline for Reinforcement Learning Locomotion Tasks**|Antonin Raffin et.al.|[2310.05808](http://arxiv.org/abs/2310.05808)|null|
 |**2023-10-09**|**Aligning Language Models with Human Preferences via a Bayesian Approach**|Jiashuo Wang et.al.|[2310.05782](http://arxiv.org/abs/2310.05782)|**[link](https://github.com/wangjs9/aligned-dpm)**|
@@ -59,14 +59,14 @@
 |**2023-10-09**|**Imitator Learning: Achieve Out-of-the-Box Imitation Ability in Variable Environments**|Xiong-Hui Chen et.al.|[2310.05712](http://arxiv.org/abs/2310.05712)|null|
 |**2023-10-09**|**Hierarchical Reinforcement Learning for Temporal Pattern Prediction**|Faith Johnson et.al.|[2310.05695](http://arxiv.org/abs/2310.05695)|null|
 |**2023-10-09**|**Multi-timestep models for Model-based Reinforcement Learning**|Abdelhakim Benechehab et.al.|[2310.05672](http://arxiv.org/abs/2310.05672)|null|
-|**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|null|
+|**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|**[link](https://github.com/Improbable-AI/dw-offline-rl)**|
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
-|**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|null|
+|**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|**[link](https://github.com/tedmoskovitz/constrainedrl4lms)**|
 |**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
 |**2023-10-06**|**Applying Reinforcement Learning to Option Pricing and Hedging**|Zoran Stoiljkovic et.al.|[2310.04336](http://arxiv.org/abs/2310.04336)|null|
 |**2023-10-06**|**Adjustable Robust Reinforcement Learning for Online 3D Bin Packing**|Yuxin Pan et.al.|[2310.04323](http://arxiv.org/abs/2310.04323)|null|
 |**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288](http://arxiv.org/abs/2310.04288)|null|
-|**2023-10-06**|**DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories**|Matteo El-Hariry et.al.|[2310.04266](http://arxiv.org/abs/2310.04266)|null|
+|**2023-10-06**|**DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories**|Matteo El-Hariry et.al.|[2310.04266](http://arxiv.org/abs/2310.04266)|**[link](https://github.com/elharirymatteo/rans)**|
 |**2023-10-06**|**Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning**|Moritz Lange et.al.|[2310.04241](http://arxiv.org/abs/2310.04241)|null|
 |**2023-10-06**|**Lending Interaction Wings to Recommender Systems with Conversational Agents**|Jiarui Jin et.al.|[2310.04230](http://arxiv.org/abs/2310.04230)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
@@ -75,7 +75,7 @@
 |**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
 |**2023-10-05**|**Enhancing Exfiltration Path Analysis Using Reinforcement Learning**|Riddam Rishu et.al.|[2310.03667](http://arxiv.org/abs/2310.03667)|null|
 |**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613](http://arxiv.org/abs/2310.03613)|null|
-|**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|null|
+|**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|**[link](https://github.com/elenizavrakli/output-feedback-rl-temperature-control)**|
 |**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581](http://arxiv.org/abs/2310.03581)|null|
 |**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511](http://arxiv.org/abs/2310.03511)|**[link](https://github.com/rhyan10/_schnebby_)**|
 |**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|**[link](https://github.com/ajsvb/rl_path_tracing)**|
