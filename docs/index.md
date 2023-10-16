@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Goodhart's Law in Reinforcement Learning**|Jacek Karwowski et.al.|[2310.09144](http://arxiv.org/abs/2310.09144)|null|
+|**2023-10-13**|**Automatic Music Playlist Generation via Simulation-based Reinforcement Learning**|Federico Tomasi et.al.|[2310.09123](http://arxiv.org/abs/2310.09123)|null|
+|**2023-10-13**|**Online Relocating and Matching of Ride-Hailing Services: A Model-Based Modular Approach**|Chang Gao et.al.|[2310.09071](http://arxiv.org/abs/2310.09071)|null|
+|**2023-10-13**|**DATT: Deep Adaptive Trajectory Tracking for Quadrotor Control**|Kevin Huang et.al.|[2310.09053](http://arxiv.org/abs/2310.09053)|null|
+|**2023-10-13**|**Optimal Scheduling of Electric Vehicle Charging with Deep Reinforcement Learning considering End Users Flexibility**|Christoforos Menos-Aikateriniadis et.al.|[2310.09040](http://arxiv.org/abs/2310.09040)|null|
+|**2023-10-13**|**μ-DDRL: A QoS-Aware Distributed Deep Reinforcement Learning Technique for Service Offloading in Fog computing Environments**|Mohammad Goudarzi et.al.|[2310.09003](http://arxiv.org/abs/2310.09003)|null|
+|**2023-10-13**|**Multi-Purpose NLP Chatbot : Design, Methodology & Conclusion**|Shivom Aggarwal et.al.|[2310.08977](http://arxiv.org/abs/2310.08977)|null|
+|**2023-10-13**|**PAGE: Equilibrate Personalization and Generalization in Federated Learning**|Qian Chen et.al.|[2310.08961](http://arxiv.org/abs/2310.08961)|null|
+|**2023-10-13**|**LLaMA Rider: Spurring Large Language Models to Explore the Open World**|Yicheng Feng et.al.|[2310.08922](http://arxiv.org/abs/2310.08922)|null|
+|**2023-10-13**|**Community Membership Hiding as Counterfactual Graph Search via Deep Reinforcement Learning**|Andrea Bernini et.al.|[2310.08909](http://arxiv.org/abs/2310.08909)|null|
 |**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583](http://arxiv.org/abs/2310.08583)|null|
 |**2023-10-12**|**Universal Visual Decomposer: Long-Horizon Manipulation Made Easy**|Zichen Zhang et.al.|[2310.08581](http://arxiv.org/abs/2310.08581)|null|
