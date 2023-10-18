@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**GreenNFV: Energy-Efficient Network Function Virtualization with Service Level Agreement Constraints**|MD S Q Zulkar Nine et.al.|[2310.11406](http://arxiv.org/abs/2310.11406)|null|
+|**2023-10-17**|**Real-time data assimilation for the thermodynamic modeling of cryogenic storage tanks**|Pedro Afonso Marques et.al.|[2310.11399](http://arxiv.org/abs/2310.11399)|null|
+|**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335](http://arxiv.org/abs/2310.11335)|null|
+|**2023-10-17**|**Keep Various Trajectories: Promoting Exploration of Ensemble Policies in Continuous Control**|Chao Li et.al.|[2310.11138](http://arxiv.org/abs/2310.11138)|null|
+|**2023-10-17**|**Sim-to-Real Transfer of Adaptive Control Parameters for AUV Stabilization under Current Disturbance**|Thomas Chaffre et.al.|[2310.11075](http://arxiv.org/abs/2310.11075)|null|
+|**2023-10-17**|**Cooperative Dispatch of Microgrids Community Using Risk-Sensitive Reinforcement Learning with Monotonously Improved Performance**|Ziqing Zhu et.al.|[2310.10997](http://arxiv.org/abs/2310.10997)|null|
+|**2023-10-17**|**Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control**|Xianyue Peng et.al.|[2310.10948](http://arxiv.org/abs/2310.10948)|null|
+|**2023-10-17**|**Reaching the Limit in Autonomous Racing: Optimal Control versus Reinforcement Learning**|Yunlong Song et.al.|[2310.10943](http://arxiv.org/abs/2310.10943)|null|
+|**2023-10-17**|**Enhanced Transformer Architecture for Natural Language Processing**|Woohyeon Moon et.al.|[2310.10930](http://arxiv.org/abs/2310.10930)|null|
+|**2023-10-16**|**Eco-Driving Control of Connected and Automated Vehicles using Neural Network based Rollout**|Jacob Paugh et.al.|[2310.10878](http://arxiv.org/abs/2310.10878)|null|
 |**2023-10-16**|**Generating Summaries with Controllable Readability Levels**|Leonardo F. R. Ribeiro et.al.|[2310.10623](http://arxiv.org/abs/2310.10623)|null|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-16**|**Sample Complexity of Preference-Based Nonparametric Off-Policy Evaluation with Deep Networks**|Zihao Li et.al.|[2310.10556](http://arxiv.org/abs/2310.10556)|null|
@@ -126,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
@@ -145,7 +156,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
