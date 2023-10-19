@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning**|Ali Baheri et.al.|[2310.12055](http://arxiv.org/abs/2310.12055)|null|
+|**2023-10-18**|**A General Theoretical Paradigm to Understand Learning from Human Preferences**|Mohammad Gheshlaghi Azar et.al.|[2310.12036](http://arxiv.org/abs/2310.12036)|null|
+|**2023-10-18**|**Improving Generalization of Alignment with Human Preferences through Group Invariant Learning**|Rui Zheng et.al.|[2310.11971](http://arxiv.org/abs/2310.11971)|null|
+|**2023-10-18**|**Accelerated Policy Gradient: On the Nesterov Momentum for Reinforcement Learning**|Yen-Ju Chen et.al.|[2310.11897](http://arxiv.org/abs/2310.11897)|**[link](https://github.com/nycu-rl-bandits-lab/apg)**|
+|**2023-10-18**|**Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning**|Yufei Kuang et.al.|[2310.11845](http://arxiv.org/abs/2310.11845)|null|
+|**2023-10-18**|**On The Expressivity of Objective-Specification Formalisms in Reinforcement Learning**|Rohan Subramani et.al.|[2310.11840](http://arxiv.org/abs/2310.11840)|null|
+|**2023-10-18**|**IntentDial: An Intent Graph based Multi-Turn Dialogue System with Reasoning Path Visualization**|Zengguang Hao et.al.|[2310.11818](http://arxiv.org/abs/2310.11818)|null|
+|**2023-10-18**|**Dynamic Resource Management in Integrated NOMA Terrestrial-Satellite Networks using Multi-Agent Reinforcement Learning**|Ali Nauman et.al.|[2310.11814](http://arxiv.org/abs/2310.11814)|null|
+|**2023-10-18**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787](http://arxiv.org/abs/2310.11787)|null|
 |**2023-10-17**|**GreenNFV: Energy-Efficient Network Function Virtualization with Service Level Agreement Constraints**|MD S Q Zulkar Nine et.al.|[2310.11406](http://arxiv.org/abs/2310.11406)|null|
 |**2023-10-17**|**Real-time data assimilation for the thermodynamic modeling of cryogenic storage tanks**|Pedro Afonso Marques et.al.|[2310.11399](http://arxiv.org/abs/2310.11399)|null|
 |**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335](http://arxiv.org/abs/2310.11335)|null|
@@ -156,6 +166,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
+|**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
