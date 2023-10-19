@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2023-10-17**|**Sim-to-Real Transfer of Adaptive Control Parameters for AUV Stabilization under Current Disturbance**|Thomas Chaffre et.al.|[2310.11075](http://arxiv.org/abs/2310.11075)|null|
 |**2023-10-17**|**Cooperative Dispatch of Microgrids Community Using Risk-Sensitive Reinforcement Learning with Monotonously Improved Performance**|Ziqing Zhu et.al.|[2310.10997](http://arxiv.org/abs/2310.10997)|null|
 |**2023-10-17**|**Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control**|Xianyue Peng et.al.|[2310.10948](http://arxiv.org/abs/2310.10948)|null|
-|**2023-10-17**|**Reaching the Limit in Autonomous Racing: Optimal Control versus Reinforcement Learning**|Yunlong Song et.al.|[2310.10943](http://arxiv.org/abs/2310.10943)|null|
+|**2023-10-18**|**Reaching the Limit in Autonomous Racing: Optimal Control versus Reinforcement Learning**|Yunlong Song et.al.|[2310.10943](http://arxiv.org/abs/2310.10943)|null|
 |**2023-10-17**|**Enhanced Transformer Architecture for Natural Language Processing**|Woohyeon Moon et.al.|[2310.10930](http://arxiv.org/abs/2310.10930)|null|
 |**2023-10-16**|**Eco-Driving Control of Connected and Automated Vehicles using Neural Network based Rollout**|Jacob Paugh et.al.|[2310.10878](http://arxiv.org/abs/2310.10878)|null|
 |**2023-10-16**|**Generating Summaries with Controllable Readability Levels**|Leonardo F. R. Ribeiro et.al.|[2310.10623](http://arxiv.org/abs/2310.10623)|null|
@@ -130,13 +130,13 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
@@ -150,7 +150,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## NeRF
 
@@ -191,7 +191,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
