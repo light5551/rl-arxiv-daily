@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -17,7 +17,7 @@ layout: default
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
 |**2023-10-18**|**Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning**|Ali Baheri et.al.|[2310.12055](http://arxiv.org/abs/2310.12055)|null|
 |**2023-10-18**|**A General Theoretical Paradigm to Understand Learning from Human Preferences**|Mohammad Gheshlaghi Azar et.al.|[2310.12036](http://arxiv.org/abs/2310.12036)|null|
-|**2023-10-18**|**Improving Generalization of Alignment with Human Preferences through Group Invariant Learning**|Rui Zheng et.al.|[2310.11971](http://arxiv.org/abs/2310.11971)|null|
+|**2023-10-19**|**Improving Generalization of Alignment with Human Preferences through Group Invariant Learning**|Rui Zheng et.al.|[2310.11971](http://arxiv.org/abs/2310.11971)|null|
 |**2023-10-18**|**Accelerated Policy Gradient: On the Nesterov Momentum for Reinforcement Learning**|Yen-Ju Chen et.al.|[2310.11897](http://arxiv.org/abs/2310.11897)|**[link](https://github.com/nycu-rl-bandits-lab/apg)**|
 |**2023-10-18**|**Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning**|Yufei Kuang et.al.|[2310.11845](http://arxiv.org/abs/2310.11845)|null|
 |**2023-10-18**|**On The Expressivity of Objective-Specification Formalisms in Reinforcement Learning**|Rohan Subramani et.al.|[2310.11840](http://arxiv.org/abs/2310.11840)|null|
