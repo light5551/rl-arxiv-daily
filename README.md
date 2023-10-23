@@ -55,8 +55,8 @@
 |**2023-10-16**|**Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey**|Mai Le et.al.|[2310.10549](http://arxiv.org/abs/2310.10549)|null|
 |**2023-10-16**|**Learning optimal integration of spatial and temporal information in noisy chemotaxis**|Albert Alonso et.al.|[2310.10531](http://arxiv.org/abs/2310.10531)|**[link](https://github.com/kirkegaardlab/chemoxrl)**|
 |**2023-10-16**|**Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning**|Xiang Zhang et.al.|[2310.10509](http://arxiv.org/abs/2310.10509)|null|
-|**2023-10-16**|**ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models**|Ziniu Li et.al.|[2310.10505](http://arxiv.org/abs/2310.10505)|null|
-|**2023-10-16**|**Machine learning in physics: a short guide**|Francisco A. Rodrigues et.al.|[2310.10368](http://arxiv.org/abs/2310.10368)|null|
+|**2023-10-16**|**ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models**|Ziniu Li et.al.|[2310.10505](http://arxiv.org/abs/2310.10505)|**[link](https://github.com/liziniu/ReMax)**|
+|**2023-10-16**|**Machine learning in physics: a short guide**|Francisco A. Rodrigues et.al.|[2310.10368](http://arxiv.org/abs/2310.10368)|**[link](https://github.com/franciscorodrigues-usp/MLP)**|
 |**2023-10-16**|**Unlocking Metasurface Practicality for B5G Networks: AI-assisted RIS Planning**|Guillermo Encinas-Lago et.al.|[2310.10330](http://arxiv.org/abs/2310.10330)|null|
 |**2023-10-16**|**End-to-end Offline Reinforcement Learning for Glycemia Control**|Tristan Beolet et.al.|[2310.10312](http://arxiv.org/abs/2310.10312)|null|
 |**2023-10-13**|**Goodhart's Law in Reinforcement Learning**|Jacek Karwowski et.al.|[2310.09144](http://arxiv.org/abs/2310.09144)|null|
@@ -77,7 +77,7 @@
 |**2023-10-12**|**Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias**|Max Sobol Mark et.al.|[2310.08558](http://arxiv.org/abs/2310.08558)|**[link](https://github.com/MaxSobolMark/OOO)**|
 |**2023-10-12**|**Cross-Episodic Curriculum for Transformer Agents**|Lucy Xiaoyang Shi et.al.|[2310.08549](http://arxiv.org/abs/2310.08549)|null|
 |**2023-10-12**|**MeanAP-Guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2310.08387](http://arxiv.org/abs/2310.08387)|null|
-|**2023-10-12**|**Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment**|Boyang Xue et.al.|[2310.08372](http://arxiv.org/abs/2310.08372)|null|
+|**2023-10-12**|**Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment**|Boyang Xue et.al.|[2310.08372](http://arxiv.org/abs/2310.08372)|**[link](https://github.com/amourwaltz/factdial)**|
 |**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|**[link](https://github.com/ValentinaZangirolami/DRL)**|
 |**2023-10-11**|**Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**|Gustav Nikopensius et.al.|[2310.07613](http://arxiv.org/abs/2310.07613)|null|
 |**2023-10-11**|**Exploiting Causal Graph Priors with Posterior Sampling for Reinforcement Learning**|Mirco Mutti et.al.|[2310.07518](http://arxiv.org/abs/2310.07518)|null|
@@ -86,7 +86,7 @@
 |**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
 |**2023-10-12**|**Imitation Learning from Observation with Automatic Discount Scheduling**|Yuyang Liu et.al.|[2310.07433](http://arxiv.org/abs/2310.07433)|null|
 |**2023-10-11**|**Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages**|Guozheng Ma et.al.|[2310.07418](http://arxiv.org/abs/2310.07418)|null|
-|**2023-10-11**|**RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts**|Matteo El-Hariry et.al.|[2310.07393](http://arxiv.org/abs/2310.07393)|null|
+|**2023-10-11**|**RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts**|Matteo El-Hariry et.al.|[2310.07393](http://arxiv.org/abs/2310.07393)|**[link](https://github.com/elharirymatteo/rans)**|
 |**2023-10-11**|**Learning a Reward Function for User-Preferred Appliance Scheduling**|Nikolina Čović et.al.|[2310.07389](http://arxiv.org/abs/2310.07389)|**[link](https://github.com/nikskiks/learning-reward-function-demand-response)**|
 |**2023-10-12**|**RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations**|Linfeng Liang et.al.|[2310.07378](http://arxiv.org/abs/2310.07378)|null|
 |**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835](http://arxiv.org/abs/2310.06835)|null|
