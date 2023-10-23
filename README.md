@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis**|Philip John Gorinski et.al.|[2310.13669](http://arxiv.org/abs/2310.13669)|**[link](https://github.com/huawei-noah/noah-research)**|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667](http://arxiv.org/abs/2310.13667)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
+|**2023-10-20**|**Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback**|Nathan Lambert et.al.|[2310.13595](http://arxiv.org/abs/2310.13595)|null|
+|**2023-10-20**|**Simultaneous Machine Translation with Tailored Reference**|Shoutao Guo et.al.|[2310.13588](http://arxiv.org/abs/2310.13588)|null|
+|**2023-10-20**|**Cooperative Multi-Agent Deep Reinforcement Learning for Adaptive Decentralized Emergency Voltage Control**|Ying Zhang et.al.|[2310.13577](http://arxiv.org/abs/2310.13577)|null|
+|**2023-10-20**|**Tree Search in DAG Space with Model-based Reinforcement Learning for Causal Discovery**|Victor-Alexandru Darvariu et.al.|[2310.13576](http://arxiv.org/abs/2310.13576)|null|
+|**2023-10-20**|**Reward Shaping for Happier Autonomous Cyber Security Agents**|Elizabeth Bates et.al.|[2310.13565](http://arxiv.org/abs/2310.13565)|null|
+|**2023-10-20**|**Provable Benefits of Multi-task RL under Non-Markovian Decision Making Processes**|Ruiquan Huang et.al.|[2310.13550](http://arxiv.org/abs/2310.13550)|null|
+|**2023-10-20**|**Towards Understanding Sycophancy in Language Models**|Mrinank Sharma et.al.|[2310.13548](http://arxiv.org/abs/2310.13548)|**[link](https://github.com/meg-tong/sycophancy-eval)**|
 |**2023-10-19**|**Towards Robust Offline Reinforcement Learning under Diverse Data Corruption**|Rui Yang et.al.|[2310.12955](http://arxiv.org/abs/2310.12955)|null|
 |**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937](http://arxiv.org/abs/2310.12937)|null|
 |**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934](http://arxiv.org/abs/2310.12934)|null|
@@ -176,6 +186,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
+|**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
+|**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
