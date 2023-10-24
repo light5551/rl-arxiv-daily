@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning**|Jingyun Yang et.al.|[2310.15145](http://arxiv.org/abs/2310.15145)|null|
+|**2023-10-23**|**The primacy bias in Model-based RL**|Zhongjian Qiao et.al.|[2310.15017](http://arxiv.org/abs/2310.15017)|null|
+|**2023-10-23**|**Reinforcement learning in large, structured action spaces: A simulation study of decision support for spinal cord injury rehabilitation**|Nathan Phelps et.al.|[2310.14976](http://arxiv.org/abs/2310.14976)|null|
+|**2023-10-23**|**Comparison of path following in ships using modern and traditional controllers**|Sanjeev Kumar Ramkumar Sudha et.al.|[2310.14940](http://arxiv.org/abs/2310.14940)|null|
+|**2023-10-23**|**AI on the Water: Applying DRL to Autonomous Vessel Navigation**|Md Shadab Alam et.al.|[2310.14938](http://arxiv.org/abs/2310.14938)|null|
+|**2023-10-23**|**Navigating the Ocean with DRL: Path following for marine vessels**|Joel Jose et.al.|[2310.14932](http://arxiv.org/abs/2310.14932)|null|
+|**2023-10-23**|**Budgeted Embedding Table For Recommender Systems**|Yunke Qu et.al.|[2310.14884](http://arxiv.org/abs/2310.14884)|null|
+|**2023-10-23**|**Diverse Priors for Deep Reinforcement Learning**|Chenfan Weng et.al.|[2310.14864](http://arxiv.org/abs/2310.14864)|null|
+|**2023-10-23**|**Policy Gradient with Kernel Quadrature**|Satoshi Hayakawa et.al.|[2310.14768](http://arxiv.org/abs/2310.14768)|null|
+|**2023-10-23**|**Multi-Agent Learning in Contextual Games under Unknown Constraints**|Anna M. Maddux et.al.|[2310.14685](http://arxiv.org/abs/2310.14685)|null|
 |**2023-10-20**|**Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis**|Philip John Gorinski et.al.|[2310.13669](http://arxiv.org/abs/2310.13669)|**[link](https://github.com/huawei-noah/noah-research)**|
 |**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667](http://arxiv.org/abs/2310.13667)|**[link](https://github.com/wineslab/explora)**|
 |**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
@@ -159,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
@@ -177,6 +188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
