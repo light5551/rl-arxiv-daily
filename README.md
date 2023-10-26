@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048](http://arxiv.org/abs/2310.16048)|null|
-|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042](http://arxiv.org/abs/2310.16042)|null|
+|**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042](http://arxiv.org/abs/2310.16042)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
 |**2023-10-24**|**Data-driven Traffic Simulation: A Comprehensive Review**|Di Chen et.al.|[2310.15975](http://arxiv.org/abs/2310.15975)|null|
 |**2023-10-24**|**State Sequences Prediction via Fourier Transform for Representation Learning**|Mingxuan Ye et.al.|[2310.15888](http://arxiv.org/abs/2310.15888)|**[link](https://github.com/miralab-ustc/rl-spf)**|
@@ -28,7 +28,7 @@
 |**2023-10-24**|**Recurrent Linear Transformers**|Subhojeet Pramanik et.al.|[2310.15719](http://arxiv.org/abs/2310.15719)|**[link](https://github.com/subho406/Recurrent-Linear-Transformers)**|
 |**2023-10-24**|**Solving large flexible job shop scheduling instances by generating a diverse set of scheduling policies with deep reinforcement learning**|Imanol Echeverria et.al.|[2310.15706](http://arxiv.org/abs/2310.15706)|null|
 |**2023-10-24**|**DACOOP-A: Decentralized Adaptive Cooperative Pursuit via Attention**|Zheng Zhang et.al.|[2310.15699](http://arxiv.org/abs/2310.15699)|null|
-|**2023-10-24**|**COPF: Continual Learning Human Preference through Optimal Policy Fitting**|Han Zhang et.al.|[2310.15694](http://arxiv.org/abs/2310.15694)|null|
+|**2023-10-25**|**COPF: Continual Learning Human Preference through Optimal Policy Fitting**|Han Zhang et.al.|[2310.15694](http://arxiv.org/abs/2310.15694)|null|
 |**2023-10-23**|**Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning**|Jingyun Yang et.al.|[2310.15145](http://arxiv.org/abs/2310.15145)|null|
 |**2023-10-23**|**The primacy bias in Model-based RL**|Zhongjian Qiao et.al.|[2310.15017](http://arxiv.org/abs/2310.15017)|null|
 |**2023-10-23**|**Reinforcement learning in large, structured action spaces: A simulation study of decision support for spinal cord injury rehabilitation**|Nathan Phelps et.al.|[2310.14976](http://arxiv.org/abs/2310.14976)|null|
@@ -180,7 +180,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231026>back to top</a>)</p>
 
 ## SLAM
 
@@ -201,7 +201,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231026>back to top</a>)</p>
 
 ## NeRF
 
@@ -250,7 +250,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
