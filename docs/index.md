@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -17,7 +17,7 @@ layout: default
 |**2023-10-26**|**Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion**|Laura Smith et.al.|[2310.17634](http://arxiv.org/abs/2310.17634)|null|
 |**2023-10-26**|**Neuro-Inspired Fragmentation and Recall to Overcome Catastrophic Forgetting in Curiosity**|Jaedong Hwang et.al.|[2310.17537](http://arxiv.org/abs/2310.17537)|**[link](https://github.com/fietelab/farcuriosity)**|
 |**2023-10-26**|**Learning Regularized Graphon Mean-Field Games with Unknown Graphons**|Fengzhuo Zhang et.al.|[2310.17531](http://arxiv.org/abs/2310.17531)|null|
-|**2023-10-26**|**Adaptive Resource Management for Edge Network Slicing using Incremental Multi-Agent Deep Reinforcement Learning**|Haiyuan Li et.al.|[2310.17523](http://arxiv.org/abs/2310.17523)|null|
+|**2023-10-27**|**Adaptive Resource Management for Edge Network Slicing using Incremental Multi-Agent Deep Reinforcement Learning**|Haiyuan Li et.al.|[2310.17523](http://arxiv.org/abs/2310.17523)|null|
 |**2023-10-26**|**Orchestration of Emulator Assisted Mobile Edge Tuning for AI Foundation Models: A Multi-Agent Deep Reinforcement Learning Approach**|Wenhan Yu et.al.|[2310.17492](http://arxiv.org/abs/2310.17492)|null|
 |**2023-10-26**|**FedPEAT: Convergence of Federated Learning, Parameter-Efficient Fine Tuning, and Emulator Assisted Tuning for Artificial Intelligence Foundation Models with Mobile Edge Computing**|Terence Jie Chua et.al.|[2310.17491](http://arxiv.org/abs/2310.17491)|null|
 |**2023-10-26**|**Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach**|Stephen Mak et.al.|[2310.17485](http://arxiv.org/abs/2310.17485)|null|
@@ -218,9 +218,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
+|**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
-|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
+|**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
