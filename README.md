@@ -47,7 +47,7 @@
 |**2023-10-24**|**Control problems on infinite horizon subject to time-dependent pure state constraints**|Vincenzo Basco et.al.|[2310.15771](http://arxiv.org/abs/2310.15771)|null|
 |**2023-10-24**|**Recurrent Linear Transformers**|Subhojeet Pramanik et.al.|[2310.15719](http://arxiv.org/abs/2310.15719)|**[link](https://github.com/subho406/Recurrent-Linear-Transformers)**|
 |**2023-10-24**|**Solving large flexible job shop scheduling instances by generating a diverse set of scheduling policies with deep reinforcement learning**|Imanol Echeverria et.al.|[2310.15706](http://arxiv.org/abs/2310.15706)|null|
-|**2023-10-24**|**DACOOP-A: Decentralized Adaptive Cooperative Pursuit via Attention**|Zheng Zhang et.al.|[2310.15699](http://arxiv.org/abs/2310.15699)|null|
+|**2023-10-24**|**DACOOP-A: Decentralized Adaptive Cooperative Pursuit via Attention**|Zheng Zhang et.al.|[2310.15699](http://arxiv.org/abs/2310.15699)|**[link](https://github.com/zero8319/dacoop-a)**|
 |**2023-10-25**|**COPF: Continual Learning Human Preference through Optimal Policy Fitting**|Han Zhang et.al.|[2310.15694](http://arxiv.org/abs/2310.15694)|null|
 |**2023-10-23**|**Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning**|Jingyun Yang et.al.|[2310.15145](http://arxiv.org/abs/2310.15145)|null|
 |**2023-10-23**|**The primacy bias in Model-based RL**|Zhongjian Qiao et.al.|[2310.15017](http://arxiv.org/abs/2310.15017)|null|
@@ -71,8 +71,8 @@
 |**2023-10-20**|**Towards Understanding Sycophancy in Language Models**|Mrinank Sharma et.al.|[2310.13548](http://arxiv.org/abs/2310.13548)|**[link](https://github.com/meg-tong/sycophancy-eval)**|
 |**2023-10-19**|**Towards Robust Offline Reinforcement Learning under Diverse Data Corruption**|Rui Yang et.al.|[2310.12955](http://arxiv.org/abs/2310.12955)|null|
 |**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937](http://arxiv.org/abs/2310.12937)|null|
-|**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934](http://arxiv.org/abs/2310.12934)|null|
-|**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|null|
+|**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934](http://arxiv.org/abs/2310.12934)|**[link](https://github.com/d-tiapkin/gflownet-rl)**|
+|**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|**[link](https://github.com/eureka-research/Eureka)**|
 |**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921](http://arxiv.org/abs/2310.12921)|null|
 |**2023-10-19**|**Collaborative Adaptation: Learning to Recover from Unforeseen Malfunctions in Multi-Robot Teams**|Yasin Findik et.al.|[2310.12909](http://arxiv.org/abs/2310.12909)|null|
 |**2023-10-19**|**Safe RLHF: Safe Reinforcement Learning from Human Feedback**|Josef Dai et.al.|[2310.12773](http://arxiv.org/abs/2310.12773)|**[link](https://github.com/pku-alignment/safe-rlhf)**|
@@ -112,7 +112,7 @@
 |**2023-10-13**|**Goodhart's Law in Reinforcement Learning**|Jacek Karwowski et.al.|[2310.09144](http://arxiv.org/abs/2310.09144)|null|
 |**2023-10-13**|**Automatic Music Playlist Generation via Simulation-based Reinforcement Learning**|Federico Tomasi et.al.|[2310.09123](http://arxiv.org/abs/2310.09123)|null|
 |**2023-10-13**|**Online Relocating and Matching of Ride-Hailing Services: A Model-Based Modular Approach**|Chang Gao et.al.|[2310.09071](http://arxiv.org/abs/2310.09071)|null|
-|**2023-10-13**|**DATT: Deep Adaptive Trajectory Tracking for Quadrotor Control**|Kevin Huang et.al.|[2310.09053](http://arxiv.org/abs/2310.09053)|null|
+|**2023-10-13**|**DATT: Deep Adaptive Trajectory Tracking for Quadrotor Control**|Kevin Huang et.al.|[2310.09053](http://arxiv.org/abs/2310.09053)|**[link](https://github.com/kevinhuang8/datt)**|
 |**2023-10-13**|**Optimal Scheduling of Electric Vehicle Charging with Deep Reinforcement Learning considering End Users Flexibility**|Christoforos Menos-Aikateriniadis et.al.|[2310.09040](http://arxiv.org/abs/2310.09040)|null|
 |**2023-10-13**|**μ-DDRL: A QoS-Aware Distributed Deep Reinforcement Learning Technique for Service Offloading in Fog computing Environments**|Mohammad Goudarzi et.al.|[2310.09003](http://arxiv.org/abs/2310.09003)|null|
 |**2023-10-13**|**Multi-Purpose NLP Chatbot : Design, Methodology & Conclusion**|Shivom Aggarwal et.al.|[2310.08977](http://arxiv.org/abs/2310.08977)|null|
@@ -135,7 +135,7 @@
 |**2023-10-11**|**KwaiYiiMath: Technical Report**|Jiayi Fu et.al.|[2310.07488](http://arxiv.org/abs/2310.07488)|null|
 |**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
 |**2023-10-12**|**Imitation Learning from Observation with Automatic Discount Scheduling**|Yuyang Liu et.al.|[2310.07433](http://arxiv.org/abs/2310.07433)|null|
-|**2023-10-11**|**Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages**|Guozheng Ma et.al.|[2310.07418](http://arxiv.org/abs/2310.07418)|null|
+|**2023-10-11**|**Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages**|Guozheng Ma et.al.|[2310.07418](http://arxiv.org/abs/2310.07418)|**[link](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)**|
 |**2023-10-11**|**RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts**|Matteo El-Hariry et.al.|[2310.07393](http://arxiv.org/abs/2310.07393)|**[link](https://github.com/elharirymatteo/rans)**|
 |**2023-10-11**|**Learning a Reward Function for User-Preferred Appliance Scheduling**|Nikolina Čović et.al.|[2310.07389](http://arxiv.org/abs/2310.07389)|**[link](https://github.com/nikskiks/learning-reward-function-demand-response)**|
 |**2023-10-12**|**RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations**|Linfeng Liang et.al.|[2310.07378](http://arxiv.org/abs/2310.07378)|null|
@@ -150,7 +150,7 @@
 |**2023-10-10**|**BridgeHand2Vec Bridge Hand Representation**|Anna Sztyber-Betley et.al.|[2310.06624](http://arxiv.org/abs/2310.06624)|**[link](https://github.com/johny-b/bridgehand2vec)**|
 |**2023-10-10**|**SYNLOCO: Synthesizing Central Pattern Generator and Reinforcement Learning for Quadruped Locomotion**|Xinyu Zhang et.al.|[2310.06606](http://arxiv.org/abs/2310.06606)|null|
 |**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910](http://arxiv.org/abs/2310.05910)|**[link](https://github.com/ibm/salmon)**|
-|**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858](http://arxiv.org/abs/2310.05858)|null|
+|**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858](http://arxiv.org/abs/2310.05858)|**[link](https://github.com/jingliang-duan/dsac-t)**|
 |**2023-10-09**|**A Simple Open-Loop Baseline for Reinforcement Learning Locomotion Tasks**|Antonin Raffin et.al.|[2310.05808](http://arxiv.org/abs/2310.05808)|null|
 |**2023-10-09**|**Aligning Language Models with Human Preferences via a Bayesian Approach**|Jiashuo Wang et.al.|[2310.05782](http://arxiv.org/abs/2310.05782)|**[link](https://github.com/wangjs9/aligned-dpm)**|
 |**2023-10-09**|**RateRL: A Framework for Developing RL-Based Rate Adaptation Algorithms in ns-3**|Ruben Queiros et.al.|[2310.05772](http://arxiv.org/abs/2310.05772)|null|
@@ -245,7 +245,7 @@
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
-|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
