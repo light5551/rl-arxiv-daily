@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
+|**2023-10-29**|**Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households**|Gargya Gokhale et.al.|[2310.19155](http://arxiv.org/abs/2310.19155)|null|
+|**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
+|**2023-10-29**|**Automaton Distillation: Neuro-Symbolic Transfer Learning for Deep Reinforcement Learning**|Suraj Singireddy et.al.|[2310.19137](http://arxiv.org/abs/2310.19137)|null|
+|**2023-10-29**|**Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery**|Katie Z Luo et.al.|[2310.19080](http://arxiv.org/abs/2310.19080)|null|
+|**2023-10-29**|**Optimization Landscape of Policy Gradient Methods for Discrete-time Static Output Feedback**|Jingliang Duan et.al.|[2310.19022](http://arxiv.org/abs/2310.19022)|null|
+|**2023-10-29**|**Behavior Alignment via Reward Function Optimization**|Dhawal Gupta et.al.|[2310.19007](http://arxiv.org/abs/2310.19007)|null|
+|**2023-10-29**|**Spacecraft Autonomous Decision-Planning for Collision Avoidance: a Reinforcement Learning Approach**|Nicolas Bourriez et.al.|[2310.18966](http://arxiv.org/abs/2310.18966)|null|
+|**2023-10-29**|**Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game**|Zelai Xu et.al.|[2310.18940](http://arxiv.org/abs/2310.18940)|null|
+|**2023-10-29**|**Posterior Sampling with Delayed Feedback for Reinforcement Learning with Linear Function Approximation**|Nikki Lijing Kuang et.al.|[2310.18919](http://arxiv.org/abs/2310.18919)|null|
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-27**|**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**|Yining Ma et.al.|[2310.18264](http://arxiv.org/abs/2310.18264)|**[link](https://github.com/yining043/neuopt)**|
@@ -228,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
