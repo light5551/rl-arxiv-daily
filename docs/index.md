@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -20,7 +20,7 @@ layout: default
 |**2023-10-29**|**Automaton Distillation: Neuro-Symbolic Transfer Learning for Deep Reinforcement Learning**|Suraj Singireddy et.al.|[2310.19137](http://arxiv.org/abs/2310.19137)|null|
 |**2023-10-29**|**Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery**|Katie Z Luo et.al.|[2310.19080](http://arxiv.org/abs/2310.19080)|null|
 |**2023-10-29**|**Optimization Landscape of Policy Gradient Methods for Discrete-time Static Output Feedback**|Jingliang Duan et.al.|[2310.19022](http://arxiv.org/abs/2310.19022)|null|
-|**2023-10-29**|**Behavior Alignment via Reward Function Optimization**|Dhawal Gupta et.al.|[2310.19007](http://arxiv.org/abs/2310.19007)|null|
+|**2023-10-31**|**Behavior Alignment via Reward Function Optimization**|Dhawal Gupta et.al.|[2310.19007](http://arxiv.org/abs/2310.19007)|null|
 |**2023-10-29**|**Spacecraft Autonomous Decision-Planning for Collision Avoidance: a Reinforcement Learning Approach**|Nicolas Bourriez et.al.|[2310.18966](http://arxiv.org/abs/2310.18966)|null|
 |**2023-10-29**|**Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game**|Zelai Xu et.al.|[2310.18940](http://arxiv.org/abs/2310.18940)|null|
 |**2023-10-29**|**Posterior Sampling with Delayed Feedback for Reinforcement Learning with Linear Function Approximation**|Nikki Lijing Kuang et.al.|[2310.18919](http://arxiv.org/abs/2310.18919)|null|
