@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Offline RL with Observation Histories: Analyzing and Improving Sample Complexity**|Joey Hong et.al.|[2310.20663](http://arxiv.org/abs/2310.20663)|null|
+|**2023-10-31**|**"Pick-and-Pass" as a Hat-Trick Class for First-Principle Memory, Generalizability, and Interpretability Benchmarks**|Jason Wang et.al.|[2310.20654](http://arxiv.org/abs/2310.20654)|null|
+|**2023-10-31**|**LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B**|Simon Lermen et.al.|[2310.20624](http://arxiv.org/abs/2310.20624)|null|
+|**2023-10-31**|**Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback**|Max Balsells et.al.|[2310.20608](http://arxiv.org/abs/2310.20608)|null|
+|**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|null|
+|**2023-10-31**|**Amoeba: Circumventing ML-supported Network Censorship via Adversarial Reinforcement Learning**|Haoyu Liu et.al.|[2310.20469](http://arxiv.org/abs/2310.20469)|**[link](https://github.com/mobile-intelligence-lab/amoeba)**|
+|**2023-10-31**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
+|**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287](http://arxiv.org/abs/2310.20287)|null|
+|**2023-10-31**|**Beyond Average Return in Markov Decision Processes**|Alexandre Marthe et.al.|[2310.20266](http://arxiv.org/abs/2310.20266)|null|
+|**2023-10-31**|**Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization**|Ju-Hyung Lee et.al.|[2310.20215](http://arxiv.org/abs/2310.20215)|null|
 |**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
 |**2023-10-29**|**Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households**|Gargya Gokhale et.al.|[2310.19155](http://arxiv.org/abs/2310.19155)|null|
 |**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
@@ -238,6 +248,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
+|**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
