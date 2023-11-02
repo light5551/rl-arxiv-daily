@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -20,7 +20,7 @@ layout: default
 |**2023-10-31**|**Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback**|Max Balsells et.al.|[2310.20608](http://arxiv.org/abs/2310.20608)|null|
 |**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|null|
 |**2023-10-31**|**Amoeba: Circumventing ML-supported Network Censorship via Adversarial Reinforcement Learning**|Haoyu Liu et.al.|[2310.20469](http://arxiv.org/abs/2310.20469)|**[link](https://github.com/mobile-intelligence-lab/amoeba)**|
-|**2023-10-31**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
+|**2023-11-01**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
 |**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287](http://arxiv.org/abs/2310.20287)|null|
 |**2023-10-31**|**Beyond Average Return in Markov Decision Processes**|Alexandre Marthe et.al.|[2310.20266](http://arxiv.org/abs/2310.20266)|null|
 |**2023-10-31**|**Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization**|Ju-Hyung Lee et.al.|[2310.20215](http://arxiv.org/abs/2310.20215)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2023-10-31**|**Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback**|Max Balsells et.al.|[2310.20608](http://arxiv.org/abs/2310.20608)|null|
 |**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|null|
 |**2023-10-31**|**Amoeba: Circumventing ML-supported Network Censorship via Adversarial Reinforcement Learning**|Haoyu Liu et.al.|[2310.20469](http://arxiv.org/abs/2310.20469)|**[link](https://github.com/mobile-intelligence-lab/amoeba)**|
-|**2023-10-31**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
+|**2023-11-01**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
 |**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287](http://arxiv.org/abs/2310.20287)|null|
 |**2023-10-31**|**Beyond Average Return in Markov Decision Processes**|Alexandre Marthe et.al.|[2310.20266](http://arxiv.org/abs/2310.20266)|null|
 |**2023-10-31**|**Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization**|Ju-Hyung Lee et.al.|[2310.20215](http://arxiv.org/abs/2310.20215)|null|
@@ -230,7 +230,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
 
 ## SLAM
 
@@ -251,7 +251,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
 
 ## NeRF
 
@@ -313,7 +313,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
