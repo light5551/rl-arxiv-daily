@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts**|Huang Huang et.al.|[2311.01457](http://arxiv.org/abs/2311.01457)|null|
+|**2023-11-02**|**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**|Yufei Wang et.al.|[2311.01455](http://arxiv.org/abs/2311.01455)|null|
+|**2023-11-02**|**DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing**|Vint Lee et.al.|[2311.01450](http://arxiv.org/abs/2311.01450)|null|
+|**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
+|**2023-11-02**|**Learning Realistic Traffic Agents in Closed-loop**|Chris Zhang et.al.|[2311.01394](http://arxiv.org/abs/2311.01394)|null|
+|**2023-11-02**|**Formal Methods for Autonomous Systems**|Tichakorn Wongpiromsarn et.al.|[2311.01258](http://arxiv.org/abs/2311.01258)|null|
+|**2023-11-02**|**EISim: A Platform for Simulating Intelligent Edge Orchestration Solutions**|Henna Kokkonen et.al.|[2311.01224](http://arxiv.org/abs/2311.01224)|null|
+|**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
+|**2023-11-02**|**Contrastive Modules with Temporal Attention for Multi-Task Reinforcement Learning**|Siming Lan et.al.|[2311.01075](http://arxiv.org/abs/2311.01075)|null|
+|**2023-11-02**|**Dynamic Fair Federated Learning Based on Reinforcement Learning**|Weikang Chen et.al.|[2311.00959](http://arxiv.org/abs/2311.00959)|null|
 |**2023-11-02**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651](http://arxiv.org/abs/2311.00651)|null|
 |**2023-11-01**|**Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning**|E. Panagiotou et.al.|[2311.00523](http://arxiv.org/abs/2311.00523)|null|
 |**2023-11-01**|**Enhanced Generalization through Prioritization and Diversity in Self-Imitation Reinforcement Learning over Procedural Environments with Sparse Rewards**|Alain Andres et.al.|[2311.00426](http://arxiv.org/abs/2311.00426)|null|
@@ -267,6 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
