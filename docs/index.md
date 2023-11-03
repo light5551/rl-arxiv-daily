@@ -7,19 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-01**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651](http://arxiv.org/abs/2311.00651)|null|
+|**2023-11-02**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651](http://arxiv.org/abs/2311.00651)|null|
 |**2023-11-01**|**Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning**|E. Panagiotou et.al.|[2311.00523](http://arxiv.org/abs/2311.00523)|null|
 |**2023-11-01**|**Enhanced Generalization through Prioritization and Diversity in Self-Imitation Reinforcement Learning over Procedural Environments with Sparse Rewards**|Alain Andres et.al.|[2311.00426](http://arxiv.org/abs/2311.00426)|null|
 |**2023-11-01**|**Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems**|Hao Zhang et.al.|[2311.00388](http://arxiv.org/abs/2311.00388)|null|
 |**2023-11-01**|**QFree: A Universal Value Function Factorization for Multi-Agent Reinforcement Learning**|Rizhong Wang et.al.|[2311.00356](http://arxiv.org/abs/2311.00356)|null|
-|**2023-11-01**|**A Definition of Open-Ended Learning Problems for Goal-Conditioned Agents**|Olivier Sigaud et.al.|[2311.00344](http://arxiv.org/abs/2311.00344)|null|
+|**2023-11-02**|**A Definition of Open-Ended Learning Problems for Goal-Conditioned Agents**|Olivier Sigaud et.al.|[2311.00344](http://arxiv.org/abs/2311.00344)|null|
 |**2023-11-01**|**Rethinking Decision Transformer via Hierarchical Reinforcement Learning**|Yi Ma et.al.|[2311.00267](http://arxiv.org/abs/2311.00267)|null|
 |**2023-11-01**|**Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents**|Yang Deng et.al.|[2311.00262](http://arxiv.org/abs/2311.00262)|null|
 |**2023-11-01**|**Active Neural Topological Mapping for Multi-Agent Exploration**|Xinyi Yang et.al.|[2311.00252](http://arxiv.org/abs/2311.00252)|null|
