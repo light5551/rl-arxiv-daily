@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**DeliverAI: Reinforcement Learning Based Distributed Path-Sharing Network for Food Deliveries**|Ashman Mehra et.al.|[2311.02017](http://arxiv.org/abs/2311.02017)|null|
+|**2023-11-03**|**Score Models for Offline Goal-Conditioned Reinforcement Learning**|Harshit Sikchi et.al.|[2311.02013](http://arxiv.org/abs/2311.02013)|null|
+|**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
+|**2023-11-03**|**Emergence of odd elasticity in a microswimmer using deep reinforcement learning**|Li-Shing Lin et.al.|[2311.01973](http://arxiv.org/abs/2311.01973)|null|
+|**2023-11-03**|**Domain Randomization via Entropy Maximization**|Gabriele Tiboni et.al.|[2311.01885](http://arxiv.org/abs/2311.01885)|null|
+|**2023-11-03**|**RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization**|Siqi Shen et.al.|[2311.01753](http://arxiv.org/abs/2311.01753)|**[link](https://github.com/xmu-rl-3dv/riskq)**|
+|**2023-11-03**|**Epidemic Decision-making System Based Federated Reinforcement Learning**|Yangxi Zhou et.al.|[2311.01749](http://arxiv.org/abs/2311.01749)|null|
+|**2023-11-03**|**Energy Efficiency Optimization for Subterranean LoRaWAN Using A Reinforcement Learning Approach: A Direct-to-Satellite Scenario**|Kaiqiang Lin et.al.|[2311.01743](http://arxiv.org/abs/2311.01743)|null|
+|**2023-11-03**|**RDE: A Hybrid Policy Framework for Multi-Agent Path Finding Problem**|Jianqi Gao et.al.|[2311.01728](http://arxiv.org/abs/2311.01728)|null|
+|**2023-11-03**|**Robust Adversarial Reinforcement Learning via Bounded Rationality Curricula**|Aryaman Reddi et.al.|[2311.01642](http://arxiv.org/abs/2311.01642)|null|
 |**2023-11-02**|**Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts**|Huang Huang et.al.|[2311.01457](http://arxiv.org/abs/2311.01457)|null|
 |**2023-11-02**|**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**|Yufei Wang et.al.|[2311.01455](http://arxiv.org/abs/2311.01455)|null|
 |**2023-11-02**|**DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing**|Vint Lee et.al.|[2311.01450](http://arxiv.org/abs/2311.01450)|null|
@@ -277,6 +287,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
+|**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
+|**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
