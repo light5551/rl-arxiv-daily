@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**|Kun Lei et.al.|[2311.03351](http://arxiv.org/abs/2311.03351)|null|
+|**2023-11-06**|**A Brain-inspired Theory of Collective Mind Model for Efficient Social Cooperation**|Zhuoya Zhao et.al.|[2311.03150](http://arxiv.org/abs/2311.03150)|null|
+|**2023-11-06**|**Reinforcement Learning for Inverse Linear-quadratic Dynamic Non-cooperative Games**|Emin Martirosyan et.al.|[2311.03044](http://arxiv.org/abs/2311.03044)|null|
+|**2023-11-06**|**Virtual Action Actor-Critic Framework for Exploration (Student Abstract)**|Bumgeun Park et.al.|[2311.02916](http://arxiv.org/abs/2311.02916)|null|
+|**2023-11-06**|**Reinforcement Learning for Safety Testing: Lessons from A Mobile Robot Case Study**|Tom P. Huck et.al.|[2311.02907](http://arxiv.org/abs/2311.02907)|null|
+|**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847](http://arxiv.org/abs/2311.02847)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
+|**2023-11-05**|**ChaTA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs**|Yann Hicke et.al.|[2311.02775](http://arxiv.org/abs/2311.02775)|null|
+|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
+|**2023-11-05**|**Staged Reinforcement Learning for Complex Tasks through Decomposed Environments**|Rafael Pina et.al.|[2311.02746](http://arxiv.org/abs/2311.02746)|null|
+|**2023-11-05**|**Learning Independently from Causality in Multi-Agent Environments**|Rafael Pina et.al.|[2311.02741](http://arxiv.org/abs/2311.02741)|null|
 |**2023-11-03**|**DeliverAI: Reinforcement Learning Based Distributed Path-Sharing Network for Food Deliveries**|Ashman Mehra et.al.|[2311.02017](http://arxiv.org/abs/2311.02017)|null|
 |**2023-11-03**|**Score Models for Offline Goal-Conditioned Reinforcement Learning**|Harshit Sikchi et.al.|[2311.02013](http://arxiv.org/abs/2311.02013)|null|
 |**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
@@ -278,6 +288,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140](http://arxiv.org/abs/2311.03140)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|null|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
@@ -285,7 +297,7 @@ layout: default
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
