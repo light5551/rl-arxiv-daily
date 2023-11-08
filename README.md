@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Interactive Semantic Map Representation for Skill-based Visual Object Navigation**|Tatiana Zemskova et.al.|[2311.04107](http://arxiv.org/abs/2311.04107)|null|
+|**2023-11-07**|**Time-Efficient Reinforcement Learning with Stochastic Stateful Policies**|Firas Al-Hafez et.al.|[2311.04082](http://arxiv.org/abs/2311.04082)|null|
+|**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
+|**2023-11-07**|**Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation**|Lennart Röstel et.al.|[2311.04060](http://arxiv.org/abs/2311.04060)|null|
+|**2023-11-07**|**Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features**|Diogo Cruz et.al.|[2311.04046](http://arxiv.org/abs/2311.04046)|null|
+|**2023-11-07**|**A Method to Improve the Performance of Reinforcement Learning Based on the Y Operator for a Class of Stochastic Differential Equation-Based Child-Mother Systems**|Cheng Yin et.al.|[2311.04014](http://arxiv.org/abs/2311.04014)|null|
+|**2023-11-07**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2311.03899](http://arxiv.org/abs/2311.03899)|null|
+|**2023-11-07**|**On Deep Reinforcement Learning for Traffic Steering Intelligent ORAN**|Fatemeh Kavehmadavani et.al.|[2311.03853](http://arxiv.org/abs/2311.03853)|null|
+|**2023-11-07**|**Learning Decentralized Traffic Signal Controllers with Multi-Agent Graph Reinforcement Learning**|Yao Zhang et.al.|[2311.03756](http://arxiv.org/abs/2311.03756)|null|
+|**2023-11-07**|**Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent Learning**|Joseph Suárez et.al.|[2311.03736](http://arxiv.org/abs/2311.03736)|null|
 |**2023-11-06**|**Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**|Kun Lei et.al.|[2311.03351](http://arxiv.org/abs/2311.03351)|null|
 |**2023-11-06**|**A Brain-inspired Theory of Collective Mind Model for Efficient Social Cooperation**|Zhuoya Zhao et.al.|[2311.03150](http://arxiv.org/abs/2311.03150)|null|
 |**2023-11-06**|**Reinforcement Learning for Inverse Linear-quadratic Dynamic Non-cooperative Games**|Emin Martirosyan et.al.|[2311.03044](http://arxiv.org/abs/2311.03044)|null|
@@ -276,6 +286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
@@ -297,6 +308,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
+|**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/abs/2311.03965)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
+|**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484](http://arxiv.org/abs/2311.03484)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140](http://arxiv.org/abs/2311.03140)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
