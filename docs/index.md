@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
+|**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
+|**2023-11-08**|**Enhancing Multi-Agent Coordination through Common Operating Picture Integration**|Peihong Yu et.al.|[2311.04740](http://arxiv.org/abs/2311.04740)|null|
+|**2023-11-08**|**Social Motion Prediction with Cognitive Hierarchies**|Wentao Zhu et.al.|[2311.04726](http://arxiv.org/abs/2311.04726)|null|
+|**2023-11-08**|**RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xusheng Zhao et.al.|[2311.04467](http://arxiv.org/abs/2311.04467)|**[link](https://github.com/rdgcn/rdgcn)**|
+|**2023-11-07**|**Force-Constrained Visual Policy: Safe Robot-Assisted Dressing via Multi-Modal Sensing**|Zhanyi Sun et.al.|[2311.04390](http://arxiv.org/abs/2311.04390)|null|
+|**2023-11-07**|**Adaptive Stochastic Nonlinear Model Predictive Control with Look-ahead Deep Reinforcement Learning for Autonomous Vehicle Motion Control**|Baha Zarrouki et.al.|[2311.04303](http://arxiv.org/abs/2311.04303)|null|
+|**2023-11-07**|**Compilation of product-formula Hamiltonian simulation via reinforcement learning**|Lea M. Trenkwalder et.al.|[2311.04285](http://arxiv.org/abs/2311.04285)|**[link](https://github.com/leamarion/rl-for-compilation-of-product-formula-hamiltonian-simulation)**|
 |**2023-11-07**|**Interactive Semantic Map Representation for Skill-based Visual Object Navigation**|Tatiana Zemskova et.al.|[2311.04107](http://arxiv.org/abs/2311.04107)|null|
 |**2023-11-07**|**Time-Efficient Reinforcement Learning with Stochastic Stateful Policies**|Firas Al-Hafez et.al.|[2311.04082](http://arxiv.org/abs/2311.04082)|null|
 |**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
@@ -299,9 +307,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
+|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/abs/2311.03965)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
+|**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
 |**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484](http://arxiv.org/abs/2311.03484)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140](http://arxiv.org/abs/2311.03140)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
