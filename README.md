@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**LLM Augmented Hierarchical Agents**|Bharat Prakash et.al.|[2311.05596](http://arxiv.org/abs/2311.05596)|null|
+|**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
+|**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
+|**2023-11-09**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553](http://arxiv.org/abs/2311.05553)|null|
+|**2023-11-09**|**Multi-Agent Quantum Reinforcement Learning using Evolutionary Optimization**|Michael Kölle et.al.|[2311.05546](http://arxiv.org/abs/2311.05546)|null|
+|**2023-11-09**|**Anytime-Constrained Reinforcement Learning**|Jeremy McMahan et.al.|[2311.05511](http://arxiv.org/abs/2311.05511)|null|
+|**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
+|**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|null|
+|**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|null|
+|**2023-11-08**|**Reinforcement Learning Generalization for Nonlinear Systems Through Dual-Scale Homogeneity Transformations**|Abdel Gafoor Haddad et.al.|[2311.05013](http://arxiv.org/abs/2311.05013)|null|
 |**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
 |**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
 |**2023-11-08**|**Enhancing Multi-Agent Coordination through Common Operating Picture Integration**|Peihong Yu et.al.|[2311.04740](http://arxiv.org/abs/2311.04740)|null|
@@ -316,6 +326,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
+|**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
