@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -21,7 +21,7 @@ layout: default
 |**2023-11-09**|**Multi-Agent Quantum Reinforcement Learning using Evolutionary Optimization**|Michael Kölle et.al.|[2311.05546](http://arxiv.org/abs/2311.05546)|null|
 |**2023-11-09**|**Anytime-Constrained Reinforcement Learning**|Jeremy McMahan et.al.|[2311.05511](http://arxiv.org/abs/2311.05511)|null|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
-|**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|null|
+|**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|**[link](https://github.com/sheldonresearch/microsoft-scoring-system)**|
 |**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|null|
 |**2023-11-08**|**Reinforcement Learning Generalization for Nonlinear Systems Through Dual-Scale Homogeneity Transformations**|Abdel Gafoor Haddad et.al.|[2311.05013](http://arxiv.org/abs/2311.05013)|null|
 |**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
