@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Multi-Agent Reinforcement Learning for the Low-Level Control of a Quadrotor UAV**|Beomyeol Yu et.al.|[2311.06144](http://arxiv.org/abs/2311.06144)|null|
+|**2023-11-10**|**Intersection-free Robot Manipulation with Soft-Rigid Coupled Incremental Potential Contact**|Wenxin Du et.al.|[2311.05945](http://arxiv.org/abs/2311.05945)|null|
+|**2023-11-10**|**Learning-Augmented Scheduling for Solar-Powered Electric Vehicle Charging**|Tongxin Li et.al.|[2311.05941](http://arxiv.org/abs/2311.05941)|null|
+|**2023-11-10**|**Genetic Algorithm enhanced by Deep Reinforcement Learning in parent selection mechanism and mutation : Minimizing makespan in permutation flow shop scheduling problems**|Maissa Irmouli et.al.|[2311.05937](http://arxiv.org/abs/2311.05937)|null|
+|**2023-11-10**|**Clipped-Objective Policy Gradients for Pessimistic Policy Optimization**|Jared Markowitz et.al.|[2311.05846](http://arxiv.org/abs/2311.05846)|null|
+|**2023-11-10**|**Let's Reinforce Step by Step**|Sarah Pan et.al.|[2311.05821](http://arxiv.org/abs/2311.05821)|null|
+|**2023-11-09**|**Real-time Control of Electric Autonomous Mobility-on-Demand Systems via Graph Reinforcement Learning**|Aaryan Singhal et.al.|[2311.05780](http://arxiv.org/abs/2311.05780)|**[link](https://github.com/stanfordasl/graph-rl-for-eamod)**|
+|**2023-11-09**|**Advancing Algorithmic Trading: A Multi-Technique Enhancement of Deep Q-Network Models**|Gang Hu et.al.|[2311.05743](http://arxiv.org/abs/2311.05743)|null|
 |**2023-11-09**|**LLM Augmented Hierarchical Agents**|Bharat Prakash et.al.|[2311.05596](http://arxiv.org/abs/2311.05596)|null|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
 |**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
@@ -304,6 +312,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
@@ -326,6 +335,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
