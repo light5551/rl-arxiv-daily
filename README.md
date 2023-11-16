@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
+|**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
+|**2023-11-15**|**Aligning Neural Machine Translation Models: Human Feedback in Training and Inference**|Miguel Moura Ramos et.al.|[2311.09132](http://arxiv.org/abs/2311.09132)|null|
+|**2023-11-15**|**Assessing the Robustness of Intelligence-Driven Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09027](http://arxiv.org/abs/2311.09027)|null|
+|**2023-11-15**|**On the Foundation of Distributionally Robust Reinforcement Learning**|Shengbo Wang et.al.|[2311.09018](http://arxiv.org/abs/2311.09018)|null|
+|**2023-11-15**|**Adversarial Attacks to Reward Machine-based Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09014](http://arxiv.org/abs/2311.09014)|null|
+|**2023-11-15**|**Supported Trust Region Optimization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2311.08935](http://arxiv.org/abs/2311.08935)|null|
+|**2023-11-15**|**Efficiently Escaping Saddle Points for Non-Convex Policy Optimization**|Sadegh Khorasani et.al.|[2311.08914](http://arxiv.org/abs/2311.08914)|null|
+|**2023-11-15**|**An MRL-Based Design Solution for RIS-Assisted MU-MIMO Wireless System under Time-Varying Channels**|Meng-Qian Alexander Wu et.al.|[2311.08840](http://arxiv.org/abs/2311.08840)|null|
+|**2023-11-15**|**A Deep Reinforcement Learning Approach to Efficient Distributed Optimization**|Daokuan Zhu et.al.|[2311.08827](http://arxiv.org/abs/2311.08827)|null|
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393](http://arxiv.org/abs/2311.08393)|null|
 |**2023-11-14**|**Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding**|Guangyu Yang et.al.|[2311.08380](http://arxiv.org/abs/2311.08380)|null|
 |**2023-11-14**|**Workflow-Guided Response Generation for Task-Oriented Dialogue**|Do June Min et.al.|[2311.08300](http://arxiv.org/abs/2311.08300)|null|
@@ -355,6 +365,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
