@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -16,14 +16,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589](http://arxiv.org/abs/2311.13589)|null|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
-|**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|null|
+|**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|**[link](https://github.com/yannikkellerde/gnn_hex)**|
 |**2023-11-22**|**Large Language Model is a Good Policy Teacher for Training Reinforcement Learning Agents**|Zihao Zhou et.al.|[2311.13373](http://arxiv.org/abs/2311.13373)|null|
 |**2023-11-22**|**Probabilistic Inference in Reinforcement Learning Done Right**|Jean Tarbouriech et.al.|[2311.13294](http://arxiv.org/abs/2311.13294)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281](http://arxiv.org/abs/2311.13281)|null|
 |**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
 |**2023-11-22**|**AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems**|Chentao Jia et.al.|[2311.13166](http://arxiv.org/abs/2311.13166)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen et.al.|[2311.13095](http://arxiv.org/abs/2311.13095)|null|
-|**2023-11-22**|**Learning to Fly in Seconds**|Jonas Eschmann et.al.|[2311.13081](http://arxiv.org/abs/2311.13081)|null|
+|**2023-11-22**|**Learning to Fly in Seconds**|Jonas Eschmann et.al.|[2311.13081](http://arxiv.org/abs/2311.13081)|**[link](https://github.com/arplaboratory/learning-to-fly)**|
 |**2023-11-21**|**Decentralised Q-Learning for Multi-Agent Markov Decision Processes with a Satisfiability Criterion**|Keshav P. Keval et.al.|[2311.12613](http://arxiv.org/abs/2311.12613)|null|
 |**2023-11-21**|**Reinforcement Learning for the Near-Optimal Design of Zero-Delay Codes for Markov Sources**|Liam Cregg et.al.|[2311.12609](http://arxiv.org/abs/2311.12609)|null|
 |**2023-11-21**|**Scheduling Distributed Flexible Assembly Lines using Safe Reinforcement Learning with Soft Shielding**|Lele Li et.al.|[2311.12572](http://arxiv.org/abs/2311.12572)|null|
