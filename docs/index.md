@@ -20,7 +20,7 @@ layout: default
 |**2023-11-22**|**Large Language Model is a Good Policy Teacher for Training Reinforcement Learning Agents**|Zihao Zhou et.al.|[2311.13373](http://arxiv.org/abs/2311.13373)|null|
 |**2023-11-22**|**Probabilistic Inference in Reinforcement Learning Done Right**|Jean Tarbouriech et.al.|[2311.13294](http://arxiv.org/abs/2311.13294)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281](http://arxiv.org/abs/2311.13281)|null|
-|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
+|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|**[link](https://github.com/yk7333/d3po)**|
 |**2023-11-22**|**AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems**|Chentao Jia et.al.|[2311.13166](http://arxiv.org/abs/2311.13166)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen et.al.|[2311.13095](http://arxiv.org/abs/2311.13095)|null|
 |**2023-11-22**|**Learning to Fly in Seconds**|Jonas Eschmann et.al.|[2311.13081](http://arxiv.org/abs/2311.13081)|**[link](https://github.com/arplaboratory/learning-to-fly)**|
@@ -107,7 +107,7 @@ layout: default
 |**2023-11-09**|**Anytime-Constrained Reinforcement Learning**|Jeremy McMahan et.al.|[2311.05511](http://arxiv.org/abs/2311.05511)|**[link](https://github.com/jermcmahan/anytime-constraints)**|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
 |**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|**[link](https://github.com/sheldonresearch/microsoft-scoring-system)**|
-|**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|null|
+|**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|**[link](https://github.com/facebookresearch/explore)**|
 |**2023-11-08**|**Reinforcement Learning Generalization for Nonlinear Systems Through Dual-Scale Homogeneity Transformations**|Abdel Gafoor Haddad et.al.|[2311.05013](http://arxiv.org/abs/2311.05013)|null|
 |**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
 |**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
