@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language**|Di Jin et.al.|[2311.14543](http://arxiv.org/abs/2311.14543)|null|
+|**2023-11-24**|**Digital Twin-Native AI-Driven Service Architecture for Industrial Networks**|Kubra Duran et.al.|[2311.14532](http://arxiv.org/abs/2311.14532)|null|
+|**2023-11-24**|**How to ensure a safe control strategy? Towards a SRL for urban transit autonomous operation**|Zicong Zhao et.al.|[2311.14457](http://arxiv.org/abs/2311.14457)|null|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|null|
+|**2023-11-24**|**Approximation of Convex Envelope Using Reinforcement Learning**|Vivek S. Borkar et.al.|[2311.14421](http://arxiv.org/abs/2311.14421)|null|
+|**2023-11-24**|**Directly Attention Loss Adjusted Prioritized Experience Replay**|Zhuoying Chen et.al.|[2311.14390](http://arxiv.org/abs/2311.14390)|null|
+|**2023-11-24**|**AI-based Attack Graph Generation**|Sangbeom Park et.al.|[2311.14342](http://arxiv.org/abs/2311.14342)|null|
+|**2023-11-24**|**Offline Skill Generalization via Task and Motion Planning**|Shin Watanabe et.al.|[2311.14328](http://arxiv.org/abs/2311.14328)|null|
+|**2023-11-24**|**On optimal tracking portfolio in incomplete markets: The classical control and the reinforcement learning approaches**|Lijun Bo et.al.|[2311.14318](http://arxiv.org/abs/2311.14318)|null|
+|**2023-11-24**|**Multi-modal Instance Refinement for Cross-domain Action Recognition**|Yuan Qing et.al.|[2311.14281](http://arxiv.org/abs/2311.14281)|null|
 |**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589](http://arxiv.org/abs/2311.13589)|null|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
 |**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|**[link](https://github.com/yannikkellerde/gnn_hex)**|
@@ -404,6 +414,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
+|**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153](http://arxiv.org/abs/2311.14153)|null|
+|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
+|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|null|
+|**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617](http://arxiv.org/abs/2311.13617)|null|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
