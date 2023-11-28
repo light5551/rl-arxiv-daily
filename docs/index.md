@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -17,7 +17,7 @@ layout: default
 |**2023-11-24**|**Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language**|Di Jin et.al.|[2311.14543](http://arxiv.org/abs/2311.14543)|null|
 |**2023-11-24**|**Digital Twin-Native AI-Driven Service Architecture for Industrial Networks**|Kubra Duran et.al.|[2311.14532](http://arxiv.org/abs/2311.14532)|null|
 |**2023-11-24**|**How to ensure a safe control strategy? Towards a SRL for urban transit autonomous operation**|Zicong Zhao et.al.|[2311.14457](http://arxiv.org/abs/2311.14457)|null|
-|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|null|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|**[link](https://github.com/ethz-spylab/rlhf-poisoning)**|
 |**2023-11-24**|**Approximation of Convex Envelope Using Reinforcement Learning**|Vivek S. Borkar et.al.|[2311.14421](http://arxiv.org/abs/2311.14421)|null|
 |**2023-11-24**|**Directly Attention Loss Adjusted Prioritized Experience Replay**|Zhuoying Chen et.al.|[2311.14390](http://arxiv.org/abs/2311.14390)|null|
 |**2023-11-24**|**AI-based Attack Graph Generation**|Sangbeom Park et.al.|[2311.14342](http://arxiv.org/abs/2311.14342)|null|
