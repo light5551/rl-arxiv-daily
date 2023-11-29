@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2023-11-27**|**Adaptive Agents and Data Quality in Agent-Based Financial Markets**|Colin M. Van Oort et.al.|[2311.15974](http://arxiv.org/abs/2311.15974)|null|
 |**2023-11-27**|**Addressing Long-Horizon Tasks by Integrating Program Synthesis and State Machines**|Yu-An Lin et.al.|[2311.15960](http://arxiv.org/abs/2311.15960)|null|
 |**2023-11-27**|**Replay across Experiments: A Natural Extension of Off-Policy RL**|Dhruva Tirumala et.al.|[2311.15951](http://arxiv.org/abs/2311.15951)|null|
-|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925](http://arxiv.org/abs/2311.15925)|null|
+|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925](http://arxiv.org/abs/2311.15925)|**[link](https://github.com/mitrefireline/simfire)**|
 |**2023-11-27**|**A Fully Data-Driven Approach for Realistic Traffic Signal Control Using Offline Reinforcement Learning**|Jianxiong Li et.al.|[2311.15920](http://arxiv.org/abs/2311.15920)|null|
 |**2023-11-27**|**Distributed Attacks over Federated Reinforcement Learning-enabled Cell Sleep Control**|Han Zhang et.al.|[2311.15894](http://arxiv.org/abs/2311.15894)|null|
 |**2023-11-27**|**Multi-Agent Reinforcement Learning for Power Control in Wireless Networks via Adaptive Graphs**|Lorenzo Mario Amorosa et.al.|[2311.15858](http://arxiv.org/abs/2311.15858)|null|
@@ -403,7 +403,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
 
 ## SLAM
 
@@ -427,7 +427,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
 
 ## NeRF
 
@@ -538,7 +538,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -20,7 +20,7 @@ layout: default
 |**2023-11-27**|**Adaptive Agents and Data Quality in Agent-Based Financial Markets**|Colin M. Van Oort et.al.|[2311.15974](http://arxiv.org/abs/2311.15974)|null|
 |**2023-11-27**|**Addressing Long-Horizon Tasks by Integrating Program Synthesis and State Machines**|Yu-An Lin et.al.|[2311.15960](http://arxiv.org/abs/2311.15960)|null|
 |**2023-11-27**|**Replay across Experiments: A Natural Extension of Off-Policy RL**|Dhruva Tirumala et.al.|[2311.15951](http://arxiv.org/abs/2311.15951)|null|
-|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925](http://arxiv.org/abs/2311.15925)|null|
+|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925](http://arxiv.org/abs/2311.15925)|**[link](https://github.com/mitrefireline/simfire)**|
 |**2023-11-27**|**A Fully Data-Driven Approach for Realistic Traffic Signal Control Using Offline Reinforcement Learning**|Jianxiong Li et.al.|[2311.15920](http://arxiv.org/abs/2311.15920)|null|
 |**2023-11-27**|**Distributed Attacks over Federated Reinforcement Learning-enabled Cell Sleep Control**|Han Zhang et.al.|[2311.15894](http://arxiv.org/abs/2311.15894)|null|
 |**2023-11-27**|**Multi-Agent Reinforcement Learning for Power Control in Wireless Networks via Adaptive Graphs**|Lorenzo Mario Amorosa et.al.|[2311.15858](http://arxiv.org/abs/2311.15858)|null|
