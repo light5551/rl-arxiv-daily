@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059](http://arxiv.org/abs/2311.17059)|null|
+|**2023-11-28**|**An Investigation of Time Reversal Symmetry in Reinforcement Learning**|Brett Barkley et.al.|[2311.17008](http://arxiv.org/abs/2311.17008)|null|
+|**2023-11-28**|**Goal-conditioned Offline Planning from Curious Exploration**|Marco Bagatella et.al.|[2311.16996](http://arxiv.org/abs/2311.16996)|null|
+|**2023-11-28**|**ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?**|Hailin Chen et.al.|[2311.16989](http://arxiv.org/abs/2311.16989)|null|
+|**2023-11-28**|**Bidirectional Reactive Programming for Machine Learning**|Dumitru Potop Butucaru et.al.|[2311.16977](http://arxiv.org/abs/2311.16977)|null|
+|**2023-11-28**|**End-to-end Reinforcement Learning for Time-Optimal Quadcopter Flight**|Robin Ferede et.al.|[2311.16948](http://arxiv.org/abs/2311.16948)|null|
+|**2023-11-28**|**Optimization Theory Based Deep Reinforcement Learning for Resource Allocation in Ultra-Reliable Wireless Networked Control Systems**|Hamida Qumber Ali et.al.|[2311.16895](http://arxiv.org/abs/2311.16895)|null|
+|**2023-11-28**|**Digital Twin-Enhanced Deep Reinforcement Learning for Resource Management in Networks Slicing**|Zhengming Zhang et.al.|[2311.16876](http://arxiv.org/abs/2311.16876)|null|
+|**2023-11-28**|**Edge AI for Internet of Energy: Challenges and Perspectives**|Yassine Himeur et.al.|[2311.16851](http://arxiv.org/abs/2311.16851)|null|
+|**2023-11-28**|**Two-step dynamic obstacle avoidance**|Fabian Hart et.al.|[2311.16841](http://arxiv.org/abs/2311.16841)|null|
 |**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091](http://arxiv.org/abs/2311.16091)|null|
 |**2023-11-27**|**Evaluating the Impact of Personalized Value Alignment in Human-Robot Interaction: Insights into Trust and Team Performance Outcomes**|Shreyas Bhat et.al.|[2311.16051](http://arxiv.org/abs/2311.16051)|null|
 |**2023-11-27**|**Value-Based Reinforcement Learning for Digital Twins in Cloud Computing**|Van-Phuc Bui et.al.|[2311.15985](http://arxiv.org/abs/2311.15985)|null|
@@ -433,6 +443,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
+|**2023-11-28**|**The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**|James A. D. Gardner et.al.|[2311.16937](http://arxiv.org/abs/2311.16937)|**[link](https://github.com/jadgardner/neusky)**|
+|**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|null|
+|**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
+|**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
+|**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
+|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|null|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
