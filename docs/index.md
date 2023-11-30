@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Maximum Entropy Model Correction in Reinforcement Learning**|Amin Rakhsha et.al.|[2311.17855](http://arxiv.org/abs/2311.17855)|null|
+|**2023-11-29**|**Identifying Dynamic Regulation with Adversarial Surrogates**|Ron Teichner et.al.|[2311.17783](http://arxiv.org/abs/2311.17783)|null|
+|**2023-11-29**|**Q-learning Based Optimal False Data Injection Attack on Probabilistic Boolean Control Networks**|Xianlun Peng et.al.|[2311.17631](http://arxiv.org/abs/2311.17631)|null|
+|**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593](http://arxiv.org/abs/2311.17593)|null|
+|**2023-11-29**|**Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification**|Armin Ghanbarzadeh et.al.|[2311.17587](http://arxiv.org/abs/2311.17587)|null|
+|**2023-11-29**|**Bias Resilient Multi-Step Off-Policy Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2311.17565](http://arxiv.org/abs/2311.17565)|null|
+|**2023-11-29**|**Reinforcement Learning with thermal fluctuations at the nano-scale**|Francesco Boccardo et.al.|[2311.17519](http://arxiv.org/abs/2311.17519)|null|
+|**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514](http://arxiv.org/abs/2311.17514)|null|
+|**2023-11-29**|**Unveiling the Implicit Toxicity in Large Language Models**|Jiaxin Wen et.al.|[2311.17391](http://arxiv.org/abs/2311.17391)|**[link](https://github.com/thu-coai/implicit-toxicity)**|
+|**2023-11-29**|**Data-driven Bandwidth Adaptation for Radio Access Network Slices**|Panagiotis Nikolaidis et.al.|[2311.17347](http://arxiv.org/abs/2311.17347)|null|
 |**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059](http://arxiv.org/abs/2311.17059)|null|
 |**2023-11-28**|**An Investigation of Time Reversal Symmetry in Reinforcement Learning**|Brett Barkley et.al.|[2311.17008](http://arxiv.org/abs/2311.17008)|null|
 |**2023-11-28**|**Goal-conditioned Offline Planning from Curious Exploration**|Marco Bagatella et.al.|[2311.16996](http://arxiv.org/abs/2311.16996)|null|
@@ -434,6 +444,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
+|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|null|
+|**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
+|**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590](http://arxiv.org/abs/2311.17590)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
+|**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332](http://arxiv.org/abs/2311.17332)|null|
+|**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119](http://arxiv.org/abs/2311.17119)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
 |**2023-11-28**|**The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**|James A. D. Gardner et.al.|[2311.16937](http://arxiv.org/abs/2311.16937)|**[link](https://github.com/jadgardner/neusky)**|
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|null|
