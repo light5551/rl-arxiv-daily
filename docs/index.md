@@ -67,7 +67,7 @@ layout: default
 |**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589](http://arxiv.org/abs/2311.13589)|null|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
 |**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|**[link](https://github.com/yannikkellerde/gnn_hex)**|
-|**2023-11-22**|**Large Language Model is a Good Policy Teacher for Training Reinforcement Learning Agents**|Zihao Zhou et.al.|[2311.13373](http://arxiv.org/abs/2311.13373)|null|
+|**2023-11-22**|**Large Language Model is a Good Policy Teacher for Training Reinforcement Learning Agents**|Zihao Zhou et.al.|[2311.13373](http://arxiv.org/abs/2311.13373)|**[link](https://github.com/zjlab-ammi/llm4teach)**|
 |**2023-11-22**|**Probabilistic Inference in Reinforcement Learning Done Right**|Jean Tarbouriech et.al.|[2311.13294](http://arxiv.org/abs/2311.13294)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281](http://arxiv.org/abs/2311.13281)|null|
 |**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|**[link](https://github.com/yk7333/d3po)**|
@@ -130,7 +130,7 @@ layout: default
 |**2023-11-14**|**Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation**|Jiaming Wang et.al.|[2311.07992](http://arxiv.org/abs/2311.07992)|null|
 |**2023-11-14**|**AutoML for Large Capacity Modeling of Meta Ranking Systems**|Hang Yin et.al.|[2311.07870](http://arxiv.org/abs/2311.07870)|null|
 |**2023-11-14**|**A Neuro-Inspired Hierarchical Reinforcement Learning for Motor Control**|Pei Zhang et.al.|[2311.07822](http://arxiv.org/abs/2311.07822)|null|
-|**2023-11-13**|**Reinforcement Learning for Solving Stochastic Vehicle Routing Problem**|Zangir Iklassov et.al.|[2311.07708](http://arxiv.org/abs/2311.07708)|null|
+|**2023-11-13**|**Reinforcement Learning for Solving Stochastic Vehicle Routing Problem**|Zangir Iklassov et.al.|[2311.07708](http://arxiv.org/abs/2311.07708)|**[link](https://github.com/zangir/svrp)**|
 |**2023-11-13**|**Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning**|Arjun Bhardwaj et.al.|[2311.07558](http://arxiv.org/abs/2311.07558)|null|
 |**2023-11-13**|**Investigating Robustness in Cyber-Physical Systems: Specification-Centric Analysis in the face of System Deviations**|Changjian Zhang et.al.|[2311.07462](http://arxiv.org/abs/2311.07462)|null|
 |**2023-11-13**|**Goal-oriented Estimation of Multiple Markov Sources in Resource-constrained Systems**|Jiping Luo et.al.|[2311.07346](http://arxiv.org/abs/2311.07346)|null|
@@ -205,7 +205,7 @@ layout: default
 |**2023-11-02**|**Formal Methods for Autonomous Systems**|Tichakorn Wongpiromsarn et.al.|[2311.01258](http://arxiv.org/abs/2311.01258)|null|
 |**2023-11-02**|**EISim: A Platform for Simulating Intelligent Edge Orchestration Solutions**|Henna Kokkonen et.al.|[2311.01224](http://arxiv.org/abs/2311.01224)|**[link](https://github.com/hennas/eisim)**|
 |**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
-|**2023-11-02**|**Contrastive Modules with Temporal Attention for Multi-Task Reinforcement Learning**|Siming Lan et.al.|[2311.01075](http://arxiv.org/abs/2311.01075)|null|
+|**2023-11-02**|**Contrastive Modules with Temporal Attention for Multi-Task Reinforcement Learning**|Siming Lan et.al.|[2311.01075](http://arxiv.org/abs/2311.01075)|**[link](https://github.com/niiceMing/CMTA)**|
 |**2023-11-02**|**Dynamic Fair Federated Learning Based on Reinforcement Learning**|Weikang Chen et.al.|[2311.00959](http://arxiv.org/abs/2311.00959)|null|
 |**2023-11-02**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651](http://arxiv.org/abs/2311.00651)|null|
 |**2023-11-01**|**Learning impartial policies for sequential counterfactual explanations using Deep Reinforcement Learning**|E. Panagiotou et.al.|[2311.00523](http://arxiv.org/abs/2311.00523)|null|
@@ -221,7 +221,7 @@ layout: default
 |**2023-10-31**|**"Pick-and-Pass" as a Hat-Trick Class for First-Principle Memory, Generalizability, and Interpretability Benchmarks**|Jason Wang et.al.|[2310.20654](http://arxiv.org/abs/2310.20654)|null|
 |**2023-10-31**|**LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B**|Simon Lermen et.al.|[2310.20624](http://arxiv.org/abs/2310.20624)|null|
 |**2023-10-31**|**Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback**|Max Balsells et.al.|[2310.20608](http://arxiv.org/abs/2310.20608)|null|
-|**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|null|
+|**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|**[link](https://github.com/srzer/LaMo-2023)**|
 |**2023-10-31**|**Amoeba: Circumventing ML-supported Network Censorship via Adversarial Reinforcement Learning**|Haoyu Liu et.al.|[2310.20469](http://arxiv.org/abs/2310.20469)|**[link](https://github.com/mobile-intelligence-lab/amoeba)**|
 |**2023-11-01**|**Dropout Strategy in Reinforcement Learning: Limiting the Surrogate Objective Variance in Policy Optimization Methods**|Zhengpeng Xie et.al.|[2310.20380](http://arxiv.org/abs/2310.20380)|null|
 |**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287](http://arxiv.org/abs/2310.20287)|null|
@@ -402,7 +402,7 @@ layout: default
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
 |**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
 |**2023-10-05**|**Enhancing Exfiltration Path Analysis Using Reinforcement Learning**|Riddam Rishu et.al.|[2310.03667](http://arxiv.org/abs/2310.03667)|null|
-|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613](http://arxiv.org/abs/2310.03613)|null|
+|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613](http://arxiv.org/abs/2310.03613)|**[link](https://github.com/xidongwu/federated-minimax-and-conditional-stochastic-optimization)**|
 |**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|**[link](https://github.com/elenizavrakli/output-feedback-rl-temperature-control)**|
 |**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581](http://arxiv.org/abs/2310.03581)|null|
 |**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511](http://arxiv.org/abs/2310.03511)|**[link](https://github.com/rhyan10/_schnebby_)**|
@@ -474,7 +474,7 @@ layout: default
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
-|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|null|
+|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
