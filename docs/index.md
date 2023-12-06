@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144](http://arxiv.org/abs/2312.02144)|null|
-|**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019](http://arxiv.org/abs/2312.02019)|null|
+|**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019](http://arxiv.org/abs/2312.02019)|**[link](https://github.com/argmax-ai/aime)**|
 |**2023-12-04**|**CaRL: Cascade Reinforcement Learning with State Space Splitting for O-RAN based Traffic Steering**|Chuanneng Sun et.al.|[2312.01970](http://arxiv.org/abs/2312.01970)|null|
 |**2023-12-04**|**Foundations for Transfer in Reinforcement Learning: A Taxonomy of Knowledge Modalities**|Markus Wulfmeier et.al.|[2312.01939](http://arxiv.org/abs/2312.01939)|null|
 |**2023-12-04**|**A Reliable Representation with Bidirectional Transition Model for Visual Reinforcement Learning Generalization**|Xiaobo Hu et.al.|[2312.01915](http://arxiv.org/abs/2312.01915)|null|
