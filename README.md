@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2023-12-07**|**A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control**|Han Xu et.al.|[2312.04371](http://arxiv.org/abs/2312.04371)|null|
 |**2023-12-07**|**Learning to sample in Cartesian MRI**|Thomas Sanchez et.al.|[2312.04327](http://arxiv.org/abs/2312.04327)|null|
 |**2023-12-07**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326](http://arxiv.org/abs/2312.04326)|null|
-|**2023-12-07**|**Multi Actor-Critic DDPG for Robot Action Space Decomposition: A Framework to Control Large 3D Deformation of Soft Linear Objects**|Mélodie Daniel et.al.|[2312.04308](http://arxiv.org/abs/2312.04308)|null|
+|**2023-12-07**|**Multi Actor-Critic DDPG for Robot Action Space Decomposition: A Framework to Control Large 3D Deformation of Soft Linear Objects**|Mélodie Daniel et.al.|[2312.04308](http://arxiv.org/abs/2312.04308)|**[link](https://github.com/melodiedaniel/multiac6)**|
 |**2023-12-07**|**Dynamic Data-Driven Digital Twins for Blockchain Systems**|Georgios Diamantopoulos et.al.|[2312.04226](http://arxiv.org/abs/2312.04226)|null|
 |**2023-12-07**|**CODEX: A Cluster-Based Method for Explainable Reinforcement Learning**|Timothy K. Mathes et.al.|[2312.04216](http://arxiv.org/abs/2312.04216)|**[link](https://github.com/ainfosec/codex)**|
 |**2023-12-06**|**On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer**|Elie Aljalbout et.al.|[2312.03673](http://arxiv.org/abs/2312.03673)|null|
@@ -483,7 +483,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## SLAM
 
@@ -509,7 +509,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## NeRF
 
@@ -673,7 +673,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
