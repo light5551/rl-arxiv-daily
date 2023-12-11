@@ -53,10 +53,10 @@ layout: default
 |**2023-12-04**|**Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing**|Ying Yuan et.al.|[2312.01853](http://arxiv.org/abs/2312.01853)|null|
 |**2023-12-04**|**Integrated Drill Boom Hole-Seeking Control via Reinforcement Learning**|Haoqi Yan et.al.|[2312.01836](http://arxiv.org/abs/2312.01836)|null|
 |**2023-12-04**|**Learning Machine Morality through Experience and Interaction**|Elizaveta Tennant et.al.|[2312.01818](http://arxiv.org/abs/2312.01818)|null|
-|**2023-12-04**|**Class Symbolic Regression: Gotta Fit 'Em All**|Wassim Tenachi et.al.|[2312.01816](http://arxiv.org/abs/2312.01816)|null|
+|**2023-12-04**|**Class Symbolic Regression: Gotta Fit 'Em All**|Wassim Tenachi et.al.|[2312.01816](http://arxiv.org/abs/2312.01816)|**[link](https://github.com/wassimtenachi/physo)**|
 |**2023-12-01**|**Safe Reinforcement Learning in Tensor Reproducing Kernel Hilbert Space**|Xiaoyuan Cheng et.al.|[2312.00727](http://arxiv.org/abs/2312.00727)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
-|**2023-12-01**|**Explainable Fraud Detection with Deep Symbolic Classification**|Samantha Visbeek et.al.|[2312.00586](http://arxiv.org/abs/2312.00586)|null|
+|**2023-12-01**|**Explainable Fraud Detection with Deep Symbolic Classification**|Samantha Visbeek et.al.|[2312.00586](http://arxiv.org/abs/2312.00586)|**[link](https://github.com/samanthav24/dsc_fraud_detection)**|
 |**2023-12-01**|**Interior Point Constrained Reinforcement Learning with Global Convergence Guarantees**|Tingting Ni et.al.|[2312.00561](http://arxiv.org/abs/2312.00561)|null|
 |**2023-12-01**|**GFN-SR: Symbolic Regression with Generative Flow Networks**|Sida Li et.al.|[2312.00396](http://arxiv.org/abs/2312.00396)|null|
 |**2023-12-01**|**TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning**|Dohyeong Kim et.al.|[2312.00344](http://arxiv.org/abs/2312.00344)|null|
@@ -537,7 +537,7 @@ layout: default
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588](http://arxiv.org/abs/2312.00588)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
-|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|**[link](https://github.com/hturki/pynerf)**|
 |**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491](http://arxiv.org/abs/2311.18491)|null|
