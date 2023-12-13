@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
+|**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392](http://arxiv.org/abs/2312.07392)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
+|**2023-12-12**|**Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing**|Farhad Rezazadeh et.al.|[2312.07362](http://arxiv.org/abs/2312.07362)|null|
+|**2023-12-12**|**Learning from Interaction: User Interface Adaptation using Reinforcement Learning**|Daniel Gaspar-Figueiredo et.al.|[2312.07216](http://arxiv.org/abs/2312.07216)|null|
+|**2023-12-12**|**Beyond Expected Return: Accounting for Policy Reproducibility when Evaluating Reinforcement Learning Algorithms**|Manon Flageat et.al.|[2312.07178](http://arxiv.org/abs/2312.07178)|null|
+|**2023-12-12**|**Noise Distribution Decomposition based Multi-Agent Distributional Reinforcement Learning**|Wei Geng et.al.|[2312.07025](http://arxiv.org/abs/2312.07025)|null|
+|**2023-12-11**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877](http://arxiv.org/abs/2312.06877)|null|
+|**2023-12-11**|**Scalable Decentralized Cooperative Platoon using Multi-Agent Deep Reinforcement Learning**|Ahmed Abdelrahman et.al.|[2312.06858](http://arxiv.org/abs/2312.06858)|null|
+|**2023-12-11**|**Data-Driven Modeling and Verification of Perception-Based Autonomous Systems**|Thomas Waite et.al.|[2312.06848](http://arxiv.org/abs/2312.06848)|null|
 |**2023-12-11**|**Convergence of Multi-Scale Reinforcement Q-Learning Algorithms for Mean Field Game and Control Problems**|Andrea Angiuli et.al.|[2312.06659](http://arxiv.org/abs/2312.06659)|null|
 |**2023-12-11**|**Can Reinforcement Learning support policy makers? A preliminary study with Integrated Assessment Models**|Theodore Wolf et.al.|[2312.06527](http://arxiv.org/abs/2312.06527)|null|
 |**2023-12-11**|**Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and Skills**|Hongcai He et.al.|[2312.06518](http://arxiv.org/abs/2312.06518)|**[link](https://github.com/hehongc/DCMRL)**|
@@ -536,6 +546,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
