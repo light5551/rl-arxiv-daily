@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369](http://arxiv.org/abs/2312.08369)|null|
+|**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
+|**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358](http://arxiv.org/abs/2312.08358)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
+|**2023-12-13**|**Model-Free Verification for Neural Network Controlled Systems**|Han Wang et.al.|[2312.08293](http://arxiv.org/abs/2312.08293)|null|
+|**2023-12-13**|**Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents**|Nolwenn Bernard et.al.|[2312.08041](http://arxiv.org/abs/2312.08041)|null|
+|**2023-12-13**|**Secure Deep Reinforcement Learning for Dynamic Resource Allocation in Wireless MEC Networks**|Xin Hao et.al.|[2312.08016](http://arxiv.org/abs/2312.08016)|null|
+|**2023-12-13**|**Enhancing Robotic Navigation: An Evaluation of Single and Multi-Objective Reinforcement Learning Strategies**|Vicki Young et.al.|[2312.07953](http://arxiv.org/abs/2312.07953)|null|
+|**2023-12-13**|**On Designing Multi-UAV aided Wireless Powered Dynamic Communication via Hierarchical Deep Reinforcement Learning**|Ze Yu Zhao et.al.|[2312.07917](http://arxiv.org/abs/2312.07917)|null|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls**|Mohammadhossein Amouei et.al.|[2312.07885](http://arxiv.org/abs/2312.07885)|**[link](https://github.com/mhamouei/rat)**|
 |**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
 |**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392](http://arxiv.org/abs/2312.07392)|null|
 |**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
@@ -546,12 +556,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136](http://arxiv.org/abs/2312.08136)|null|
+|**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118](http://arxiv.org/abs/2312.08118)|null|
+|**2023-12-13**|**uSF: Learning Neural Semantic Field with Uncertainty**|Vsevolod Skorokhodov et.al.|[2312.08012](http://arxiv.org/abs/2312.08012)|**[link](https://github.com/sevashasla/usf)**|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
-|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|**[link](https://github.com/tyhuang0428/dreamcontrol)**|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
 |**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748](http://arxiv.org/abs/2312.05748)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
