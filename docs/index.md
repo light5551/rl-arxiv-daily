@@ -20,7 +20,7 @@ layout: default
 |**2023-12-13**|**Model-Free Verification for Neural Network Controlled Systems**|Han Wang et.al.|[2312.08293](http://arxiv.org/abs/2312.08293)|null|
 |**2023-12-13**|**Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents**|Nolwenn Bernard et.al.|[2312.08041](http://arxiv.org/abs/2312.08041)|null|
 |**2023-12-13**|**Secure Deep Reinforcement Learning for Dynamic Resource Allocation in Wireless MEC Networks**|Xin Hao et.al.|[2312.08016](http://arxiv.org/abs/2312.08016)|null|
-|**2023-12-13**|**Enhancing Robotic Navigation: An Evaluation of Single and Multi-Objective Reinforcement Learning Strategies**|Vicki Young et.al.|[2312.07953](http://arxiv.org/abs/2312.07953)|null|
+|**2023-12-14**|**Enhancing Robotic Navigation: An Evaluation of Single and Multi-Objective Reinforcement Learning Strategies**|Vicki Young et.al.|[2312.07953](http://arxiv.org/abs/2312.07953)|null|
 |**2023-12-13**|**On Designing Multi-UAV aided Wireless Powered Dynamic Communication via Hierarchical Deep Reinforcement Learning**|Ze Yu Zhao et.al.|[2312.07917](http://arxiv.org/abs/2312.07917)|null|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls**|Mohammadhossein Amouei et.al.|[2312.07885](http://arxiv.org/abs/2312.07885)|**[link](https://github.com/mhamouei/rat)**|
