@@ -41,7 +41,7 @@
 |**2023-12-13**|**RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls**|Mohammadhossein Amouei et.al.|[2312.07885](http://arxiv.org/abs/2312.07885)|**[link](https://github.com/mhamouei/rat)**|
 |**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
 |**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392](http://arxiv.org/abs/2312.07392)|null|
-|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|**[link](https://github.com/swarna-kpaul/neoplanner)**|
 |**2023-12-12**|**Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing**|Farhad Rezazadeh et.al.|[2312.07362](http://arxiv.org/abs/2312.07362)|null|
 |**2023-12-12**|**Learning from Interaction: User Interface Adaptation using Reinforcement Learning**|Daniel Gaspar-Figueiredo et.al.|[2312.07216](http://arxiv.org/abs/2312.07216)|null|
 |**2023-12-12**|**Beyond Expected Return: Accounting for Policy Reproducibility when Evaluating Reinforcement Learning Algorithms**|Manon Flageat et.al.|[2312.07178](http://arxiv.org/abs/2312.07178)|null|
@@ -68,7 +68,7 @@
 |**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125](http://arxiv.org/abs/2312.05125)|null|
 |**2023-12-08**|**An Autonomous Driving model with BEV-V2X Perception, Trajectory Prediction and Driving Planning in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
 |**2023-12-08**|**UniTSA: A Universal Reinforcement Learning Framework for V2X Traffic Signal Control**|Maonan Wang et.al.|[2312.05090](http://arxiv.org/abs/2312.05090)|**[link](https://github.com/wmn7/universal_light)**|
-|**2023-12-08**|**Robotic Control of the Deformation of Soft Linear Objects Using Deep Reinforcement Learning**|Mélodie Hani Daniel Zakaria et.al.|[2312.05056](http://arxiv.org/abs/2312.05056)|null|
+|**2023-12-08**|**Robotic Control of the Deformation of Soft Linear Objects Using Deep Reinforcement Learning**|Mélodie Hani Daniel Zakaria et.al.|[2312.05056](http://arxiv.org/abs/2312.05056)|**[link](https://github.com/melodiedaniel/robotic_control_of_dlo_using_drl)**|
 |**2023-12-07**|**Data-Driven Robust Reinforcement Learning Control of Uncertain Nonlinear Systems: Towards a Fully-Automated, Insulin-Based Artificial Pancreas**|Alexandros Tanzanakis et.al.|[2312.04503](http://arxiv.org/abs/2312.04503)|null|
 |**2023-12-07**|**Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation**|Jiayi Huang et.al.|[2312.04464](http://arxiv.org/abs/2312.04464)|null|
 |**2023-12-07**|**Model-Based Epistemic Variance of Values for Risk-Aware Policy Optimization**|Carlos E. Luis et.al.|[2312.04386](http://arxiv.org/abs/2312.04386)|null|
@@ -136,13 +136,13 @@
 |**2023-11-29**|**Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification**|Armin Ghanbarzadeh et.al.|[2311.17587](http://arxiv.org/abs/2311.17587)|null|
 |**2023-11-29**|**Bias Resilient Multi-Step Off-Policy Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2311.17565](http://arxiv.org/abs/2311.17565)|null|
 |**2023-11-29**|**Reinforcement Learning with thermal fluctuations at the nano-scale**|Francesco Boccardo et.al.|[2311.17519](http://arxiv.org/abs/2311.17519)|null|
-|**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514](http://arxiv.org/abs/2311.17514)|null|
+|**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514](http://arxiv.org/abs/2311.17514)|**[link](https://github.com/swaroop-nath/rl-qfs)**|
 |**2023-11-29**|**Unveiling the Implicit Toxicity in Large Language Models**|Jiaxin Wen et.al.|[2311.17391](http://arxiv.org/abs/2311.17391)|**[link](https://github.com/thu-coai/implicit-toxicity)**|
 |**2023-11-29**|**Data-driven Bandwidth Adaptation for Radio Access Network Slices**|Panagiotis Nikolaidis et.al.|[2311.17347](http://arxiv.org/abs/2311.17347)|null|
 |**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059](http://arxiv.org/abs/2311.17059)|null|
 |**2023-11-28**|**An Investigation of Time Reversal Symmetry in Reinforcement Learning**|Brett Barkley et.al.|[2311.17008](http://arxiv.org/abs/2311.17008)|null|
 |**2023-11-28**|**Goal-conditioned Offline Planning from Curious Exploration**|Marco Bagatella et.al.|[2311.16996](http://arxiv.org/abs/2311.16996)|null|
-|**2023-11-28**|**ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?**|Hailin Chen et.al.|[2311.16989](http://arxiv.org/abs/2311.16989)|null|
+|**2023-11-28**|**ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?**|Hailin Chen et.al.|[2311.16989](http://arxiv.org/abs/2311.16989)|**[link](https://github.com/ntunlp/opensource-llms-better-than-openai)**|
 |**2023-11-28**|**Bidirectional Reactive Programming for Machine Learning**|Dumitru Potop Butucaru et.al.|[2311.16977](http://arxiv.org/abs/2311.16977)|null|
 |**2023-11-28**|**End-to-end Reinforcement Learning for Time-Optimal Quadcopter Flight**|Robin Ferede et.al.|[2311.16948](http://arxiv.org/abs/2311.16948)|null|
 |**2023-11-28**|**Optimization Theory Based Deep Reinforcement Learning for Resource Allocation in Ultra-Reliable Wireless Networked Control Systems**|Hamida Qumber Ali et.al.|[2311.16895](http://arxiv.org/abs/2311.16895)|null|
@@ -412,7 +412,7 @@
 |**2023-10-19**|**Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark**|Jiaming Ji et.al.|[2310.12567](http://arxiv.org/abs/2310.12567)|null|
 |**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
 |**2023-10-19**|**SDGym: Low-Code Reinforcement Learning Environments using System Dynamics Models**|Emmanuel Klu et.al.|[2310.12494](http://arxiv.org/abs/2310.12494)|**[link](https://github.com/google-research/google-research)**|
-|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|**[link](https://github.com/ld-ing/qdhf)**|
 |**2023-10-18**|**Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning**|Ali Baheri et.al.|[2310.12055](http://arxiv.org/abs/2310.12055)|null|
 |**2023-10-18**|**A General Theoretical Paradigm to Understand Learning from Human Preferences**|Mohammad Gheshlaghi Azar et.al.|[2310.12036](http://arxiv.org/abs/2310.12036)|null|
 |**2023-10-19**|**Improving Generalization of Alignment with Human Preferences through Group Invariant Learning**|Rui Zheng et.al.|[2310.11971](http://arxiv.org/abs/2310.11971)|null|
