@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**Toward Computationally Efficient Inverse Reinforcement Learning via Reward Shaping**|Lauren H. Cooke et.al.|[2312.09983](http://arxiv.org/abs/2312.09983)|null|
+|**2023-12-15**|**Deep Reinforcement Learning for Joint Cruise Control and Intelligent Data Acquisition in UAVs-Assisted Sensor Networks**|Yousef Emami et.al.|[2312.09953](http://arxiv.org/abs/2312.09953)|null|
+|**2023-12-15**|**Peer Learning: Learning Complex Policies in Groups from Scratch via Action Recommendations**|Cedric Derstroff et.al.|[2312.09950](http://arxiv.org/abs/2312.09950)|null|
+|**2023-12-15**|**Assume-Guarantee Reinforcement Learning**|Milad Kazemi et.al.|[2312.09938](http://arxiv.org/abs/2312.09938)|null|
+|**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935](http://arxiv.org/abs/2312.09935)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
+|**2023-12-15**|**Sample-Efficient Learning to Solve a Real-World Labyrinth Game Using Data-Augmented Model-Based Reinforcement Learning**|Thomas Bi et.al.|[2312.09906](http://arxiv.org/abs/2312.09906)|null|
+|**2023-12-15**|**Small Dataset, Big Gains: Enhancing Reinforcement Learning by Offline Pre-Training with Model Based Augmentation**|Girolamo Macaluso et.al.|[2312.09844](http://arxiv.org/abs/2312.09844)|null|
+|**2023-12-15**|**Benchmarking the Full-Order Model Optimization Based Imitation in the Humanoid Robot Reinforcement Learning Walk**|Ekaterina Chaikovskaya et.al.|[2312.09757](http://arxiv.org/abs/2312.09757)|null|
+|**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708](http://arxiv.org/abs/2312.09708)|null|
 |**2023-12-14**|**Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking**|Jacob Eisenstein et.al.|[2312.09244](http://arxiv.org/abs/2312.09244)|null|
 |**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238](http://arxiv.org/abs/2312.09238)|null|
 |**2023-12-14**|**Vision-Language Models as a Source of Rewards**|Kate Baumli et.al.|[2312.09187](http://arxiv.org/abs/2312.09187)|null|
@@ -532,6 +542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
@@ -557,10 +568,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
+|**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
+|**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|null|
+|**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313](http://arxiv.org/abs/2312.09313)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
+|**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305](http://arxiv.org/abs/2312.09305)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
-|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
-|**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095](http://arxiv.org/abs/2312.09095)|**[link](https://github.com/eezkni/colnerf)**|
-|**2023-12-14**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093](http://arxiv.org/abs/2312.09093)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
+|**2023-12-15**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
+|**2023-12-15**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095](http://arxiv.org/abs/2312.09095)|**[link](https://github.com/eezkni/colnerf)**|
+|**2023-12-15**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093](http://arxiv.org/abs/2312.09093)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031](http://arxiv.org/abs/2312.09031)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005](http://arxiv.org/abs/2312.09005)|null|
 |**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760](http://arxiv.org/abs/2312.08760)|null|
