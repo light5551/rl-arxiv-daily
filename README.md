@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Contextual Reinforcement Learning for Offshore Wind Farm Bidding**|David Cole et.al.|[2312.10884](http://arxiv.org/abs/2312.10884)|null|
+|**2023-12-17**|**Learning to Act without Actions**|Dominik Schmidt et.al.|[2312.10812](http://arxiv.org/abs/2312.10812)|null|
+|**2023-12-17**|**Deep-Dispatch: A Deep Reinforcement Learning-Based Vehicle Dispatch Algorithm for Advanced Air Mobility**|Elaheh Sabziyan Varnousfaderani et.al.|[2312.10809](http://arxiv.org/abs/2312.10809)|null|
+|**2023-12-17**|**Language-conditioned Learning for Robotic Manipulation: A Survey**|Hongkuan Zhou et.al.|[2312.10807](http://arxiv.org/abs/2312.10807)|null|
+|**2023-12-17**|**CACTO-SL: Using Sobolev Learning to improve Continuous Actor-Critic with Trajectory Optimization**|Elisa Alboni et.al.|[2312.10666](http://arxiv.org/abs/2312.10666)|null|
+|**2023-12-17**|**Episodic Return Decomposition by Difference of Implicitly Assigned Sub-Trajectory Reward**|Haoxin Lin et.al.|[2312.10642](http://arxiv.org/abs/2312.10642)|null|
+|**2023-12-17**|**Risk-Constrained Reinforcement Learning for Inverter-Dominated Power System Controls**|Kyung-bin Kwon et.al.|[2312.10635](http://arxiv.org/abs/2312.10635)|null|
+|**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
+|**2023-12-16**|**Advancing RAN Slicing with Offline Reinforcement Learning**|Kun Yang et.al.|[2312.10547](http://arxiv.org/abs/2312.10547)|null|
+|**2023-12-16**|**Spatial Deep Learning for Site-Specific Movement Optimization of Aerial Base Stations**|Jiangbin Lyu et.al.|[2312.10490](http://arxiv.org/abs/2312.10490)|null|
 |**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
 |**2023-12-15**|**Toward Computationally Efficient Inverse Reinforcement Learning via Reward Shaping**|Lauren H. Cooke et.al.|[2312.09983](http://arxiv.org/abs/2312.09983)|null|
 |**2023-12-15**|**Deep Reinforcement Learning for Joint Cruise Control and Intelligent Data Acquisition in UAVs-Assisted Sensor Networks**|Yousef Emami et.al.|[2312.09953](http://arxiv.org/abs/2312.09953)|null|
@@ -577,6 +587,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
