@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.22
+## Updated on 2023.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**CVA Hedging by Risk-Averse Stochastic-Horizon Reinforcement Learning**|Roberto Daluiso et.al.|[2312.14044](http://arxiv.org/abs/2312.14044)|null|
+|**2023-12-21**|**Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing**|Hany Abdulsamad et.al.|[2312.14000](http://arxiv.org/abs/2312.14000)|**[link](https://github.com/hanyas/psoc)**|
+|**2023-12-21**|**Modular Neural Network Policies for Learning In-Flight Object Catching with a Robot Hand-Arm System**|Wenbin Hu et.al.|[2312.13987](http://arxiv.org/abs/2312.13987)|null|
+|**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910](http://arxiv.org/abs/2312.13910)|null|
+|**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798](http://arxiv.org/abs/2312.13798)|null|
+|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|null|
+|**2023-12-21**|**Critic-Guided Decision Transformer for Offline Reinforcement Learning**|Yuanfu Wang et.al.|[2312.13716](http://arxiv.org/abs/2312.13716)|null|
+|**2023-12-21**|**Automatic Curriculum Learning with Gradient Reward Signals**|Ryan Campbell et.al.|[2312.13565](http://arxiv.org/abs/2312.13565)|null|
+|**2023-12-20**|**Entropy-Regularized Mean-Variance Portfolio Optimization with Jumps**|Christian Bender et.al.|[2312.13409](http://arxiv.org/abs/2312.13409)|null|
 |**2023-12-20**|**First-principle-like reinforcement learning of nonlinear numerical schemes for conservation laws**|Hao-Chen Wang et.al.|[2312.13260](http://arxiv.org/abs/2312.13260)|null|
 |**2023-12-20**|**Learning Best Response Policies in Dynamic Auctions via Deep Reinforcement Learning**|Vinzenz Thoma et.al.|[2312.13232](http://arxiv.org/abs/2312.13232)|null|
 |**2023-12-20**|**Task-oriented Semantics-aware Communications for Robotic Waypoint Transmission: the Value and Age of Information Approach**|Wenchao Wu et.al.|[2312.13182](http://arxiv.org/abs/2312.13182)|null|
@@ -573,12 +583,14 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162](http://arxiv.org/abs/2312.13162)|null|
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680](http://arxiv.org/abs/2312.12680)|null|
 |**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|**[link](https://github.com/tum-vision/devo)**|
@@ -603,12 +615,21 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
+|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528](http://arxiv.org/abs/2312.13528)|null|
+|**2023-12-21**|**Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects**|David Nakath et.al.|[2312.13494](http://arxiv.org/abs/2312.13494)|null|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
+|**2023-12-20**|**ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors**|Weijia Mao et.al.|[2312.13324](http://arxiv.org/abs/2312.13324)|null|
 |**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
 |**2023-12-20**|**Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method**|Qihang Fang et.al.|[2312.12726](http://arxiv.org/abs/2312.12726)|**[link](https://github.com/qihanggh/closed-form-color-field)**|
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122](http://arxiv.org/abs/2312.12122)|null|
@@ -810,7 +831,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
