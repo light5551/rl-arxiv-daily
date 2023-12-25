@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2023-12-21**|**Modular Neural Network Policies for Learning In-Flight Object Catching with a Robot Hand-Arm System**|Wenbin Hu et.al.|[2312.13987](http://arxiv.org/abs/2312.13987)|null|
 |**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910](http://arxiv.org/abs/2312.13910)|null|
 |**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798](http://arxiv.org/abs/2312.13798)|null|
-|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|null|
+|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|**[link](https://github.com/zichunxx/panda_mujoco_gym)**|
 |**2023-12-21**|**Critic-Guided Decision Transformer for Offline Reinforcement Learning**|Yuanfu Wang et.al.|[2312.13716](http://arxiv.org/abs/2312.13716)|null|
 |**2023-12-21**|**Automatic Curriculum Learning with Gradient Reward Signals**|Ryan Campbell et.al.|[2312.13565](http://arxiv.org/abs/2312.13565)|null|
 |**2023-12-20**|**Entropy-Regularized Mean-Variance Portfolio Optimization with Jumps**|Christian Bender et.al.|[2312.13409](http://arxiv.org/abs/2312.13409)|null|
@@ -583,7 +583,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
 
 ## SLAM
 
@@ -615,7 +615,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
 
 ## NeRF
 
@@ -831,7 +831,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -20,7 +20,7 @@ layout: default
 |**2023-12-21**|**Modular Neural Network Policies for Learning In-Flight Object Catching with a Robot Hand-Arm System**|Wenbin Hu et.al.|[2312.13987](http://arxiv.org/abs/2312.13987)|null|
 |**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910](http://arxiv.org/abs/2312.13910)|null|
 |**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798](http://arxiv.org/abs/2312.13798)|null|
-|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|null|
+|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|**[link](https://github.com/zichunxx/panda_mujoco_gym)**|
 |**2023-12-21**|**Critic-Guided Decision Transformer for Offline Reinforcement Learning**|Yuanfu Wang et.al.|[2312.13716](http://arxiv.org/abs/2312.13716)|null|
 |**2023-12-21**|**Automatic Curriculum Learning with Gradient Reward Signals**|Ryan Campbell et.al.|[2312.13565](http://arxiv.org/abs/2312.13565)|null|
 |**2023-12-20**|**Entropy-Regularized Mean-Variance Portfolio Optimization with Jumps**|Christian Bender et.al.|[2312.13409](http://arxiv.org/abs/2312.13409)|null|
