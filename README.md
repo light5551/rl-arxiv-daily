@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248](http://arxiv.org/abs/2312.17248)|null|
+|**2023-12-28**|**Resilient Constrained Reinforcement Learning**|Dongsheng Ding et.al.|[2312.17194](http://arxiv.org/abs/2312.17194)|null|
+|**2023-12-28**|**Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?**|Gunshi Gupta et.al.|[2312.17168](http://arxiv.org/abs/2312.17168)|**[link](https://github.com/gunshi/offline_active_rl)**|
+|**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116](http://arxiv.org/abs/2312.17116)|**[link](https://github.com/wadiuvatzy/sam-g)**|
+|**2023-12-28**|**When Metaverses Meet Vehicle Road Cooperation: Multi-Agent DRL-Based Stackelberg Game for Vehicular Twins Migration**|Jiawen Kang et.al.|[2312.17081](http://arxiv.org/abs/2312.17081)|null|
+|**2023-12-28**|**Model-aware reinforcement learning for high-performance Bayesian experimental design in quantum metrology**|Federico Belliardo et.al.|[2312.16985](http://arxiv.org/abs/2312.16985)|null|
+|**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965](http://arxiv.org/abs/2312.16965)|null|
+|**2023-12-28**|**RLPlanner: Reinforcement Learning based Floorplanning for Chiplets with Fast Thermal Analysis**|Yuanyuan Duan et.al.|[2312.16895](http://arxiv.org/abs/2312.16895)|null|
+|**2023-12-28**|**Tail-Learning: Adaptive Learning Method for Mitigating Tail Latency in Autonomous Edge Systems**|Cheng Zhang et.al.|[2312.16883](http://arxiv.org/abs/2312.16883)|null|
+|**2023-12-28**|**Emergence and Causality in Complex Systems: A Survey on Causal Emergence and Related Quantitative Studies**|Bing Yuan et.al.|[2312.16815](http://arxiv.org/abs/2312.16815)|null|
 |**2023-12-26**|**A Bayesian Framework of Deep Reinforcement Learning for Joint O-RAN/MEC Orchestration**|Fahri Wisnu Murti et.al.|[2312.16142](http://arxiv.org/abs/2312.16142)|null|
 |**2023-12-26**|**Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity**|Siqi Lai et.al.|[2312.16044](http://arxiv.org/abs/2312.16044)|**[link](https://github.com/usail-hkust/llmtscs)**|
 |**2023-12-26**|**Aligning Large Language Models with Human Preferences through Representation Engineering**|Wenhao Liu et.al.|[2312.15997](http://arxiv.org/abs/2312.15997)|null|
@@ -609,6 +619,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162](http://arxiv.org/abs/2312.13162)|null|
@@ -641,6 +652,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
+|**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
+|**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
