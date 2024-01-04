@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**NODEC: Neural ODE For Optimal Control of Unknown Dynamical Systems**|Cheng Chi et.al.|[2401.01836](http://arxiv.org/abs/2401.01836)|null|
+|**2024-01-03**|**Optimizing UAV-UGV Coalition Operations: A Hybrid Clustering and Multi-Agent Reinforcement Learning Approach for Path Planning in Obstructed Environment**|Shamyo Brotee et.al.|[2401.01481](http://arxiv.org/abs/2401.01481)|null|
 |**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
 |**2024-01-02**|**Mirror Descent for Stochastic Control Problems with Measure-valued Controls**|Bekzhan Kerimkulov et.al.|[2401.01198](http://arxiv.org/abs/2401.01198)|null|
 |**2024-01-02**|**Deep Learning Driven Buffer-Aided Cooperative Networks for B5G/6G: Challenges, Solutions, and Future Opportunities**|Peng Xu et.al.|[2401.01195](http://arxiv.org/abs/2401.01195)|null|
@@ -630,6 +632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
@@ -661,6 +664,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
 |**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|null|
