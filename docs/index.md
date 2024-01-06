@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.05
+## Updated on 2024.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-04**|**A Survey Analyzing Generalization in Deep Reinforcement Learning**|Ezgi Korkmaz et.al.|[2401.02349](http://arxiv.org/abs/2401.02349)|null|
-|**2024-01-04**|**A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2401.02325](http://arxiv.org/abs/2401.02325)|null|
+|**2024-01-04**|**A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2401.02325](http://arxiv.org/abs/2401.02325)|**[link](https://github.com/parvin95/generalized-quantile-huber-loss)**|
 |**2024-01-04**|**Policy-regularized Offline Multi-objective Reinforcement Learning**|Qian Lin et.al.|[2401.02244](http://arxiv.org/abs/2401.02244)|**[link](https://github.com/qianlin04/prmorl)**|
 |**2024-01-04**|**Trajectory-Oriented Policy Optimization with Sparse Rewards**|Guojian Wang et.al.|[2401.02225](http://arxiv.org/abs/2401.02225)|null|
 |**2024-01-04**|**OFDM-Based Digital Semantic Communication with Importance Awareness**|Chuanhong Liu et.al.|[2401.02178](http://arxiv.org/abs/2401.02178)|null|
