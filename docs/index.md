@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**A unified uncertainty-aware exploration: Combining epistemic and aleatory uncertainty**|Parvin Malekzadeh et.al.|[2401.02914](http://arxiv.org/abs/2401.02914)|null|
+|**2024-01-05**|**Deep Reinforcement Learning for Local Path Following of an Autonomous Formula SAE Vehicle**|Harvey Merton et.al.|[2401.02903](http://arxiv.org/abs/2401.02903)|null|
+|**2024-01-05**|**Synergistic Formulaic Alpha Generation for Quantitative Trading based on Reinforcement Learning**|Hong-Gi Shin et.al.|[2401.02710](http://arxiv.org/abs/2401.02710)|null|
+|**2024-01-05**|**Adaptive Discounting of Training Time Attacks**|Ridhima Bector et.al.|[2401.02652](http://arxiv.org/abs/2401.02652)|null|
+|**2024-01-05**|**Improving sample efficiency of high dimensional Bayesian optimization with MCMC**|Zeji Yi et.al.|[2401.02650](http://arxiv.org/abs/2401.02650)|null|
+|**2024-01-05**|**Simple Hierarchical Planning with Diffusion**|Chang Chen et.al.|[2401.02644](http://arxiv.org/abs/2401.02644)|null|
+|**2024-01-04**|**Structured Matrix Learning under Arbitrary Entrywise Dependence and Estimation of Markov Transition Kernel**|Jinhang Chai et.al.|[2401.02520](http://arxiv.org/abs/2401.02520)|null|
+|**2024-01-04**|**Towards an Adaptable and Generalizable Optimization Engine in Decision and Control: A Meta Reinforcement Learning Approach**|Sungwook Yang et.al.|[2401.02508](http://arxiv.org/abs/2401.02508)|null|
 |**2024-01-04**|**A Survey Analyzing Generalization in Deep Reinforcement Learning**|Ezgi Korkmaz et.al.|[2401.02349](http://arxiv.org/abs/2401.02349)|null|
 |**2024-01-04**|**A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2401.02325](http://arxiv.org/abs/2401.02325)|**[link](https://github.com/pmalekzadeh/A-robust-quantile-huber-loss)**|
 |**2024-01-04**|**Policy-regularized Offline Multi-objective Reinforcement Learning**|Qian Lin et.al.|[2401.02244](http://arxiv.org/abs/2401.02244)|**[link](https://github.com/qianlin04/prmorl)**|
@@ -671,6 +679,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588](http://arxiv.org/abs/2401.02588)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
