@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Deep Reinforcement Multi-agent Learning framework for Information Gathering with Local Gaussian Processes for Water Monitoring**|Samuel Yanes Luis et.al.|[2401.04631](http://arxiv.org/abs/2401.04631)|null|
+|**2024-01-09**|**Scalable Policies for the Dynamic Traveling Multi-Maintainer Problem with Alerts**|Peter Verleijsdonk et.al.|[2401.04574](http://arxiv.org/abs/2401.04574)|null|
+|**2024-01-09**|**i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance**|Haoyang Chen et.al.|[2401.04429](http://arxiv.org/abs/2401.04429)|null|
+|**2024-01-09**|**StarCraftImage: A Dataset For Prototyping Spatial Reasoning Methods For Multi-Agent Environments**|Sean Kulinski et.al.|[2401.04290](http://arxiv.org/abs/2401.04290)|null|
+|**2024-01-08**|**Curiosity & Entropy Driven Unsupervised RL in Multiple Environments**|Shaurya Dewan et.al.|[2401.04198](http://arxiv.org/abs/2401.04198)|null|
 |**2024-01-08**|**A Minimaximalist Approach to Reinforcement Learning from Human Feedback**|Gokul Swamy et.al.|[2401.04056](http://arxiv.org/abs/2401.04056)|null|
 |**2024-01-08**|**Behavioural Cloning in VizDoom**|Ryan Spick et.al.|[2401.03993](http://arxiv.org/abs/2401.03993)|null|
 |**2024-01-08**|**Guiding drones by information gain**|Alouette van Hove et.al.|[2401.03947](http://arxiv.org/abs/2401.03947)|null|
