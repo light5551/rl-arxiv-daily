@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251](http://arxiv.org/abs/2401.05251)|null|
+|**2024-01-10**|**Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces**|Yaqi Duan et.al.|[2401.05233](http://arxiv.org/abs/2401.05233)|null|
+|**2024-01-10**|**Modelling, Positioning, and Deep Reinforcement Learning Path Tracking Control of Scaled Robotic Vehicles: Design and Experimental Validation**|Carmine Caponio et.al.|[2401.05194](http://arxiv.org/abs/2401.05194)|null|
+|**2024-01-10**|**DRL-based Latency-Aware Network Slicing in O-RAN with Time-Varying SLAs**|Raoul Raftopoulos et.al.|[2401.05042](http://arxiv.org/abs/2401.05042)|null|
+|**2024-01-10**|**Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk**|Dennis Ulmer et.al.|[2401.05033](http://arxiv.org/abs/2401.05033)|null|
+|**2024-01-10**|**An Information Theoretic Approach to Interaction-Grounded Learning**|Xiaoyan Hu et.al.|[2401.05015](http://arxiv.org/abs/2401.05015)|null|
+|**2024-01-10**|**Advancing ECG Diagnosis Using Reinforcement Learning on Global Waveform Variations Related to P Wave and PR Interval**|Rumsha Fatima et.al.|[2401.04938](http://arxiv.org/abs/2401.04938)|null|
+|**2024-01-10**|**Fully Decentralized Cooperative Multi-Agent Reinforcement Learning: A Survey**|Jiechuan Jiang et.al.|[2401.04934](http://arxiv.org/abs/2401.04934)|null|
+|**2024-01-09**|**Graph Learning-based Fleet Scheduling for Urban Air Mobility under Operational Constraints, Varying Demand & Uncertainties**|Steve Paul et.al.|[2401.04851](http://arxiv.org/abs/2401.04851)|null|
 |**2024-01-09**|**Deep Reinforcement Multi-agent Learning framework for Information Gathering with Local Gaussian Processes for Water Monitoring**|Samuel Yanes Luis et.al.|[2401.04631](http://arxiv.org/abs/2401.04631)|null|
 |**2024-01-09**|**Scalable Policies for the Dynamic Traveling Multi-Maintainer Problem with Alerts**|Peter Verleijsdonk et.al.|[2401.04574](http://arxiv.org/abs/2401.04574)|null|
 |**2024-01-09**|**i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance**|Haoyang Chen et.al.|[2401.04429](http://arxiv.org/abs/2401.04429)|null|
@@ -695,6 +704,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771](http://arxiv.org/abs/2401.03771)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
