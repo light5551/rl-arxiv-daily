@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|null|
+|**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080](http://arxiv.org/abs/2401.06080)|**[link](https://github.com/openlmlab/moss-rlhf)**|
+|**2024-01-11**|**Spatial-Aware Deep Reinforcement Learning for the Traveling Officer Problem**|Niklas Strauß et.al.|[2401.05969](http://arxiv.org/abs/2401.05969)|null|
+|**2024-01-11**|**Machine Learning Insides OptVerse AI Solver: Design Principles and Applications**|Xijun Li et.al.|[2401.05960](http://arxiv.org/abs/2401.05960)|null|
+|**2024-01-11**|**Optimistic Model Rollouts for Pessimistic Offline Policy Optimization**|Yuanzhao Zhai et.al.|[2401.05899](http://arxiv.org/abs/2401.05899)|null|
+|**2024-01-11**|**Safe reinforcement learning in uncertain contexts**|Dominik Baumann et.al.|[2401.05876](http://arxiv.org/abs/2401.05876)|**[link](https://github.com/baumanndominik/cme_based_classification_bounds)**|
+|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
+|**2024-01-11**|**Interactions between dynamic team composition and coordination: An agent-based modeling approach**|Darío Blanco-Fernández et.al.|[2401.05832](http://arxiv.org/abs/2401.05832)|null|
+|**2024-01-11**|**Towards Goal-Oriented Agents for Evolving Problems Observed via Conversation**|Michael Free et.al.|[2401.05822](http://arxiv.org/abs/2401.05822)|null|
+|**2024-01-11**|**Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents**|Quentin Delfosse et.al.|[2401.05821](http://arxiv.org/abs/2401.05821)|null|
 |**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251](http://arxiv.org/abs/2401.05251)|null|
 |**2024-01-10**|**Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces**|Yaqi Duan et.al.|[2401.05233](http://arxiv.org/abs/2401.05233)|null|
 |**2024-01-10**|**Modelling, Positioning, and Deep Reinforcement Learning Path Tracking Control of Scaled Robotic Vehicles: Design and Experimental Validation**|Carmine Caponio et.al.|[2401.05194](http://arxiv.org/abs/2401.05194)|null|
@@ -671,6 +681,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
+|**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|null|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|**[link](https://github.com/A3DV/VIRec)**|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
@@ -704,6 +716,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
+|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
+|**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
