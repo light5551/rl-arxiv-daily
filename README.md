@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.13
+## Updated on 2024.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251](http://arxiv.org/abs/2401.05251)|null|
 |**2024-01-10**|**Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces**|Yaqi Duan et.al.|[2401.05233](http://arxiv.org/abs/2401.05233)|null|
 |**2024-01-10**|**Modelling, Positioning, and Deep Reinforcement Learning Path Tracking Control of Scaled Robotic Vehicles: Design and Experimental Validation**|Carmine Caponio et.al.|[2401.05194](http://arxiv.org/abs/2401.05194)|null|
-|**2024-01-10**|**DRL-based Latency-Aware Network Slicing in O-RAN with Time-Varying SLAs**|Raoul Raftopoulos et.al.|[2401.05042](http://arxiv.org/abs/2401.05042)|null|
+|**2024-01-11**|**DRL-based Latency-Aware Network Slicing in O-RAN with Time-Varying SLAs**|Raoul Raftopoulos et.al.|[2401.05042](http://arxiv.org/abs/2401.05042)|null|
 |**2024-01-10**|**Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk**|Dennis Ulmer et.al.|[2401.05033](http://arxiv.org/abs/2401.05033)|null|
 |**2024-01-10**|**An Information Theoretic Approach to Interaction-Grounded Learning**|Xiaoyan Hu et.al.|[2401.05015](http://arxiv.org/abs/2401.05015)|null|
 |**2024-01-10**|**Advancing ECG Diagnosis Using Reinforcement Learning on Global Waveform Variations Related to P Wave and PR Interval**|Rumsha Fatima et.al.|[2401.04938](http://arxiv.org/abs/2401.04938)|null|
@@ -682,7 +682,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## SLAM
 
@@ -719,7 +719,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## NeRF
 
@@ -969,7 +969,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
