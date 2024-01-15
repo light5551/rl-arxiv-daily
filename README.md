@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**NetMind: Adaptive RAN Baseband Function Placement by GCN Encoding and Maze-solving DRL**|Haiyuan Li et.al.|[2401.06722](http://arxiv.org/abs/2401.06722)|**[link](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)**|
+|**2024-01-12**|**Identifying Policy Gradient Subspaces**|Jan Schneider et.al.|[2401.06604](http://arxiv.org/abs/2401.06604)|null|
+|**2024-01-12**|**Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study**|Shangding Gu et.al.|[2401.06603](http://arxiv.org/abs/2401.06603)|null|
+|**2024-01-12**|**Maximum Causal Entropy Inverse Reinforcement Learning for Mean-Field Games**|Berkay Anahtarci et.al.|[2401.06566](http://arxiv.org/abs/2401.06566)|null|
+|**2024-01-12**|**Personalized Reinforcement Learning with a Budget of Policies**|Dmitry Ivanov et.al.|[2401.06514](http://arxiv.org/abs/2401.06514)|**[link](https://github.com/dimonenka/rl_policy_budget)**|
+|**2024-01-12**|**AI-enabled Priority and Auction-Based Spectrum Management for 6G**|Mina Khadem et.al.|[2401.06484](http://arxiv.org/abs/2401.06484)|null|
+|**2024-01-12**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470](http://arxiv.org/abs/2401.06470)|null|
+|**2024-01-12**|**Striking a Balance in Fairness for Dynamic Systems Through Reinforcement Learning**|Yaowei Hu et.al.|[2401.06318](http://arxiv.org/abs/2401.06318)|null|
+|**2024-01-12**|**A Semantic-Aware Multiple Access Scheme for Distributed, Dynamic 6G-Based Applications**|Hamidreza Mazandarani et.al.|[2401.06308](http://arxiv.org/abs/2401.06308)|null|
+|**2024-01-11**|**Model-Free Reinforcement Learning for Automated Fluid Administration in Critical Care**|Elham Estiri et.al.|[2401.06299](http://arxiv.org/abs/2401.06299)|null|
 |**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|**[link](https://github.com/rucaibox/rlmec)**|
 |**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080](http://arxiv.org/abs/2401.06080)|**[link](https://github.com/openlmlab/moss-rlhf)**|
 |**2024-01-11**|**Spatial-Aware Deep Reinforcement Learning for the Traveling Officer Problem**|Niklas Strauß et.al.|[2401.05969](http://arxiv.org/abs/2401.05969)|null|
@@ -725,6 +735,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
