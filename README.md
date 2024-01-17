@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-01-12**|**Personalized Reinforcement Learning with a Budget of Policies**|Dmitry Ivanov et.al.|[2401.06514](http://arxiv.org/abs/2401.06514)|**[link](https://github.com/dimonenka/rl_policy_budget)**|
 |**2024-01-12**|**AI-enabled Priority and Auction-Based Spectrum Management for 6G**|Mina Khadem et.al.|[2401.06484](http://arxiv.org/abs/2401.06484)|null|
 |**2024-01-12**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470](http://arxiv.org/abs/2401.06470)|null|
-|**2024-01-12**|**Striking a Balance in Fairness for Dynamic Systems Through Reinforcement Learning**|Yaowei Hu et.al.|[2401.06318](http://arxiv.org/abs/2401.06318)|null|
+|**2024-01-12**|**Striking a Balance in Fairness for Dynamic Systems Through Reinforcement Learning**|Yaowei Hu et.al.|[2401.06318](http://arxiv.org/abs/2401.06318)|**[link](https://github.com/yaoweihu/fairness-in-rl)**|
 |**2024-01-12**|**A Semantic-Aware Multiple Access Scheme for Distributed, Dynamic 6G-Based Applications**|Hamidreza Mazandarani et.al.|[2401.06308](http://arxiv.org/abs/2401.06308)|null|
 |**2024-01-11**|**Model-Free Reinforcement Learning for Automated Fluid Administration in Critical Care**|Elham Estiri et.al.|[2401.06299](http://arxiv.org/abs/2401.06299)|null|
 |**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|**[link](https://github.com/rucaibox/rlmec)**|
@@ -692,7 +692,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
 
 ## SLAM
 
@@ -729,7 +729,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
 
 ## NeRF
 
@@ -980,7 +980,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -21,7 +21,7 @@ layout: default
 |**2024-01-12**|**Personalized Reinforcement Learning with a Budget of Policies**|Dmitry Ivanov et.al.|[2401.06514](http://arxiv.org/abs/2401.06514)|**[link](https://github.com/dimonenka/rl_policy_budget)**|
 |**2024-01-12**|**AI-enabled Priority and Auction-Based Spectrum Management for 6G**|Mina Khadem et.al.|[2401.06484](http://arxiv.org/abs/2401.06484)|null|
 |**2024-01-12**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470](http://arxiv.org/abs/2401.06470)|null|
-|**2024-01-12**|**Striking a Balance in Fairness for Dynamic Systems Through Reinforcement Learning**|Yaowei Hu et.al.|[2401.06318](http://arxiv.org/abs/2401.06318)|null|
+|**2024-01-12**|**Striking a Balance in Fairness for Dynamic Systems Through Reinforcement Learning**|Yaowei Hu et.al.|[2401.06318](http://arxiv.org/abs/2401.06318)|**[link](https://github.com/yaoweihu/fairness-in-rl)**|
 |**2024-01-12**|**A Semantic-Aware Multiple Access Scheme for Distributed, Dynamic 6G-Based Applications**|Hamidreza Mazandarani et.al.|[2401.06308](http://arxiv.org/abs/2401.06308)|null|
 |**2024-01-11**|**Model-Free Reinforcement Learning for Automated Fluid Administration in Critical Care**|Elham Estiri et.al.|[2401.06299](http://arxiv.org/abs/2401.06299)|null|
 |**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|**[link](https://github.com/rucaibox/rlmec)**|
