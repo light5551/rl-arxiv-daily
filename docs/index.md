@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**On Quantum Natural Policy Gradients**|André Sequeira et.al.|[2401.08307](http://arxiv.org/abs/2401.08307)|null|
+|**2024-01-16**|**Sum Throughput Maximization in Multi-BD Symbiotic Radio NOMA Network Assisted by Active-STAR-RIS**|Rahman Saadat Yeganeh et.al.|[2401.08301](http://arxiv.org/abs/2401.08301)|null|
+|**2024-01-16**|**PRewrite: Prompt Rewriting with Reinforcement Learning**|Weize Kong et.al.|[2401.08189](http://arxiv.org/abs/2401.08189)|null|
+|**2024-01-16**|**IoTWarden: A Deep Reinforcement Learning Based Real-time Defense System to Mitigate Trigger-action IoT Attacks**|Md Morshed Alam et.al.|[2401.08141](http://arxiv.org/abs/2401.08141)|null|
+|**2024-01-16**|**CycLight: learning traffic signal cooperation with a cycle-level strategy**|Gengyue Han et.al.|[2401.08121](http://arxiv.org/abs/2401.08121)|null|
+|**2024-01-15**|**Survey of Learning Approaches for Robotic In-Hand Manipulation**|Abraham Itzhak Weinberg et.al.|[2401.07915](http://arxiv.org/abs/2401.07915)|null|
+|**2024-01-15**|**Learned Best-Effort LLM Serving**|Siddharth Jha et.al.|[2401.07886](http://arxiv.org/abs/2401.07886)|null|
+|**2024-01-15**|**The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise**|Shuze Liu et.al.|[2401.07844](http://arxiv.org/abs/2401.07844)|null|
+|**2024-01-15**|**Inferring Preferences from Demonstrations in Multi-Objective Residential Energy Management**|Junlin Lu et.al.|[2401.07722](http://arxiv.org/abs/2401.07722)|null|
+|**2024-01-15**|**Go-Explore for Residential Energy Management**|Junlin Lu et.al.|[2401.07710](http://arxiv.org/abs/2401.07710)|null|
 |**2024-01-12**|**NetMind: Adaptive RAN Baseband Function Placement by GCN Encoding and Maze-solving DRL**|Haiyuan Li et.al.|[2401.06722](http://arxiv.org/abs/2401.06722)|**[link](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)**|
 |**2024-01-12**|**Identifying Policy Gradient Subspaces**|Jan Schneider et.al.|[2401.06604](http://arxiv.org/abs/2401.06604)|null|
 |**2024-01-12**|**Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study**|Shangding Gu et.al.|[2401.06603](http://arxiv.org/abs/2401.06603)|null|
@@ -726,6 +736,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935](http://arxiv.org/abs/2401.07935)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
