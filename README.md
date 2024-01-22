@@ -30,8 +30,8 @@
 |**2024-01-18**|**Exploration and Anti-Exploration with Distributional Random Network Distillation**|Kai Yang et.al.|[2401.09750](http://arxiv.org/abs/2401.09750)|null|
 |**2024-01-18**|**A HPC Co-Scheduler with Reinforcement Learning**|Abel Souza et.al.|[2401.09706](http://arxiv.org/abs/2401.09706)|null|
 |**2024-01-17**|**Central Limit Theorem for Two-Timescale Stochastic Approximation with Markovian Noise: Theory and Applications**|Jie Hu et.al.|[2401.09339](http://arxiv.org/abs/2401.09339)|null|
-|**2024-01-17**|**Vision-driven Autonomous Flight of UAV Along River Using Deep Reinforcement Learning with Dynamic Expert Guidance**|Zihan Wang et.al.|[2401.09332](http://arxiv.org/abs/2401.09332)|null|
-|**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286](http://arxiv.org/abs/2401.09286)|null|
+|**2024-01-17**|**Vision-driven Autonomous Flight of UAV Along River Using Deep Reinforcement Learning with Dynamic Expert Guidance**|Zihan Wang et.al.|[2401.09332](http://arxiv.org/abs/2401.09332)|**[link](https://github.com/lijianwen1997/deep-reinforcement-learning-with-dynamic-expert-guidance)**|
+|**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286](http://arxiv.org/abs/2401.09286)|**[link](https://github.com/alpaficia/SEAC_Pytorch_release)**|
 |**2024-01-17**|**An Efficient Generalizable Framework for Visuomotor Policies via Control-aware Augmentation and Privilege-guided Distillation**|Yinuo Zhao et.al.|[2401.09258](http://arxiv.org/abs/2401.09258)|null|
 |**2024-01-17**|**LLMs for Relational Reasoning: How Far are We?**|Zhiming Li et.al.|[2401.09042](http://arxiv.org/abs/2401.09042)|null|
 |**2024-01-17**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034](http://arxiv.org/abs/2401.09034)|null|
@@ -65,7 +65,7 @@
 |**2024-01-11**|**Machine Learning Insides OptVerse AI Solver: Design Principles and Applications**|Xijun Li et.al.|[2401.05960](http://arxiv.org/abs/2401.05960)|null|
 |**2024-01-11**|**Optimistic Model Rollouts for Pessimistic Offline Policy Optimization**|Yuanzhao Zhai et.al.|[2401.05899](http://arxiv.org/abs/2401.05899)|null|
 |**2024-01-11**|**Safe reinforcement learning in uncertain contexts**|Dominik Baumann et.al.|[2401.05876](http://arxiv.org/abs/2401.05876)|**[link](https://github.com/baumanndominik/cme_based_classification_bounds)**|
-|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
+|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|**[link](https://github.com/thomyphan/rl4mapf)**|
 |**2024-01-11**|**Interactions between dynamic team composition and coordination: An agent-based modeling approach**|Darío Blanco-Fernández et.al.|[2401.05832](http://arxiv.org/abs/2401.05832)|null|
 |**2024-01-11**|**Towards Goal-Oriented Agents for Evolving Problems Observed via Conversation**|Michael Free et.al.|[2401.05822](http://arxiv.org/abs/2401.05822)|null|
 |**2024-01-11**|**Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents**|Quentin Delfosse et.al.|[2401.05821](http://arxiv.org/abs/2401.05821)|null|
@@ -252,7 +252,7 @@
 |**2023-12-08**|**Modeling Risk in Reinforcement Learning: A Literature Mapping**|Leonardo Villalobos-Arias et.al.|[2312.05231](http://arxiv.org/abs/2312.05231)|null|
 |**2023-12-08**|**DARLEI: Deep Accelerated Reinforcement Learning with Evolutionary Intelligence**|Saeejith Nair et.al.|[2312.05171](http://arxiv.org/abs/2312.05171)|null|
 |**2023-12-08**|**Onflow: an online portfolio allocation algorithm**|Gabriel Turinici et.al.|[2312.05169](http://arxiv.org/abs/2312.05169)|null|
-|**2023-12-08**|**Multi-Agent Reinforcement Learning via Distributed MPC as a Function Approximator**|Samuel Mallick et.al.|[2312.05166](http://arxiv.org/abs/2312.05166)|null|
+|**2023-12-08**|**Multi-Agent Reinforcement Learning via Distributed MPC as a Function Approximator**|Samuel Mallick et.al.|[2312.05166](http://arxiv.org/abs/2312.05166)|**[link](https://github.com/SamuelMallick/dmpcrl-concept)**|
 |**2023-12-08**|**A Review of Cooperation in Multi-agent Learning**|Yali Du et.al.|[2312.05162](http://arxiv.org/abs/2312.05162)|null|
 |**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125](http://arxiv.org/abs/2312.05125)|null|
 |**2023-12-08**|**An Autonomous Driving model with BEV-V2X Perception, Trajectory Prediction and Driving Planning in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
@@ -591,7 +591,7 @@
 |**2023-10-20**|**Reward Shaping for Happier Autonomous Cyber Security Agents**|Elizabeth Bates et.al.|[2310.13565](http://arxiv.org/abs/2310.13565)|null|
 |**2023-10-20**|**Provable Benefits of Multi-task RL under Non-Markovian Decision Making Processes**|Ruiquan Huang et.al.|[2310.13550](http://arxiv.org/abs/2310.13550)|null|
 |**2023-10-20**|**Towards Understanding Sycophancy in Language Models**|Mrinank Sharma et.al.|[2310.13548](http://arxiv.org/abs/2310.13548)|**[link](https://github.com/meg-tong/sycophancy-eval)**|
-|**2023-10-19**|**Towards Robust Offline Reinforcement Learning under Diverse Data Corruption**|Rui Yang et.al.|[2310.12955](http://arxiv.org/abs/2310.12955)|null|
+|**2023-10-19**|**Towards Robust Offline Reinforcement Learning under Diverse Data Corruption**|Rui Yang et.al.|[2310.12955](http://arxiv.org/abs/2310.12955)|**[link](https://github.com/yangrui2015/riql)**|
 |**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937](http://arxiv.org/abs/2310.12937)|null|
 |**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934](http://arxiv.org/abs/2310.12934)|**[link](https://github.com/d-tiapkin/gflownet-rl)**|
 |**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|**[link](https://github.com/eureka-research/Eureka)**|
