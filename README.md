@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations**|Matthias Lehmann et.al.|[2401.13662](http://arxiv.org/abs/2401.13662)|**[link](https://github.com/matt00n/policygradientsjax)**|
+|**2024-01-24**|**Emergence of anti-coordinated patterns in snowdrift game by reinforcement learning**|Zhen-Wei Ding et.al.|[2401.13497](http://arxiv.org/abs/2401.13497)|null|
+|**2024-01-24**|**Multi-Agent Diagnostics for Robustness via Illuminated Diversity**|Mikayel Samvelyan et.al.|[2401.13460](http://arxiv.org/abs/2401.13460)|null|
+|**2024-01-24**|**Symbolic Equation Solving via Reinforcement Learning**|Lennart Dabelow et.al.|[2401.13447](http://arxiv.org/abs/2401.13447)|null|
+|**2024-01-24**|**TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation**|Wei Chen et.al.|[2401.13362](http://arxiv.org/abs/2401.13362)|null|
+|**2024-01-24**|**SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning**|Guoxin Chen et.al.|[2401.13246](http://arxiv.org/abs/2401.13246)|null|
+|**2024-01-24**|**DittoGym: Learning to Control Soft Shape-Shifting Robots**|Suning Huang et.al.|[2401.13231](http://arxiv.org/abs/2401.13231)|**[link](https://github.com/suninghuang19/dittogym)**|
+|**2024-01-23**|**NLBAC: A Neural Ordinary Differential Equations-based Framework for Stable and Safe Reinforcement Learning**|Liqun Zhao et.al.|[2401.13148](http://arxiv.org/abs/2401.13148)|null|
+|**2024-01-23**|**The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts**|Lingfeng Shen et.al.|[2401.13136](http://arxiv.org/abs/2401.13136)|null|
+|**2024-01-23**|**Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities**|Pierce Howell et.al.|[2401.13127](http://arxiv.org/abs/2401.13127)|null|
 |**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975](http://arxiv.org/abs/2401.12975)|**[link](https://github.com/umass-foundation-model/hazard)**|
 |**2024-01-23**|**Reward-Relevance-Filtered Linear Offline Reinforcement Learning**|Angela Zhou et.al.|[2401.12934](http://arxiv.org/abs/2401.12934)|null|
 |**2024-01-23**|**Active Inference as a Model of Agency**|Lancelot Da Costa et.al.|[2401.12917](http://arxiv.org/abs/2401.12917)|null|
@@ -794,6 +804,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
 |**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451](http://arxiv.org/abs/2401.12451)|null|
