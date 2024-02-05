@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Position Paper: Generalized grammar rules and structure-based generalization beyond classical equivariance for lexical tasks and transduction**|Mircea Petrache et.al.|[2402.01629](http://arxiv.org/abs/2402.01629)|null|
+|**2024-02-02**|**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**|Abdul Basit et.al.|[2402.01574](http://arxiv.org/abs/2402.01574)|null|
+|**2024-02-02**|**A Hybrid Strategy for Chat Transcript Summarization**|Pratik K. Biswas et.al.|[2402.01510](http://arxiv.org/abs/2402.01510)|null|
+|**2024-02-02**|**Brain-Like Replay Naturally Emerges in Reinforcement Learning Agents**|Jiyi Wang et.al.|[2402.01467](http://arxiv.org/abs/2402.01467)|null|
+|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|null|
+|**2024-02-02**|**Learning the Market: Sentiment-Based Ensemble Trading Agents**|Andrew Ye et.al.|[2402.01441](http://arxiv.org/abs/2402.01441)|null|
+|**2024-02-02**|**StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback**|Shihan Dou et.al.|[2402.01391](http://arxiv.org/abs/2402.01391)|null|
+|**2024-02-02**|**To the Max: Reinventing Reward in Reinforcement Learning**|Grigorii Veviurko et.al.|[2402.01361](http://arxiv.org/abs/2402.01361)|null|
+|**2024-02-02**|**Parametric-Task MAP-Elites**|Timothée Anne et.al.|[2402.01275](http://arxiv.org/abs/2402.01275)|null|
+|**2024-02-02**|**Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems**|Neharika Jali et.al.|[2402.01147](http://arxiv.org/abs/2402.01147)|null|
 |**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
 |**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823](http://arxiv.org/abs/2402.00823)|null|
 |**2024-02-01**|**Leveraging Approximate Model-based Shielding for Probabilistic Safety Guarantees in Continuous Environments**|Alexander W. Goodall et.al.|[2402.00816](http://arxiv.org/abs/2402.00816)|null|
@@ -855,6 +865,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
+|**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217](http://arxiv.org/abs/2402.01217)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
