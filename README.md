@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**MusicRL: Aligning Music Generation to Human Preferences**|Geoffrey Cideron et.al.|[2402.04229](http://arxiv.org/abs/2402.04229)|null|
+|**2024-02-06**|**Reinforcement Learning with Ensemble Model Predictive Safety Certification**|Sven Gronauer et.al.|[2402.04182](http://arxiv.org/abs/2402.04182)|null|
+|**2024-02-06**|**Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**|Daniel Bogdoll et.al.|[2402.04168](http://arxiv.org/abs/2402.04168)|null|
+|**2024-02-06**|**Harnessing the Plug-and-Play Controller by Prompting**|Hao Wang et.al.|[2402.04160](http://arxiv.org/abs/2402.04160)|null|
+|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080](http://arxiv.org/abs/2402.04080)|null|
+|**2024-02-06**|**Collaborative Deep Reinforcement Learning for Resource Optimization in Non-Terrestrial Networks**|Yang Cao et.al.|[2402.04056](http://arxiv.org/abs/2402.04056)|null|
+|**2024-02-06**|**REBORN: Reinforcement-Learned Boundary Segmentation with Iterative Training for Unsupervised ASR**|Liang-Hsuan Tseng et.al.|[2402.03988](http://arxiv.org/abs/2402.03988)|null|
+|**2024-02-06**|**Joint Intrinsic Motivation for Coordinated Exploration in Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2402.03972](http://arxiv.org/abs/2402.03972)|**[link](https://github.com/mtoquebiau/joint-intrinsic-motivation)**|
+|**2024-02-06**|**In-context learning agents are asymmetric belief updaters**|Johannes A. Schubert et.al.|[2402.03969](http://arxiv.org/abs/2402.03969)|null|
+|**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947](http://arxiv.org/abs/2402.03947)|null|
 |**2024-02-05**|**Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models**|Anthony Sicilia et.al.|[2402.03284](http://arxiv.org/abs/2402.03284)|null|
 |**2024-02-05**|**A Framework for Partially Observed Reward-States in RLHF**|Chinmaya Kausik et.al.|[2402.03282](http://arxiv.org/abs/2402.03282)|null|
 |**2024-02-05**|**MobilityGPT: Enhanced Human Mobility Modeling with a GPT model**|Ammar Haydari et.al.|[2402.03264](http://arxiv.org/abs/2402.03264)|null|
@@ -845,6 +855,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
@@ -884,14 +895,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
 |**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
-|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
-|**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217](http://arxiv.org/abs/2402.01217)|null|
+|**2024-02-06**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217](http://arxiv.org/abs/2402.01217)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
