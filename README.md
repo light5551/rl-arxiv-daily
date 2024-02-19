@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**RLVF: Learning from Verbal Feedback without Overgeneralization**|Moritz Stephan et.al.|[2402.10893](http://arxiv.org/abs/2402.10893)|null|
+|**2024-02-16**|**Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg**|Philip Arm et.al.|[2402.10837](http://arxiv.org/abs/2402.10837)|null|
+|**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820](http://arxiv.org/abs/2402.10820)|null|
+|**2024-02-16**|**Double Duality: Variational Primal-Dual Policy Optimization for Constrained Reinforcement Learning**|Zihao Li et.al.|[2402.10810](http://arxiv.org/abs/2402.10810)|null|
+|**2024-02-16**|**Modelling crypto markets by multi-agent reinforcement learning**|Johann Lussange et.al.|[2402.10803](http://arxiv.org/abs/2402.10803)|**[link](https://github.com/johannlussange/symba_crypto)**|
+|**2024-02-16**|**Policy Learning for Off-Dynamics RL with Deficient Support**|Linh Le Pham Van et.al.|[2402.10765](http://arxiv.org/abs/2402.10765)|null|
+|**2024-02-16**|**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**|Yuxuan Kuang et.al.|[2402.10670](http://arxiv.org/abs/2402.10670)|null|
+|**2024-02-16**|**Direct Preference Optimization with an Offset**|Afra Amini et.al.|[2402.10571](http://arxiv.org/abs/2402.10571)|null|
+|**2024-02-16**|**Discovery of an exchange-only gate sequence for CNOT with record-low gate time using reinforcement learning**|Violeta N. Ivanova-Rohling et.al.|[2402.10559](http://arxiv.org/abs/2402.10559)|null|
+|**2024-02-16**|**Provably Sample Efficient RLHF via Active Preference Optimization**|Nirjhar Das et.al.|[2402.10500](http://arxiv.org/abs/2402.10500)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
 |**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
@@ -966,6 +976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
