@@ -595,7 +595,7 @@ layout: default
 |**2023-11-16**|**Safety Aware Autonomous Path Planning Using Model Predictive Reinforcement Learning for Inland Waterways**|Astrid Vanneste et.al.|[2311.09878](http://arxiv.org/abs/2311.09878)|null|
 |**2023-11-16**|**Short vs. Long-term Coordination of Drones: When Distributed Optimization Meets Deep Reinforcement Learning**|Chuhao Qin et.al.|[2311.09852](http://arxiv.org/abs/2311.09852)|null|
 |**2023-11-16**|**Runtime Verification of Learning Properties for Reinforcement Learning Algorithms**|Tommaso Mannucci et.al.|[2311.09811](http://arxiv.org/abs/2311.09811)|null|
-|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|null|
+|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|**[link](https://github.com/genglinliu/unknownbench)**|
 |**2023-11-16**|**Augmenting Unsupervised Reinforcement Learning with Self-Reference**|Andrew Zhao et.al.|[2311.09692](http://arxiv.org/abs/2311.09692)|null|
 |**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
 |**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
