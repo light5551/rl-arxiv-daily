@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Q-FOX Learning: Breaking Tradition in Reinforcement Learning**|Mahmood Alqaseer et.al.|[2402.16562](http://arxiv.org/abs/2402.16562)|null|
+|**2024-02-26**|**Model-based deep reinforcement learning for accelerated learning from flow simulations**|Andre Weiner et.al.|[2402.16543](http://arxiv.org/abs/2402.16543)|**[link](https://github.com/janisgeise/mb_drl_for_accelerated_learning_from_cfd)**|
+|**2024-02-26**|**Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning**|Matteo Caldana et.al.|[2402.16517](http://arxiv.org/abs/2402.16517)|null|
 |**2024-02-26**|**AI-enabled STAR-RIS aided MISO ISAC Secure Communications**|Zhengyu Zhu et.al.|[2402.16413](http://arxiv.org/abs/2402.16413)|null|
 |**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
 |**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
