@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**SplAgger: Split Aggregation for Meta-Reinforcement Learning**|Jacob Beck et.al.|[2403.03020](http://arxiv.org/abs/2403.03020)|null|
+|**2024-03-05**|**Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**|Yuan Lin et.al.|[2403.02882](http://arxiv.org/abs/2403.02882)|null|
+|**2024-03-05**|**SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies**|Alexander Spiridonov et.al.|[2403.02831](http://arxiv.org/abs/2403.02831)|null|
+|**2024-03-05**|**A Zero-Shot Reinforcement Learning Strategy for Autonomous Guidewire Navigation**|Valentina Scarponi et.al.|[2403.02777](http://arxiv.org/abs/2403.02777)|null|
+|**2024-03-05**|**Fighting Game Adaptive Background Music for Improved Gameplay**|Ibrahim Khan et.al.|[2403.02701](http://arxiv.org/abs/2403.02701)|null|
+|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635](http://arxiv.org/abs/2403.02635)|null|
+|**2024-03-04**|**DACO: Towards Application-Driven and Comprehensive Data Analysis via Code Generation**|Xueqing Wu et.al.|[2403.02528](http://arxiv.org/abs/2403.02528)|**[link](https://github.com/shirley-wu/daco)**|
 |**2024-03-02**|**Improving the Validity of Automatically Generated Feedback via Reinforcement Learning**|Alexander Scarlatos et.al.|[2403.01304](http://arxiv.org/abs/2403.01304)|**[link](https://github.com/umass-ml4ed/feedback-gen-dpo)**|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
 |**2024-03-02**|**Balancing Exploration and Exploitation in LLM using Soft RLLF for Enhanced Negation Understanding**|Ha-Thanh Nguyen et.al.|[2403.01185](http://arxiv.org/abs/2403.01185)|null|
@@ -1074,6 +1084,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058](http://arxiv.org/abs/2403.01058)|null|
