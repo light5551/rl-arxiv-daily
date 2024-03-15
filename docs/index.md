@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -22,7 +22,7 @@ layout: default
 |**2024-03-13**|**Optimizing Risk-averse Human-AI Hybrid Teams**|Andrew Fuchs et.al.|[2403.08386](http://arxiv.org/abs/2403.08386)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-03-13**|**LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments**|Maonan Wang et.al.|[2403.08337](http://arxiv.org/abs/2403.08337)|**[link](https://github.com/traffic-alpha/llm-assisted-light)**|
-|**2024-03-13**|**HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback**|Ang Li et.al.|[2403.08309](http://arxiv.org/abs/2403.08309)|null|
+|**2024-03-14**|**HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback**|Ang Li et.al.|[2403.08309](http://arxiv.org/abs/2403.08309)|null|
 |**2024-03-13**|**SpaceOctopus: An Octopus-inspired Motion Planning Framework for Multi-arm Space Robot**|Wenbo Zhao et.al.|[2403.08219](http://arxiv.org/abs/2403.08219)|null|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
 |**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
