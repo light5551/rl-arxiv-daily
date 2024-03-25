@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
+|**2024-03-22**|**Planning with a Learned Policy Basis to Optimally Solve Complex Tasks**|Guillermo Infante et.al.|[2403.15301](http://arxiv.org/abs/2403.15301)|null|
+|**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
+|**2024-03-22**|**Parametric PDE Control with Deep Reinforcement Learning and Differentiable L0-Sparse Polynomial Policies**|Nicolò Botteghi et.al.|[2403.15267](http://arxiv.org/abs/2403.15267)|null|
+|**2024-03-22**|**Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement**|Jonathan Pirnay et.al.|[2403.15180](http://arxiv.org/abs/2403.15180)|null|
+|**2024-03-22**|**Subequivariant Reinforcement Learning Framework for Coordinated Motion Control**|Haoyu Wang et.al.|[2403.15100](http://arxiv.org/abs/2403.15100)|null|
+|**2024-03-22**|**Improved Long Short-Term Memory-based Wastewater Treatment Simulators for Deep Reinforcement Learning**|Esmaeel Mohammadi et.al.|[2403.15091](http://arxiv.org/abs/2403.15091)|null|
+|**2024-03-22**|**Automated Feature Selection for Inverse Reinforcement Learning**|Daulet Baimukashev et.al.|[2403.15079](http://arxiv.org/abs/2403.15079)|null|
+|**2024-03-22**|**Testing for Fault Diversity in Reinforcement Learning**|Quentin Mazouni et.al.|[2403.15065](http://arxiv.org/abs/2403.15065)|null|
+|**2024-03-22**|**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation**|Zhenrui Yue et.al.|[2403.14952](http://arxiv.org/abs/2403.14952)|null|
 |**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|null|
 |**2024-03-21**|**A Mathematical Introduction to Deep Reinforcement Learning for 5G/6G Applications**|Farhad Rezazadeh et.al.|[2403.14516](http://arxiv.org/abs/2403.14516)|null|
 |**2024-03-21**|**Constrained Reinforcement Learning with Smoothed Log Barrier Function**|Baohe Zhang et.al.|[2403.14508](http://arxiv.org/abs/2403.14508)|null|
@@ -1206,6 +1216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
+|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
 |**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412](http://arxiv.org/abs/2403.14412)|**[link](https://github.com/sarroccoluigi/combinerf)**|
 |**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
