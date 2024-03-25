@@ -35,7 +35,7 @@
 |**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
 |**2024-03-20**|**Dynamic Reward Adjustment in Multi-Reward Reinforcement Learning for Counselor Reflection Generation**|Do June Min et.al.|[2403.13578](http://arxiv.org/abs/2403.13578)|**[link](https://github.com/michigannlp/dynaopt)**|
 |**2024-03-20**|**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**|Wenxuan Song et.al.|[2403.13358](http://arxiv.org/abs/2403.13358)|null|
-|**2024-03-20**|**Waypoint-Based Reinforcement Learning for Robot Manipulation Tasks**|Shaunak A. Mehta et.al.|[2403.13281](http://arxiv.org/abs/2403.13281)|null|
+|**2024-03-20**|**Waypoint-Based Reinforcement Learning for Robot Manipulation Tasks**|Shaunak A. Mehta et.al.|[2403.13281](http://arxiv.org/abs/2403.13281)|**[link](https://github.com/vt-collab/rl-waypoints)**|
 |**2024-03-20**|**Federated reinforcement learning for robot motion planning with zero-shot generalization**|Zhenyuan Yuan et.al.|[2403.13245](http://arxiv.org/abs/2403.13245)|null|
 |**2024-03-20**|**Graph Attention Network-based Block Propagation with Optimal AoI and Reputation in Web 3.0**|Jiana Liao et.al.|[2403.13237](http://arxiv.org/abs/2403.13237)|null|
 |**2024-03-20**|**Safety-Aware Reinforcement Learning for Electric Vehicle Charging Station Management in Distribution Network**|Jiarong Fan et.al.|[2403.13236](http://arxiv.org/abs/2403.13236)|null|
@@ -75,8 +75,8 @@
 |**2024-03-14**|**Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision**|Zhiqing Sun et.al.|[2403.09472](http://arxiv.org/abs/2403.09472)|**[link](https://github.com/edward-sun/easy-to-hard)**|
 |**2024-03-14**|**A Deep Reinforcement Learning Approach for Autonomous Reconfigurable Intelligent Surfaces**|Hyuckjin Choi et.al.|[2403.09270](http://arxiv.org/abs/2403.09270)|null|
 |**2024-03-14**|**Leveraging Constraint Programming in a Deep Learning Approach for Dynamically Solving the Flexible Job-Shop Scheduling Problem**|Imanol Echeverria et.al.|[2403.09249](http://arxiv.org/abs/2403.09249)|null|
-|**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|null|
-|**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|null|
+|**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|**[link](https://github.com/tsinghua-fib-lab/drl-rumor-mitigation)**|
+|**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|**[link](https://github.com/tsinghua-fib-lab/metrognn)**|
 |**2024-03-14**|**SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning**|Nicholas Zolman et.al.|[2403.09110](http://arxiv.org/abs/2403.09110)|**[link](https://github.com/nzolman/sindy-rl)**|
 |**2024-03-14**|**CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**|Martin Weyssow et.al.|[2403.09032](http://arxiv.org/abs/2403.09032)|**[link](https://github.com/martin-wey/codeultrafeedback)**|
 |**2024-03-13**|**TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning**|Shangding Gu et.al.|[2403.08694](http://arxiv.org/abs/2403.08694)|null|
@@ -915,7 +915,7 @@
 |**2023-11-06**|**Reinforcement Learning for Safety Testing: Lessons from A Mobile Robot Case Study**|Tom P. Huck et.al.|[2311.02907](http://arxiv.org/abs/2311.02907)|null|
 |**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847](http://arxiv.org/abs/2311.02847)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
 |**2023-11-05**|**ChaTA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs**|Yann Hicke et.al.|[2311.02775](http://arxiv.org/abs/2311.02775)|null|
-|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
+|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|**[link](https://github.com/ds-jrg/causal-qa-rl)**|
 |**2023-11-05**|**Staged Reinforcement Learning for Complex Tasks through Decomposed Environments**|Rafael Pina et.al.|[2311.02746](http://arxiv.org/abs/2311.02746)|null|
 |**2023-11-05**|**Learning Independently from Causality in Multi-Agent Environments**|Rafael Pina et.al.|[2311.02741](http://arxiv.org/abs/2311.02741)|null|
 |**2023-11-03**|**DeliverAI: Reinforcement Learning Based Distributed Path-Sharing Network for Food Deliveries**|Ashman Mehra et.al.|[2311.02017](http://arxiv.org/abs/2311.02017)|null|
@@ -1131,7 +1131,7 @@
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718](http://arxiv.org/abs/2310.03718)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
-|**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
+|**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|**[link](https://github.com/ZHZisZZ/modpo)**|
 |**2023-10-05**|**Enhancing Exfiltration Path Analysis Using Reinforcement Learning**|Riddam Rishu et.al.|[2310.03667](http://arxiv.org/abs/2310.03667)|null|
 |**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613](http://arxiv.org/abs/2310.03613)|**[link](https://github.com/xidongwu/federated-minimax-and-conditional-stochastic-optimization)**|
 |**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|**[link](https://github.com/elenizavrakli/output-feedback-rl-temperature-control)**|
@@ -1231,7 +1231,7 @@
 |**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/abs/2403.11899)|null|
 |**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865](http://arxiv.org/abs/2403.11865)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
-|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|null|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|**[link](https://github.com/zyqz97/aerial_lifting)**|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
 |**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
@@ -1249,7 +1249,7 @@
 |**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119](http://arxiv.org/abs/2403.10119)|null|
 |**2024-03-15**|**DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video**|Huiqiang Sun et.al.|[2403.10103](http://arxiv.org/abs/2403.10103)|null|
 |**2024-03-15**|**Den-SOFT: Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience**|Xiaohang Yu et.al.|[2403.09973](http://arxiv.org/abs/2403.09973)|null|
-|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|**[link](https://github.com/mrsecant/gaussiangrasper)**|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
 |**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
@@ -1365,7 +1365,7 @@
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
-|**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|null|
+|**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|**[link](https://github.com/xuanhuang0/vanerf)**|
 |**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825](http://arxiv.org/abs/2401.00825)|**[link](https://github.com/benhenryl/sharpnerf)**|
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
