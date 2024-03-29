@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-03-27**|**Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment**|Li Siyao et.al.|[2403.18811](http://arxiv.org/abs/2403.18811)|null|
 |**2024-03-27**|**CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning**|Elliot Chane-Sane et.al.|[2403.18765](http://arxiv.org/abs/2403.18765)|null|
 |**2024-03-27**|**Probabilistic Model Checking of Stochastic Reinforcement Learning Policies**|Dennis Gross et.al.|[2403.18725](http://arxiv.org/abs/2403.18725)|null|
-|**2024-03-27**|**Fpga-Based Neural Thrust Controller for UAVs**|Sharif Azem et.al.|[2403.18703](http://arxiv.org/abs/2403.18703)|null|
+|**2024-03-28**|**FPGA-Based Neural Thrust Controller for UAVs**|Sharif Azem et.al.|[2403.18703](http://arxiv.org/abs/2403.18703)|null|
 |**2024-03-27**|**Safe and Robust Reinforcement-Learning: Principles and Practice**|Taku Yamagata et.al.|[2403.18539](http://arxiv.org/abs/2403.18539)|null|
 |**2024-03-27**|**Bridging the Gap: Regularized Reinforcement Learning for Improved Classical Motion Planning with Safety Modules**|Elias Goldsztejn et.al.|[2403.18524](http://arxiv.org/abs/2403.18524)|null|
 |**2024-03-27**|**VersaT2I: Improving Text-to-Image Models with Versatile Reward**|Jianshu Guo et.al.|[2403.18493](http://arxiv.org/abs/2403.18493)|null|
@@ -1201,7 +1201,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## SLAM
 
@@ -1252,7 +1252,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## NeRF
 
@@ -1655,7 +1655,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -17,7 +17,7 @@ layout: default
 |**2024-03-27**|**Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment**|Li Siyao et.al.|[2403.18811](http://arxiv.org/abs/2403.18811)|null|
 |**2024-03-27**|**CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning**|Elliot Chane-Sane et.al.|[2403.18765](http://arxiv.org/abs/2403.18765)|null|
 |**2024-03-27**|**Probabilistic Model Checking of Stochastic Reinforcement Learning Policies**|Dennis Gross et.al.|[2403.18725](http://arxiv.org/abs/2403.18725)|null|
-|**2024-03-27**|**Fpga-Based Neural Thrust Controller for UAVs**|Sharif Azem et.al.|[2403.18703](http://arxiv.org/abs/2403.18703)|null|
+|**2024-03-28**|**FPGA-Based Neural Thrust Controller for UAVs**|Sharif Azem et.al.|[2403.18703](http://arxiv.org/abs/2403.18703)|null|
 |**2024-03-27**|**Safe and Robust Reinforcement-Learning: Principles and Practice**|Taku Yamagata et.al.|[2403.18539](http://arxiv.org/abs/2403.18539)|null|
 |**2024-03-27**|**Bridging the Gap: Regularized Reinforcement Learning for Improved Classical Motion Planning with Safety Modules**|Elias Goldsztejn et.al.|[2403.18524](http://arxiv.org/abs/2403.18524)|null|
 |**2024-03-27**|**VersaT2I: Improving Text-to-Image Models with Versatile Reward**|Jianshu Guo et.al.|[2403.18493](http://arxiv.org/abs/2403.18493)|null|
