@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
+|**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
+|**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
+|**2024-04-03**|**Solving a Real-World Optimization Problem Using Proximal Policy Optimization with Curriculum Learning and Reward Engineering**|Abhijeet Pendyala et.al.|[2404.02577](http://arxiv.org/abs/2404.02577)|null|
+|**2024-04-03**|**SliceIt! -- A Dual Simulator Framework for Learning Robot Food Slicing**|Cristian C. Beltran-Hernandez et.al.|[2404.02569](http://arxiv.org/abs/2404.02569)|**[link](https://github.com/omron-sinicx/sliceit)**|
+|**2024-04-03**|**Grid-Mapping Pseudo-Count Constraint for Offline Reinforcement Learning**|Yi Shen et.al.|[2404.02545](http://arxiv.org/abs/2404.02545)|**[link](https://github.com/lasttarnished/gpc-sac)**|
+|**2024-04-03**|**Joint Optimization on Uplink OFDMA and MU-MIMO for IEEE 802.11ax: Deep Hierarchical Reinforcement Learning Approach**|Hyeonho Noh et.al.|[2404.02486](http://arxiv.org/abs/2404.02486)|null|
+|**2024-04-03**|**Deep Reinforcement Learning for Traveling Purchaser Problems**|Haofeng Yuan et.al.|[2404.02476](http://arxiv.org/abs/2404.02476)|null|
+|**2024-04-03**|**Electric Vehicle Routing Problem for Emergency Power Supply: Towards Telecom Base Station Relief**|Daisuke Kikuta et.al.|[2404.02448](http://arxiv.org/abs/2404.02448)|null|
+|**2024-04-03**|**AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning with Value-based Dataset**|Dongsu Lee et.al.|[2404.02429](http://arxiv.org/abs/2404.02429)|null|
 |**2024-04-02**|**Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL**|Golnaz Mesbahi et.al.|[2404.02113](http://arxiv.org/abs/2404.02113)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
@@ -1279,6 +1289,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
+|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
+|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/abs/2404.02185)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/abs/2404.02155)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812](http://arxiv.org/abs/2404.01812)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
