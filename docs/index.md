@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
+|**2024-04-05**|**Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation**|Lanpei Li et.al.|[2404.04219](http://arxiv.org/abs/2404.04219)|null|
+|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205](http://arxiv.org/abs/2404.04205)|null|
+|**2024-04-05**|**Intervention-Assisted Policy Gradient Methods for Online Stochastic Queuing Network Optimization: Technical Report**|Jerrod Wigmore et.al.|[2404.04106](http://arxiv.org/abs/2404.04106)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**Demonstration Guided Multi-Objective Reinforcement Learning**|Junlin Lu et.al.|[2404.03997](http://arxiv.org/abs/2404.03997)|null|
+|**2024-04-05**|**A proximal policy optimization based intelligent home solar management**|Kode Creer et.al.|[2404.03888](http://arxiv.org/abs/2404.03888)|null|
+|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869](http://arxiv.org/abs/2404.03869)|null|
+|**2024-04-04**|**Exploration is Harder than Prediction: Cryptographically Separating Reinforcement Learning from Supervised Learning**|Noah Golowich et.al.|[2404.03774](http://arxiv.org/abs/2404.03774)|null|
+|**2024-04-04**|**A Reinforcement Learning based Reset Policy for CDCL SAT Solvers**|Chunxiao Li et.al.|[2404.03753](http://arxiv.org/abs/2404.03753)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
@@ -1299,6 +1309,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
