@@ -20,11 +20,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
-|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
 |**2024-04-18**|**Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters**|Lukas Brunke et.al.|[2404.12329](http://arxiv.org/abs/2404.12329)|null|
 |**2024-04-18**|**ASID: Active Exploration for System Identification in Robotic Manipulation**|Marius Memmel et.al.|[2404.12308](http://arxiv.org/abs/2404.12308)|null|
 |**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
-|**2024-04-18**|**Aligning language models with human preferences**|Tomasz Korbak et.al.|[2404.12150](http://arxiv.org/abs/2404.12150)|null|
+|**2024-04-18**|**Aligning language models with human preferences**|Tomasz Korbak et.al.|[2404.12150](http://arxiv.org/abs/2404.12150)|**[link](https://github.com/tomekkorbak/pretraining-with-human-feedback)**|
 |**2024-04-18**|**Robust and Adaptive Deep Reinforcement Learning for Enhancing Flow Control around a Square Cylinder with Varying Reynolds Numbers**|Wang Jia et.al.|[2404.12123](http://arxiv.org/abs/2404.12123)|null|
 |**2024-04-18**|**X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner**|Haoyuan Jiang et.al.|[2404.12090](http://arxiv.org/abs/2404.12090)|**[link](https://github.com/anonymousid-submission/x-light)**|
 |**2024-04-18**|**Trajectory Planning for Autonomous Vehicle Using Iterative Reward Prediction in Reinforcement Learning**|Hyunwoo Park et.al.|[2404.12079](http://arxiv.org/abs/2404.12079)|null|
