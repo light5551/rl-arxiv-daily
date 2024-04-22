@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038](http://arxiv.org/abs/2404.13038)|null|
+|**2024-04-19**|**Deep Reinforcement Learning-Based Active Flow Control of an Elliptical Cylinder: Transitioning from an Elliptical Cylinder to a Circular Cylinder and a Flat Plate**|Wang Jia et.al.|[2404.13003](http://arxiv.org/abs/2404.13003)|null|
+|**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999](http://arxiv.org/abs/2404.12999)|null|
+|**2024-04-19**|**MM-PhyRLHF: Reinforcement Learning Framework for Multimodal Physics Question-Answering**|Avinash Anand et.al.|[2404.12926](http://arxiv.org/abs/2404.12926)|null|
+|**2024-04-19**|**Zero-Shot Stitching in Reinforcement Learning using Relative Representations**|Antonio Pio Ricciardi et.al.|[2404.12917](http://arxiv.org/abs/2404.12917)|null|
+|**2024-04-19**|**MAexp: A Generic Platform for RL-based Multi-Agent Exploration**|Shaohao Zhu et.al.|[2404.12824](http://arxiv.org/abs/2404.12824)|**[link](https://github.com/duangzhu/maexp)**|
+|**2024-04-19**|**Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation**|Qiang He et.al.|[2404.12754](http://arxiv.org/abs/2404.12754)|**[link](https://github.com/sweetice/beer-iclr2024)**|
+|**2024-04-19**|**Demonstration of quantum projective simulation on a single-photon-based quantum computer**|Giacomo Franceschetto et.al.|[2404.12729](http://arxiv.org/abs/2404.12729)|null|
+|**2024-04-19**|**Energy Conserved Failure Detection for NS-IoT Systems**|Guojin Liu et.al.|[2404.12713](http://arxiv.org/abs/2404.12713)|null|
+|**2024-04-19**|**Single-Task Continual Offline Reinforcement Learning**|Sibo Gai et.al.|[2404.12639](http://arxiv.org/abs/2404.12639)|null|
 |**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
 |**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
 |**2024-04-18**|**Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters**|Lukas Brunke et.al.|[2404.12329](http://arxiv.org/abs/2404.12329)|null|
@@ -1403,6 +1413,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
