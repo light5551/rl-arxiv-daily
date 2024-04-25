@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
+|**2024-04-23**|**An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models**|Yangchen Pan et.al.|[2404.15518](http://arxiv.org/abs/2404.15518)|null|
+|**2024-04-23**|**The Power of Resets in Online Reinforcement Learning**|Zakaria Mhammedi et.al.|[2404.15417](http://arxiv.org/abs/2404.15417)|null|
+|**2024-04-23**|**Planning the path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments**|Mateus G. Machado et.al.|[2404.15410](http://arxiv.org/abs/2404.15410)|**[link](https://github.com/goncamateus/Planning-the-path-with-rl)**|
 |**2024-04-23**|**Reinforcement Learning with Adaptive Control Regularization for Safe Control of Critical Systems**|Haozhe Tian et.al.|[2404.15199](http://arxiv.org/abs/2404.15199)|null|
 |**2024-04-23**|**Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation**|Xun Wu et.al.|[2404.15100](http://arxiv.org/abs/2404.15100)|null|
 |**2024-04-23**|**Impedance Matching: Enabling an RL-Based Running Jump in a Quadruped Robot**|Neil Guan et.al.|[2404.15096](http://arxiv.org/abs/2404.15096)|null|
@@ -1443,6 +1449,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**|Sam Earle et.al.|[2404.15538](http://arxiv.org/abs/2404.15538)|null|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
 |**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
@@ -1450,7 +1457,7 @@
 |**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541](http://arxiv.org/abs/2404.13541)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
-|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|**[link](https://github.com/lightingooo/ec-slam)**|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
