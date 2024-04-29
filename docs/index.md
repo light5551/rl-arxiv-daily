@@ -235,7 +235,7 @@ layout: default
 |**2024-03-25**|**Deep Reinforcement Learning and Mean-Variance Strategies for Responsible Portfolio Optimization**|Fernando Acero et.al.|[2403.16667](http://arxiv.org/abs/2403.16667)|null|
 |**2024-03-25**|**Skill Q-Network: Learning Adaptive Skill Ensemble for Mapless Navigation in Unknown Environments**|Hyunki Seong et.al.|[2403.16664](http://arxiv.org/abs/2403.16664)|null|
 |**2024-03-25**|**Trajectory Planning of Robotic Manipulator in Dynamic Environment Exploiting DRL**|Osama Ahmad et.al.|[2403.16652](http://arxiv.org/abs/2403.16652)|null|
-|**2024-03-26**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-26**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|**[link](https://github.com/calubkk/clha)**|
 |**2024-03-25**|**Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot**|Zifan Wang et.al.|[2403.16535](http://arxiv.org/abs/2403.16535)|**[link](https://github.com/acodedog/legged-robots-manipulation)**|
 |**2024-03-25**|**Towards Cooperative Maneuver Planning in Mixed Traffic at Urban Intersections**|Marvin Klimke et.al.|[2403.16478](http://arxiv.org/abs/2403.16478)|null|
 |**2024-03-25**|**If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions**|Reza Esfandiarpoor et.al.|[2403.16442](http://arxiv.org/abs/2403.16442)|**[link](https://github.com/batsresearch/ex2)**|
@@ -778,7 +778,7 @@ layout: default
 |**2024-01-04**|**OFDM-Based Digital Semantic Communication with Importance Awareness**|Chuanhong Liu et.al.|[2401.02178](http://arxiv.org/abs/2401.02178)|null|
 |**2024-01-04**|**Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning**|Ke Li et.al.|[2401.02160](http://arxiv.org/abs/2401.02160)|null|
 |**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072](http://arxiv.org/abs/2401.02072)|null|
-|**2024-01-03**|**NODEC: Neural ODE For Optimal Control of Unknown Dynamical Systems**|Cheng Chi et.al.|[2401.01836](http://arxiv.org/abs/2401.01836)|null|
+|**2024-01-03**|**NODEC: Neural ODE For Optimal Control of Unknown Dynamical Systems**|Cheng Chi et.al.|[2401.01836](http://arxiv.org/abs/2401.01836)|**[link](https://github.com/chichengmessi/neural_ode_control)**|
 |**2024-01-03**|**Optimizing UAV-UGV Coalition Operations: A Hybrid Clustering and Multi-Agent Reinforcement Learning Approach for Path Planning in Obstructed Environment**|Shamyo Brotee et.al.|[2401.01481](http://arxiv.org/abs/2401.01481)|null|
 |**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
 |**2024-01-02**|**Mirror Descent for Stochastic Control Problems with Measure-valued Controls**|Bekzhan Kerimkulov et.al.|[2401.01198](http://arxiv.org/abs/2401.01198)|null|
@@ -1524,7 +1524,7 @@ layout: default
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
-|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|null|
+|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|**[link](https://github.com/yunhaoli2020/DerainNeRF)**|
 |**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985](http://arxiv.org/abs/2403.19985)|null|
 |**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/abs/2403.19780)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
@@ -1772,7 +1772,7 @@ layout: default
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
-|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|**[link](https://github.com/sharath-girish/efficientgaussian)**|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
