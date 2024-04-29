@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
+|**2024-04-26**|**Q-Learning to navigate turbulence without a map**|Marco Rando et.al.|[2404.17495](http://arxiv.org/abs/2404.17495)|null|
+|**2024-04-26**|**Adaptive speed planning for Unmanned Vehicle Based on Deep Reinforcement Learning**|Hao Liu et.al.|[2404.17379](http://arxiv.org/abs/2404.17379)|null|
+|**2024-04-26**|**When to Trust LLMs: Aligning Confidence with Response Quality**|Shuchang Tao et.al.|[2404.17287](http://arxiv.org/abs/2404.17287)|null|
+|**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225](http://arxiv.org/abs/2404.17225)|null|
+|**2024-04-26**|**An Explainable Deep Reinforcement Learning Model for Warfarin Maintenance Dosing Using Policy Distillation and Action Forging**|Sadjad Anzabi Zadeh et.al.|[2404.17187](http://arxiv.org/abs/2404.17187)|null|
+|**2024-04-25**|**Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach**|Panagiotis Promponas et.al.|[2404.17077](http://arxiv.org/abs/2404.17077)|null|
+|**2024-04-25**|**Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey**|Lingfan Bao et.al.|[2404.17070](http://arxiv.org/abs/2404.17070)|null|
+|**2024-04-25**|**Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions**|Jordan Beason et.al.|[2404.17038](http://arxiv.org/abs/2404.17038)|null|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
 |**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721](http://arxiv.org/abs/2404.16721)|null|
 |**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
@@ -1396,6 +1406,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
@@ -1450,6 +1461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
