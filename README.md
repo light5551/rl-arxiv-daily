@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Collaborative Control Method of Transit Signal Priority Based on Cooperative Game and Reinforcement Learning**|Hao Qin et.al.|[2404.19683](http://arxiv.org/abs/2404.19683)|null|
+|**2024-04-30**|**Towards Generalist Robot Learning from Internet Video: A Survey**|Robert McCarthy et.al.|[2404.19664](http://arxiv.org/abs/2404.19664)|null|
+|**2024-04-30**|**Short term vs. long term: optimization of microswimmer navigation on different time horizons**|Navid Mousavi et.al.|[2404.19561](http://arxiv.org/abs/2404.19561)|null|
+|**2024-04-30**|**Continual Model-based Reinforcement Learning for Data Efficient Wireless Network Optimisation**|Cengis Hasan et.al.|[2404.19462](http://arxiv.org/abs/2404.19462)|null|
+|**2024-04-30**|**Countering Reward Over-optimization in LLM with Demonstration-Guided Reinforcement Learning**|Mathieu Rita et.al.|[2404.19409](http://arxiv.org/abs/2404.19409)|**[link](https://github.com/mathieurita/llm_demonstration_guided_rl)**|
+|**2024-04-30**|**Numeric Reward Machines**|Kristina Levina et.al.|[2404.19370](http://arxiv.org/abs/2404.19370)|null|
+|**2024-04-30**|**Pessimistic Value Iteration for Multi-Task Data Sharing in Offline Reinforcement Learning**|Chenjia Bai et.al.|[2404.19346](http://arxiv.org/abs/2404.19346)|**[link](https://github.com/baichenjia/utds)**|
+|**2024-04-30**|**Provably Efficient Information-Directed Sampling Algorithms for Multi-Agent Reinforcement Learning**|Qiaosheng Zhang et.al.|[2404.19292](http://arxiv.org/abs/2404.19292)|null|
+|**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264](http://arxiv.org/abs/2404.19264)|null|
+|**2024-04-30**|**Bias Mitigation via Compensation: A Reinforcement Learning Perspective**|Nandhini Swaminathan et.al.|[2404.19256](http://arxiv.org/abs/2404.19256)|null|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
 |**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
@@ -1481,9 +1491,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
+|**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
+|**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
+|**2024-04-29**|**GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**|Bo Chen et.al.|[2404.19040](http://arxiv.org/abs/2404.19040)|null|
+|**2024-04-29**|**Embedded Representation Learning Network for Animating Styled Video Portrait**|Tianyong Wang et.al.|[2404.19038](http://arxiv.org/abs/2404.19038)|null|
+|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015](http://arxiv.org/abs/2404.19015)|null|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284](http://arxiv.org/abs/2404.18284)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
-|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|**[link](https://github.com/tqtqliu/gefu)**|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
