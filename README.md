@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,8 +23,8 @@
 |**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
 |**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
-|**2024-04-29**|**Winning the Social Media Influence Battle: Uncertainty-Aware Opinions to Understand and Spread True Information via Competitive Influence Maximization**|Qi Zhang et.al.|[2404.18826](http://arxiv.org/abs/2404.18826)|null|
-|**2024-04-29**|**Control Policy Correction Framework for Reinforcement Learning-based Energy Arbitrage Strategies**|Seyed Soroush Karimi Madahi et.al.|[2404.18821](http://arxiv.org/abs/2404.18821)|null|
+|**2024-04-30**|**Winning the Social Media Influence Battle: Uncertainty-Aware Opinions to Understand and Spread True Information via Competitive Influence Maximization**|Qi Zhang et.al.|[2404.18826](http://arxiv.org/abs/2404.18826)|null|
+|**2024-04-30**|**Control Policy Correction Framework for Reinforcement Learning-based Energy Arbitrage Strategies**|Seyed Soroush Karimi Madahi et.al.|[2404.18821](http://arxiv.org/abs/2404.18821)|null|
 |**2024-04-29**|**Multi-Agent Synchronization Tasks**|Rolando Fernandez et.al.|[2404.18798](http://arxiv.org/abs/2404.18798)|null|
 |**2024-04-29**|**Resource-rational reinforcement learning and sensorimotor causal states**|Sarah Marzen et.al.|[2404.18775](http://arxiv.org/abs/2404.18775)|null|
 |**2024-04-29**|**Self-training superconducting neuromorphic circuits using reinforcement learning rules**|M. L. Schneider et.al.|[2404.18774](http://arxiv.org/abs/2404.18774)|null|
@@ -1417,7 +1417,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240501>back to top</a>)</p>
 
 ## SLAM
 
@@ -1475,7 +1475,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240501>back to top</a>)</p>
 
 ## NeRF
 
@@ -1963,7 +1963,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
