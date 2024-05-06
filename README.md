@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-05-02**|**NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment**|Gerald Shen et.al.|[2405.01481](http://arxiv.org/abs/2405.01481)|**[link](https://github.com/nvidia/nemo-aligner)**|
 |**2024-05-02**|**Goal-conditioned reinforcement learning for ultrasound navigation guidance**|Abdoul Aziz Amadou et.al.|[2405.01409](http://arxiv.org/abs/2405.01409)|null|
 |**2024-05-02**|**Learning Force Control for Legged Manipulation**|Tifanny Portela et.al.|[2405.01402](http://arxiv.org/abs/2405.01402)|null|
-|**2024-05-02**|**Constrained Reinforcement Learning Under Model Mismatch**|Zhongchang Sun et.al.|[2405.01327](http://arxiv.org/abs/2405.01327)|null|
+|**2024-05-03**|**Constrained Reinforcement Learning Under Model Mismatch**|Zhongchang Sun et.al.|[2405.01327](http://arxiv.org/abs/2405.01327)|null|
 |**2024-05-02**|**Non-iterative Optimization of Trajectory and Radio Resource for Aerial Network**|Hyeonsu Lyu et.al.|[2405.01314](http://arxiv.org/abs/2405.01314)|null|
 |**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284](http://arxiv.org/abs/2405.01284)|null|
 |**2024-05-02**|**Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation**|Hao Wang et.al.|[2405.01280](http://arxiv.org/abs/2405.01280)|null|
@@ -1447,7 +1447,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## SLAM
 
@@ -1505,7 +1505,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## NeRF
 
@@ -2003,7 +2003,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
