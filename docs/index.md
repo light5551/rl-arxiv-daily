@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
-|**2024-05-08**|**Fault Identification Enhancement with Reinforcement Learning (FIERL)**|Valentina Zaccaria et.al.|[2405.04938](http://arxiv.org/abs/2405.04938)|null|
+|**2024-05-08**|**Fault Identification Enhancement with Reinforcement Learning (FIERL)**|Valentina Zaccaria et.al.|[2405.04938](http://arxiv.org/abs/2405.04938)|**[link](https://github.com/davidesartor/FIERL)**|
 |**2024-05-07**|**RACER: Epistemic Risk-Sensitive RL Enables Fast Driving with Fewer Crashes**|Kyle Stachowicz et.al.|[2405.04714](http://arxiv.org/abs/2405.04714)|null|
 |**2024-05-07**|**Proximal Policy Optimization with Adaptive Exploration**|Andrei Lixandru et.al.|[2405.04664](http://arxiv.org/abs/2405.04664)|null|
 |**2024-05-07**|**ACEGEN: Reinforcement learning of generative chemical agents for drug discovery**|Albert Bou et.al.|[2405.04657](http://arxiv.org/abs/2405.04657)|**[link](https://github.com/acellera/acegen-open)**|
