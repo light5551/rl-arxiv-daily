@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**EcoEdgeTwin: Enhanced 6G Network via Mobile Edge Computing and Digital Twin Integration**|Synthia Hossain Karobi et.al.|[2405.06507](http://arxiv.org/abs/2405.06507)|null|
 |**2024-05-10**|**Advantageous and disadvantageous inequality aversion can be taught through vicarious learning of others' preferences**|Shen Zhang et.al.|[2405.06500](http://arxiv.org/abs/2405.06500)|null|
 |**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422](http://arxiv.org/abs/2405.06422)|null|
