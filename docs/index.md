@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -18,8 +18,8 @@ layout: default
 |**2024-05-14**|**Hierarchical Resource Partitioning on Modern GPUs: A Reinforcement Learning Approach**|Urvij Saroliya et.al.|[2405.08754](http://arxiv.org/abs/2405.08754)|null|
 |**2024-05-14**|**Reinformer: Max-Return Sequence Modeling for offline RL**|Zifeng Zhuang et.al.|[2405.08740](http://arxiv.org/abs/2405.08740)|null|
 |**2024-05-14**|**I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning**|Yashuai Yan et.al.|[2405.08726](http://arxiv.org/abs/2405.08726)|null|
-|**2024-05-14**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691](http://arxiv.org/abs/2405.08691)|null|
-|**2024-05-14**|**A Distributed Approach to Autonomous Intersection Management via Multi-Agent Reinforcement Learning**|Matteo Cederle et.al.|[2405.08655](http://arxiv.org/abs/2405.08655)|null|
+|**2024-05-15**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691](http://arxiv.org/abs/2405.08691)|null|
+|**2024-05-14**|**A Distributed Approach to Autonomous Intersection Management via Multi-Agent Reinforcement Learning**|Matteo Cederle et.al.|[2405.08655](http://arxiv.org/abs/2405.08655)|**[link](https://github.com/mcederle99/MAD4QN-PS)**|
 |**2024-05-14**|**vMFER: Von Mises-Fisher Experience Resampling Based on Uncertainty of Gradient Directions for Policy Improvement**|Yiwen Zhu et.al.|[2405.08638](http://arxiv.org/abs/2405.08638)|null|
 |**2024-05-14**|**Optimizing Deep Reinforcement Learning for American Put Option Hedging**|Reilly Pickard et.al.|[2405.08602](http://arxiv.org/abs/2405.08602)|null|
 |**2024-05-14**|**Python-Based Reinforcement Learning on Simulink Models**|Georg Schäfer et.al.|[2405.08567](http://arxiv.org/abs/2405.08567)|null|
