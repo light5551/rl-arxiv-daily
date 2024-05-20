@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
-|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**Keep It Private: Unsupervised Privatization of Online Text**|Calvin Bao et.al.|[2405.10260](http://arxiv.org/abs/2405.10260)|**[link](https://github.com/csbao/kip-privatization)**|
 |**2024-05-16**|**A Design Trajectory Map of Human-AI Collaborative Reinforcement Learning Systems: Survey and Taxonomy**|Zhaoxing Li et.al.|[2405.10214](http://arxiv.org/abs/2405.10214)|null|
 |**2024-05-16**|**Continuous Transfer Learning for UAV Communication-aware Trajectory Design**|Chenrui Sun et.al.|[2405.10087](http://arxiv.org/abs/2405.10087)|null|
@@ -1535,7 +1535,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 ## SLAM
 
@@ -1596,7 +1596,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 ## NeRF
 
@@ -2119,7 +2119,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
