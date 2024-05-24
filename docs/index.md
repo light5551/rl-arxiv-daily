@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Privileged Sensing Scaffolds Reinforcement Learning**|Edward S. Hu et.al.|[2405.14853](http://arxiv.org/abs/2405.14853)|null|
+|**2024-05-23**|**Axioms for AI Alignment from Human Feedback**|Luise Ge et.al.|[2405.14758](http://arxiv.org/abs/2405.14758)|null|
+|**2024-05-23**|**AGILE: A Novel Framework of LLM Agents**|Peiyuan Feng et.al.|[2405.14751](http://arxiv.org/abs/2405.14751)|null|
+|**2024-05-23**|**Policy Gradient Methods for Risk-Sensitive Distributional Reinforcement Learning with Provable Convergence**|Minheng Xiao et.al.|[2405.14749](http://arxiv.org/abs/2405.14749)|null|
+|**2024-05-23**|**SimPO: Simple Preference Optimization with a Reference-Free Reward**|Yu Meng et.al.|[2405.14734](http://arxiv.org/abs/2405.14734)|**[link](https://github.com/princeton-nlp/simpo)**|
+|**2024-05-23**|**Multi-turn Reinforcement Learning from Preference Human Feedback**|Lior Shani et.al.|[2405.14655](http://arxiv.org/abs/2405.14655)|null|
+|**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632](http://arxiv.org/abs/2405.14632)|null|
+|**2024-05-23**|**Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences**|Takuya Hiraoka et.al.|[2405.14629](http://arxiv.org/abs/2405.14629)|null|
+|**2024-05-23**|**Closed-form Symbolic Solutions: A New Perspective on Solving Partial Differential Equations**|Shu Wei et.al.|[2405.14620](http://arxiv.org/abs/2405.14620)|null|
+|**2024-05-23**|**Discretization of continuous input spaces in the hippocampal autoencoder**|Adrian F. Amil et.al.|[2405.14600](http://arxiv.org/abs/2405.14600)|null|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
 |**2024-05-21**|**Effect of Synthetic Jets Actuator Parameters on Deep Reinforcement Learning-Based Flow Control Performance in a Square Cylinder**|Wang Jia et.al.|[2405.12834](http://arxiv.org/abs/2405.12834)|null|
 |**2024-05-22**|**Deep Reinforcement Learning for Time-Critical Wilderness Search And Rescue Using Drones**|Jan-Hendrik Ewers et.al.|[2405.12800](http://arxiv.org/abs/2405.12800)|null|
@@ -1624,6 +1634,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/abs/2405.14847)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/abs/2405.14824)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/abs/2405.14452)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
+|**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
