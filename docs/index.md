@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332](http://arxiv.org/abs/2405.19332)|**[link](https://github.com/shenao-zhang/selm)**|
+|**2024-05-29**|**Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF**|Shicong Cen et.al.|[2405.19320](http://arxiv.org/abs/2405.19320)|null|
+|**2024-05-29**|**Robust Preference Optimization through Reward Model Distillation**|Adam Fisch et.al.|[2405.19316](http://arxiv.org/abs/2405.19316)|null|
+|**2024-05-29**|**Rich-Observation Reinforcement Learning with Continuous Latent Dynamics**|Yuda Song et.al.|[2405.19269](http://arxiv.org/abs/2405.19269)|null|
+|**2024-05-29**|**Exploring the impact of traffic signal control and connected and automated vehicles on intersections safety: A deep reinforcement learning approach**|Amir Hossein Karbasi et.al.|[2405.19236](http://arxiv.org/abs/2405.19236)|null|
+|**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|null|
+|**2024-05-29**|**A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning**|Arthur Juliani et.al.|[2405.19153](http://arxiv.org/abs/2405.19153)|null|
+|**2024-05-29**|**Learning Interpretable Scheduling Algorithms for Data Processing Clusters**|Zhibo Hu et.al.|[2405.19131](http://arxiv.org/abs/2405.19131)|null|
+|**2024-05-29**|**Offline Regularised Reinforcement Learning for Large Language Models Alignment**|Pierre Harvey Richemond et.al.|[2405.19107](http://arxiv.org/abs/2405.19107)|null|
+|**2024-05-29**|**OMPO: A Unified Framework for RL under Policy and Dynamics Shifts**|Yu Luo et.al.|[2405.19080](http://arxiv.org/abs/2405.19080)|**[link](https://github.com/roythuly/ompo)**|
 |**2024-05-28**|**Hierarchical World Models as Visual Whole-Body Humanoid Controllers**|Nicklas Hansen et.al.|[2405.18418](http://arxiv.org/abs/2405.18418)|null|
 |**2024-05-28**|**Value Alignment and Trust in Human-Robot Interaction: Insights from Simulation and User Study**|Shreyas Bhat et.al.|[2405.18324](http://arxiv.org/abs/2405.18324)|null|
 |**2024-05-28**|**Highway Reinforcement Learning**|Yuhui Wang et.al.|[2405.18289](http://arxiv.org/abs/2405.18289)|null|
@@ -1665,6 +1675,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
+|**2024-05-29**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|null|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
 |**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
