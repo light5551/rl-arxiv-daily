@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
+|**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
+|**2024-06-05**|**UDQL: Bridging The Gap between MSE Loss and The Optimal Value Function in Offline Reinforcement Learning**|Yu Zhang et.al.|[2406.03324](http://arxiv.org/abs/2406.03324)|null|
+|**2024-06-05**|**Revisiting Scalable Hessian Diagonal Approximations for Applications in Reinforcement Learning**|Mohamed Elsayed et.al.|[2406.03276](http://arxiv.org/abs/2406.03276)|null|
+|**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250](http://arxiv.org/abs/2406.03250)|null|
+|**2024-06-05**|**Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning**|Inwoo Hwang et.al.|[2406.03234](http://arxiv.org/abs/2406.03234)|**[link](https://github.com/iwhwang/Fine-Grained-Causal-RL)**|
+|**2024-06-05**|**CommonPower: Supercharging Machine Learning for Smart Grids**|Michael Eichelbeck et.al.|[2406.03231](http://arxiv.org/abs/2406.03231)|**[link](https://github.com/tumcps/commonpower)**|
+|**2024-06-05**|**Object Manipulation in Marine Environments using Reinforcement Learning**|Ahmed Nader et.al.|[2406.03223](http://arxiv.org/abs/2406.03223)|null|
+|**2024-06-05**|**Adaptive Distance Functions via Kelvin Transformation**|Rafael I. Cabral Muchacho et.al.|[2406.03200](http://arxiv.org/abs/2406.03200)|null|
+|**2024-06-05**|**DEER: A Delay-Resilient Framework for Reinforcement Learning with Variable Delays**|Bo Xia et.al.|[2406.03102](http://arxiv.org/abs/2406.03102)|null|
 |**2024-06-04**|**Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs**|Filippo Valdettaro et.al.|[2406.02456](http://arxiv.org/abs/2406.02456)|null|
 |**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
 |**2024-06-04**|**Algorithmic Collusion in Dynamic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2406.02437](http://arxiv.org/abs/2406.02437)|null|
@@ -1717,6 +1727,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593](http://arxiv.org/abs/2406.01593)|null|
