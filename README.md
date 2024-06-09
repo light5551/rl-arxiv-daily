@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,9 +24,9 @@
 |**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
 |**2024-06-06**|**Deterministic Uncertainty Propagation for Improved Model-Based Offline Reinforcement Learning**|Abdullah Akgül et.al.|[2406.04088](http://arxiv.org/abs/2406.04088)|null|
 |**2024-06-06**|**Bootstrapping Expectiles in Reinforcement Learning**|Pierre Clavier et.al.|[2406.04081](http://arxiv.org/abs/2406.04081)|null|
-|**2024-06-06**|**Spatio-temporal Early Prediction based on Multi-objective Reinforcement Learning**|Wei Shao et.al.|[2406.04035](http://arxiv.org/abs/2406.04035)|null|
+|**2024-06-06**|**Spatio-temporal Early Prediction based on Multi-objective Reinforcement Learning**|Wei Shao et.al.|[2406.04035](http://arxiv.org/abs/2406.04035)|**[link](https://github.com/coco0106/MO-STEP)**|
 |**2024-06-06**|**Contrastive Sparse Autoencoders for Interpreting Planning of Chess-Playing Agents**|Yoann Poupart et.al.|[2406.04028](http://arxiv.org/abs/2406.04028)|**[link](https://github.com/Xmaster6y/lczero-planning)**|
-|**2024-06-06**|**HackAtari: Atari Learning Environments for Robust and Continual Reinforcement Learning**|Quentin Delfosse et.al.|[2406.03997](http://arxiv.org/abs/2406.03997)|null|
+|**2024-06-06**|**HackAtari: Atari Learning Environments for Robust and Continual Reinforcement Learning**|Quentin Delfosse et.al.|[2406.03997](http://arxiv.org/abs/2406.03997)|**[link](https://github.com/k4ntz/HackAtari)**|
 |**2024-06-06**|**AC4MPC: Actor-Critic Reinforcement Learning for Nonlinear Model Predictive Control**|Rudolf Reiter et.al.|[2406.03995](http://arxiv.org/abs/2406.03995)|null|
 |**2024-06-06**|**Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Lin Liu et.al.|[2406.03978](http://arxiv.org/abs/2406.03978)|null|
 |**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
@@ -1665,7 +1665,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## SLAM
 
@@ -1731,7 +1731,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## NeRF
 
@@ -2304,7 +2304,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
