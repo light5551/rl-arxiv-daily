@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning**|Zeyuan Liu et.al.|[2406.07541](http://arxiv.org/abs/2406.07541)|null|
+|**2024-06-11**|**Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis**|Qining Zhang et.al.|[2406.07455](http://arxiv.org/abs/2406.07455)|null|
+|**2024-06-11**|**Enhanced Gene Selection in Single-Cell Genomics: Pre-Filtering Synergy and Reinforced Optimization**|Weiliang Zhang et.al.|[2406.07418](http://arxiv.org/abs/2406.07418)|null|
+|**2024-06-11**|**Federated Multi-Agent DRL for Radio Resource Management in Industrial 6G in-X subnetworks**|Bjarke Madsen et.al.|[2406.07383](http://arxiv.org/abs/2406.07383)|null|
+|**2024-06-11**|**World Models with Hints of Large Language Models for Goal Achieving**|Zeyuan Liu et.al.|[2406.07381](http://arxiv.org/abs/2406.07381)|null|
+|**2024-06-11**|**EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning**|Yijun Hao et.al.|[2406.07342](http://arxiv.org/abs/2406.07342)|null|
+|**2024-06-11**|**Beyond Training: Optimizing Reinforcement Learning Based Job Shop Scheduling Through Adaptive Action Sampling**|Constantin Waubert de Puiseau et.al.|[2406.07325](http://arxiv.org/abs/2406.07325)|null|
+|**2024-06-11**|**Multi-objective Reinforcement learning from AI Feedback**|Marcus Williams et.al.|[2406.07295](http://arxiv.org/abs/2406.07295)|null|
+|**2024-06-11**|**Hybrid Reinforcement Learning from Offline Observation Alone**|Yuda Song et.al.|[2406.07253](http://arxiv.org/abs/2406.07253)|null|
+|**2024-06-11**|**A generic and robust quantum agent inspired by deep meta-reinforcement learning**|Zibo Miao et.al.|[2406.07225](http://arxiv.org/abs/2406.07225)|null|
 |**2024-06-10**|**Verification-Guided Shielding for Deep Reinforcement Learning**|Davide Corsi et.al.|[2406.06507](http://arxiv.org/abs/2406.06507)|null|
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
 |**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
@@ -1748,6 +1758,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
