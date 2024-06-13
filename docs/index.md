@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472](http://arxiv.org/abs/2406.08472)|null|
+|**2024-06-12**|**Adaptive Swarm Mesh Refinement using Deep Reinforcement Learning with Local Rewards**|Niklas Freymuth et.al.|[2406.08440](http://arxiv.org/abs/2406.08440)|null|
+|**2024-06-12**|**RRLS : Robust Reinforcement Learning Suite**|Adil Zouitine et.al.|[2406.08406](http://arxiv.org/abs/2406.08406)|**[link](https://github.com/sureli/rrls)**|
+|**2024-06-12**|**Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning**|Yuhui Wang et.al.|[2406.08404](http://arxiv.org/abs/2406.08404)|null|
+|**2024-06-12**|**Time-Constrained Robust MDPs**|Adil Zouitine et.al.|[2406.08395](http://arxiv.org/abs/2406.08395)|null|
+|**2024-06-12**|**Residual Learning and Context Encoding for Adaptive Offline-to-Online Reinforcement Learning**|Mohammadreza Nakhaei et.al.|[2406.08238](http://arxiv.org/abs/2406.08238)|null|
+|**2024-06-12**|**Explore-Go: Leveraging Exploration for Generalisation in Deep Reinforcement Learning**|Max Weltevrede et.al.|[2406.08069](http://arxiv.org/abs/2406.08069)|null|
+|**2024-06-12**|**Deep reinforcement learning with positional context for intraday trading**|Sven Goluža et.al.|[2406.08013](http://arxiv.org/abs/2406.08013)|null|
+|**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
+|**2024-06-12**|**Semantic-Aware Resource Allocation Based on Deep Reinforcement Learning for 5G-V2X HetNets**|Zhiyu Shao et.al.|[2406.07996](http://arxiv.org/abs/2406.07996)|null|
 |**2024-06-11**|**CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning**|Zeyuan Liu et.al.|[2406.07541](http://arxiv.org/abs/2406.07541)|null|
 |**2024-06-11**|**Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis**|Qining Zhang et.al.|[2406.07455](http://arxiv.org/abs/2406.07455)|null|
 |**2024-06-11**|**Enhanced Gene Selection in Single-Cell Genomics: Pre-Filtering Synergy and Reinforced Optimization**|Weiliang Zhang et.al.|[2406.07418](http://arxiv.org/abs/2406.07418)|null|
@@ -1694,6 +1704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|null|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
@@ -1758,6 +1769,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
+|**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742](http://arxiv.org/abs/2406.07742)|null|
+|**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648](http://arxiv.org/abs/2406.07648)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
