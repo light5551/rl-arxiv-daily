@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
-|**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537](http://arxiv.org/abs/2406.14537)|null|
-|**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|null|
+|**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537](http://arxiv.org/abs/2406.14537)|**[link](https://github.com/ZONG0004/MacroHFT)**|
+|**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
 |**2024-06-20**|**Learning telic-controllable state representations**|Nadav Amir et.al.|[2406.14476](http://arxiv.org/abs/2406.14476)|null|
 |**2024-06-20**|**Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue**|Huifang Du et.al.|[2406.14457](http://arxiv.org/abs/2406.14457)|null|
 |**2024-06-20**|**Revealing the learning process in reinforcement learning agents through attention-oriented metrics**|Charlotte Beylier et.al.|[2406.14324](http://arxiv.org/abs/2406.14324)|null|

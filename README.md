@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,8 +20,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
-|**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537](http://arxiv.org/abs/2406.14537)|null|
-|**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|null|
+|**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537](http://arxiv.org/abs/2406.14537)|**[link](https://github.com/ZONG0004/MacroHFT)**|
+|**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
 |**2024-06-20**|**Learning telic-controllable state representations**|Nadav Amir et.al.|[2406.14476](http://arxiv.org/abs/2406.14476)|null|
 |**2024-06-20**|**Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue**|Huifang Du et.al.|[2406.14457](http://arxiv.org/abs/2406.14457)|null|
 |**2024-06-20**|**Revealing the learning process in reinforcement learning agents through attention-oriented metrics**|Charlotte Beylier et.al.|[2406.14324](http://arxiv.org/abs/2406.14324)|null|
@@ -1755,7 +1755,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## SLAM
 
@@ -1823,7 +1823,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## NeRF
 
@@ -2439,7 +2439,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
