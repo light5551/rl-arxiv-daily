@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -21,7 +21,7 @@ layout: default
 |**2024-06-20**|**Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue**|Huifang Du et.al.|[2406.14457](http://arxiv.org/abs/2406.14457)|null|
 |**2024-06-20**|**Revealing the learning process in reinforcement learning agents through attention-oriented metrics**|Charlotte Beylier et.al.|[2406.14324](http://arxiv.org/abs/2406.14324)|null|
 |**2024-06-20**|**Resource Optimization for Tail-Based Control in Wireless Networked Control Systems**|Rasika Vijithasena et.al.|[2406.14301](http://arxiv.org/abs/2406.14301)|null|
-|**2024-06-20**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
+|**2024-06-21**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
 |**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|

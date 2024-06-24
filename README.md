@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-06-20**|**Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue**|Huifang Du et.al.|[2406.14457](http://arxiv.org/abs/2406.14457)|null|
 |**2024-06-20**|**Revealing the learning process in reinforcement learning agents through attention-oriented metrics**|Charlotte Beylier et.al.|[2406.14324](http://arxiv.org/abs/2406.14324)|null|
 |**2024-06-20**|**Resource Optimization for Tail-Based Control in Wireless Networked Control Systems**|Rasika Vijithasena et.al.|[2406.14301](http://arxiv.org/abs/2406.14301)|null|
-|**2024-06-20**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
+|**2024-06-21**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
 |**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
@@ -1755,7 +1755,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## SLAM
 
@@ -1823,7 +1823,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## NeRF
 
@@ -2439,7 +2439,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
