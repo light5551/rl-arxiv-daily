@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
+|**2024-06-21**|**Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning**|Sattar Vakili et.al.|[2406.15250](http://arxiv.org/abs/2406.15250)|null|
+|**2024-06-21**|**Deep UAV Path Planning with Assured Connectivity in Dense Urban Setting**|Jiyong Oh et.al.|[2406.15225](http://arxiv.org/abs/2406.15225)|null|
+|**2024-06-21**|**KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**|Philipp Becker et.al.|[2406.15131](http://arxiv.org/abs/2406.15131)|null|
+|**2024-06-21**|**A Provably Efficient Option-Based Algorithm for both High-Level and Low-Level Learning**|Gianluca Drappo et.al.|[2406.15124](http://arxiv.org/abs/2406.15124)|null|
+|**2024-06-21**|**Towards General Negotiation Strategies with End-to-End Reinforcement Learning**|Bram M. Renting et.al.|[2406.15096](http://arxiv.org/abs/2406.15096)|null|
+|**2024-06-21**|**KnobTree: Intelligent Database Parameter Configuration via Explainable Reinforcement Learning**|Jiahan Chen et.al.|[2406.15073](http://arxiv.org/abs/2406.15073)|null|
+|**2024-06-21**|**Behaviour Distillation**|Andrei Lupu et.al.|[2406.15042](http://arxiv.org/abs/2406.15042)|**[link](https://github.com/flairox/behaviour-distillation)**|
+|**2024-06-21**|**SiT: Symmetry-Invariant Transformers for Generalisation in Reinforcement Learning**|Matthias Weissenbacher et.al.|[2406.15025](http://arxiv.org/abs/2406.15025)|null|
+|**2024-06-21**|**Evolution of Rewards for Food and Motor Action by Simulating Birth and Death**|Yuji Kanagawa et.al.|[2406.15016](http://arxiv.org/abs/2406.15016)|null|
 |**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
 |**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537](http://arxiv.org/abs/2406.14537)|**[link](https://github.com/ZONG0004/MacroHFT)**|
 |**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
@@ -1820,6 +1830,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020](http://arxiv.org/abs/2406.15020)|null|
+|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978](http://arxiv.org/abs/2406.14978)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
+|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806](http://arxiv.org/abs/2406.14806)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360](http://arxiv.org/abs/2406.14360)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796](http://arxiv.org/abs/2406.13796)|null|
 |**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
