@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -23,7 +23,7 @@ layout: default
 |**2024-06-26**|**AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations**|Adam Dahlgren Lindström et.al.|[2406.18346](http://arxiv.org/abs/2406.18346)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-26**|**Combining Automated Optimisation of Hyperparameters and Reward Shape**|Julian Dierkes et.al.|[2406.18293](http://arxiv.org/abs/2406.18293)|**[link](https://github.com/ada-research/combined_hpo_and_reward_shaping)**|
-|**2024-06-26**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245](http://arxiv.org/abs/2406.18245)|**[link](https://github.com/oyarsa/event_extraction)**|
+|**2024-06-27**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245](http://arxiv.org/abs/2406.18245)|**[link](https://github.com/oyarsa/event_extraction)**|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
 |**2024-06-25**|**When does Self-Prediction help? Understanding Auxiliary Tasks in Reinforcement Learning**|Claas Voelcker et.al.|[2406.17718](http://arxiv.org/abs/2406.17718)|null|
 |**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
@@ -1861,7 +1861,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|null|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623](http://arxiv.org/abs/2406.16623)|null|
