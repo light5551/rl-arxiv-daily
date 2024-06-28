@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Efficient World Models with Context-Aware Tokenization**|Vincent Micheli et.al.|[2406.19320](http://arxiv.org/abs/2406.19320)|**[link](https://github.com/vmicheli/delta-iris)**|
+|**2024-06-27**|**Averaging log-likelihoods in direct alignment**|Nathan Grinsztajn et.al.|[2406.19188](http://arxiv.org/abs/2406.19188)|null|
+|**2024-06-27**|**Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a supervised-friendly fashion**|Yannis Flet-Berliac et.al.|[2406.19185](http://arxiv.org/abs/2406.19185)|null|
+|**2024-06-27**|**Learning Pareto Set for Multi-Objective Continuous Robot Control**|Tianye Shu et.al.|[2406.18924](http://arxiv.org/abs/2406.18924)|**[link](https://github.com/hisaolabsustc/hyper-morl)**|
+|**2024-06-27**|**Autonomous Control of a Novel Closed Chain Five Bar Active Suspension via Deep Reinforcement Learning**|Nishesh Singh et.al.|[2406.18899](http://arxiv.org/abs/2406.18899)|null|
+|**2024-06-27**|**State and Input Constrained Output-Feedback Adaptive Optimal Control of Affine Nonlinear Systems**|Tochukwu Elijah Ogri et.al.|[2406.18804](http://arxiv.org/abs/2406.18804)|null|
+|**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[2406.18741](http://arxiv.org/abs/2406.18741)|null|
 |**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
 |**2024-06-26**|**Preference Elicitation for Offline Reinforcement Learning**|Alizée Pace et.al.|[2406.18450](http://arxiv.org/abs/2406.18450)|null|
@@ -1861,6 +1868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/abs/2406.18840)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
