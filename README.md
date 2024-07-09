@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Periodic agent-state based Q-learning for POMDPs**|Amit Sinha et.al.|[2407.06121](http://arxiv.org/abs/2407.06121)|null|
+|**2024-07-08**|**QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train**|Chen-Yu Liu et.al.|[2407.06103](http://arxiv.org/abs/2407.06103)|null|
+|**2024-07-08**|**Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation**|Sara Pohland et.al.|[2407.06056](http://arxiv.org/abs/2407.06056)|**[link](https://github.com/sarapohland/stranger-danger)**|
+|**2024-07-08**|**iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement**|Aoyu Pang et.al.|[2407.06025](http://arxiv.org/abs/2407.06025)|**[link](https://github.com/traffic-alpha/illm-tsc)**|
+|**2024-07-08**|**On Bellman equations for continuous-time policy evaluation I: discretization and approximation**|Wenlong Mou et.al.|[2407.05966](http://arxiv.org/abs/2407.05966)|null|
+|**2024-07-08**|**Graph Anomaly Detection with Noisy Labels by Reinforcement Learning**|Zhu Wang et.al.|[2407.05934](http://arxiv.org/abs/2407.05934)|null|
+|**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800](http://arxiv.org/abs/2407.05800)|**[link](https://github.com/pranabiitp/fedmrl)**|
+|**2024-07-08**|**Structural Generalization in Autonomous Cyber Incident Response with Message-Passing Neural Networks and Reinforcement Learning**|Jakob Nyberg et.al.|[2407.05775](http://arxiv.org/abs/2407.05775)|**[link](https://github.com/kasanari/incident-response-rl-gnn)**|
+|**2024-07-08**|**Multi-agent Reinforcement Learning-based Network Intrusion Detection System**|Amine Tellache et.al.|[2407.05766](http://arxiv.org/abs/2407.05766)|null|
+|**2024-07-08**|**$\mathrm{E^{2}CFD}$ : Towards Effective and Efficient Cost Function Design for Safe Reinforcement Learning via Large Language Model**|Zepeng Wang et.al.|[2407.05580](http://arxiv.org/abs/2407.05580)|null|
 |**2024-07-05**|**Graph Reinforcement Learning in Power Grids: A Survey**|Mohamed Hassouna et.al.|[2407.04522](http://arxiv.org/abs/2407.04522)|null|
 |**2024-07-05**|**Using Petri Nets as an Integrated Constraint Mechanism for Reinforcement Learning Tasks**|Timon Sachweh et.al.|[2407.04481](http://arxiv.org/abs/2407.04481)|null|
 |**2024-07-05**|**Hindsight Preference Learning for Offline Preference-based Reinforcement Learning**|Chen-Xiao Gao et.al.|[2407.04451](http://arxiv.org/abs/2407.04451)|**[link](https://github.com/typoverflow/wiserl)**|
@@ -1918,6 +1928,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
