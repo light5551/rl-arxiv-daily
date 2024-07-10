@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088](http://arxiv.org/abs/2407.07088)|null|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082](http://arxiv.org/abs/2407.07082)|**[link](https://github.com/alexgoldie/rl-learned-optimization)**|
+|**2024-07-09**|**A Unified Approach to Multi-task Legged Navigation: Temporal Logic Meets Reinforcement Learning**|Jesse Jiang et.al.|[2407.06931](http://arxiv.org/abs/2407.06931)|null|
+|**2024-07-09**|**Intercepting Unauthorized Aerial Robots in Controlled Airspace Using Reinforcement Learning**|Francisco Giral et.al.|[2407.06909](http://arxiv.org/abs/2407.06909)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**Energy Efficient Fair STAR-RIS for Mobile Users**|Ashok S. Kumar et.al.|[2407.06868](http://arxiv.org/abs/2407.06868)|null|
+|**2024-07-09**|**Frequency and Generalisation of Periodic Activation Functions in Reinforcement Learning**|Augustine N. Mavor-Parker et.al.|[2407.06756](http://arxiv.org/abs/2407.06756)|null|
+|**2024-07-09**|**Hierarchical Average-Reward Linearly-solvable Markov Decision Processes**|Guillermo Infante et.al.|[2407.06690](http://arxiv.org/abs/2407.06690)|null|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
 |**2024-07-08**|**Periodic agent-state based Q-learning for POMDPs**|Amit Sinha et.al.|[2407.06121](http://arxiv.org/abs/2407.06121)|null|
 |**2024-07-08**|**QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train**|Chen-Yu Liu et.al.|[2407.06103](http://arxiv.org/abs/2407.06103)|null|
 |**2024-07-08**|**Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation**|Sara Pohland et.al.|[2407.06056](http://arxiv.org/abs/2407.06056)|**[link](https://github.com/sarapohland/stranger-danger)**|
@@ -1851,7 +1861,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
@@ -1919,6 +1929,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
+|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
