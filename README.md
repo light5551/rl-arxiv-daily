@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
 |**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739](http://arxiv.org/abs/2407.20739)|null|
 |**2024-07-30**|**Online Prediction-Assisted Safe Reinforcement Learning for Electric Vehicle Charging Station Recommendation in Dynamically Coupled Transportation-Power Systems**|Qionghua Liao et.al.|[2407.20679](http://arxiv.org/abs/2407.20679)|null|
-|**2024-07-30**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651](http://arxiv.org/abs/2407.20651)|null|
+|**2024-07-31**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651](http://arxiv.org/abs/2407.20651)|null|
 |**2024-07-30**|**Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing**|Caolu Xu et.al.|[2407.20523](http://arxiv.org/abs/2407.20523)|null|
 |**2024-07-30**|**Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge**|Yupei Yang et.al.|[2407.20506](http://arxiv.org/abs/2407.20506)|**[link](https://github.com/cmach508/causalexploration)**|
 |**2024-07-29**|**A Method for Fast Autonomy Transfer in Reinforcement Learning**|Dinuka Sahabandu et.al.|[2407.20466](http://arxiv.org/abs/2407.20466)|null|
@@ -2012,7 +2012,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
 
 ## SLAM
 
@@ -2087,7 +2087,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
 
 ## NeRF
 
@@ -2776,7 +2776,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -20,7 +20,7 @@ layout: default
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
 |**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739](http://arxiv.org/abs/2407.20739)|null|
 |**2024-07-30**|**Online Prediction-Assisted Safe Reinforcement Learning for Electric Vehicle Charging Station Recommendation in Dynamically Coupled Transportation-Power Systems**|Qionghua Liao et.al.|[2407.20679](http://arxiv.org/abs/2407.20679)|null|
-|**2024-07-30**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651](http://arxiv.org/abs/2407.20651)|null|
+|**2024-07-31**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651](http://arxiv.org/abs/2407.20651)|null|
 |**2024-07-30**|**Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing**|Caolu Xu et.al.|[2407.20523](http://arxiv.org/abs/2407.20523)|null|
 |**2024-07-30**|**Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge**|Yupei Yang et.al.|[2407.20506](http://arxiv.org/abs/2407.20506)|**[link](https://github.com/cmach508/causalexploration)**|
 |**2024-07-29**|**A Method for Fast Autonomy Transfer in Reinforcement Learning**|Dinuka Sahabandu et.al.|[2407.20466](http://arxiv.org/abs/2407.20466)|null|
