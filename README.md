@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Berkeley Humanoid: A Research Platform for Learning-based Control**|Qiayuan Liao et.al.|[2407.21781](http://arxiv.org/abs/2407.21781)|null|
+|**2024-07-31**|**Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)**|Yang An et.al.|[2407.21734](http://arxiv.org/abs/2407.21734)|null|
+|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|null|
+|**2024-07-31**|**Black box meta-learning intrinsic rewards for sparse-reward environments**|Octavio Pappalardo et.al.|[2407.21546](http://arxiv.org/abs/2407.21546)|null|
+|**2024-07-31**|**Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network**|Jeffrey Redondo et.al.|[2407.21460](http://arxiv.org/abs/2407.21460)|null|
+|**2024-07-31**|**ProSpec RL: Plan Ahead, then Execute**|Liangliang Liu et.al.|[2407.21359](http://arxiv.org/abs/2407.21359)|null|
+|**2024-07-31**|**Image-Based Deep Reinforcement Learning with Intrinsically Motivated Stimuli: On the Execution of Complex Robotic Tasks**|David Valencia et.al.|[2407.21338](http://arxiv.org/abs/2407.21338)|null|
+|**2024-07-31**|**Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation**|Taehyun Cho et.al.|[2407.21260](http://arxiv.org/abs/2407.21260)|null|
+|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|
+|**2024-07-30**|**Enhancing Deep Hedging of Options with Implied Volatility Surface Feedback Information**|Pascal François et.al.|[2407.21138](http://arxiv.org/abs/2407.21138)|null|
 |**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
 |**2024-07-30**|**How to Choose a Reinforcement-Learning Algorithm**|Fabian Bongratz et.al.|[2407.20917](http://arxiv.org/abs/2407.20917)|null|
 |**2024-07-30**|**ARCLE: The Abstraction and Reasoning Corpus Learning Environment for Reinforcement Learning**|Hosung Lee et.al.|[2407.20806](http://arxiv.org/abs/2407.20806)|**[link](https://github.com/confeitohs/arcle)**|
@@ -2093,6 +2103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
