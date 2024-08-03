@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.02
+## Updated on 2024.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-07-31**|**ProSpec RL: Plan Ahead, then Execute**|Liangliang Liu et.al.|[2407.21359](http://arxiv.org/abs/2407.21359)|null|
 |**2024-07-31**|**Image-Based Deep Reinforcement Learning with Intrinsically Motivated Stimuli: On the Execution of Complex Robotic Tasks**|David Valencia et.al.|[2407.21338](http://arxiv.org/abs/2407.21338)|null|
 |**2024-07-31**|**Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation**|Taehyun Cho et.al.|[2407.21260](http://arxiv.org/abs/2407.21260)|null|
-|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|
+|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|**[link](https://github.com/enyen/NewStableTactileGrasp)**|
 |**2024-07-30**|**Enhancing Deep Hedging of Options with Implied Volatility Surface Feedback Information**|Pascal François et.al.|[2407.21138](http://arxiv.org/abs/2407.21138)|null|
 |**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
 |**2024-07-30**|**How to Choose a Reinforcement-Learning Algorithm**|Fabian Bongratz et.al.|[2407.20917](http://arxiv.org/abs/2407.20917)|null|
@@ -2022,7 +2022,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
 
 ## SLAM
 
@@ -2097,7 +2097,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
 
 ## NeRF
 
@@ -2787,7 +2787,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
