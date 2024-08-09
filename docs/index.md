@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
+|**2024-08-08**|**Hybrid Reinforcement Learning Breaks Sample Size Barriers in Linear MDPs**|Kevin Tan et.al.|[2408.04526](http://arxiv.org/abs/2408.04526)|null|
+|**2024-08-08**|**Model-Based Transfer Learning for Contextual Reinforcement Learning**|Jung-Hoon Cho et.al.|[2408.04498](http://arxiv.org/abs/2408.04498)|null|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[2408.04447](http://arxiv.org/abs/2408.04447)|null|
+|**2024-08-08**|**Non-maximizing policies that fulfill multi-criterion aspirations in expectation**|Simon Dima et.al.|[2408.04385](http://arxiv.org/abs/2408.04385)|null|
+|**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380](http://arxiv.org/abs/2408.04380)|null|
+|**2024-08-08**|**Deep Reinforcement Learning for the Design of Metamaterial Mechanisms with Functional Compliance Control**|Yejun Choi et.al.|[2408.04376](http://arxiv.org/abs/2408.04376)|null|
+|**2024-08-08**|**Goal-Oriented UAV Communication Design and Optimization for Target Tracking: A MachineLearning Approach**|Wenchao Wu et.al.|[2408.04358](http://arxiv.org/abs/2408.04358)|null|
+|**2024-08-08**|**KnowPC: Knowledge-Driven Programmatic Reinforcement Learning for Zero-shot Coordination**|Yin Gu et.al.|[2408.04336](http://arxiv.org/abs/2408.04336)|null|
+|**2024-08-08**|**Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization**|Aditya Kapoor et.al.|[2408.04295](http://arxiv.org/abs/2408.04295)|null|
 |**2024-08-07**|**Traffic and Obstacle-aware UAV Positioning in Urban Environments Using Reinforcement Learning**|Kamran Shafafi et.al.|[2408.03894](http://arxiv.org/abs/2408.03894)|null|
 |**2024-08-07**|**HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks**|Jingsong Liang et.al.|[2408.03768](http://arxiv.org/abs/2408.03768)|null|
 |**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
@@ -2144,6 +2154,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/abs/2408.03356)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
