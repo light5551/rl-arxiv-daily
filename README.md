@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Off-Policy Reinforcement Learning with High Dimensional Reward**|Dong Neuck Lee et.al.|[2408.07660](http://arxiv.org/abs/2408.07660)|null|
+|**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647](http://arxiv.org/abs/2408.07647)|null|
+|**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
+|**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629](http://arxiv.org/abs/2408.07629)|null|
+|**2024-08-14**|**A Nested Graph Reinforcement Learning-based Decision-making Strategy for Eco-platooning**|Xin Gao et.al.|[2408.07578](http://arxiv.org/abs/2408.07578)|null|
+|**2024-08-14**|**Large Language Models Know What Makes Exemplary Contexts**|Quanyu Long et.al.|[2408.07505](http://arxiv.org/abs/2408.07505)|null|
+|**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](http://arxiv.org/abs/2408.07465)|null|
+|**2024-08-14**|**Real-world validation of safe reinforcement learning, model predictive control and decision tree-based home energy management systems**|Julian Ruddick et.al.|[2408.07435](http://arxiv.org/abs/2408.07435)|null|
+|**2024-08-14**|**Bridging Training and Execution via Dynamic Directed Graph-Based Communication in Cooperative Multi-Agent Systems**|Zhuohui Zhang et.al.|[2408.07397](http://arxiv.org/abs/2408.07397)|null|
+|**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395](http://arxiv.org/abs/2408.07395)|null|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
 |**2024-08-13**|**IRS-Assisted Lossy Communications Under Correlated Rayleigh Fading: Outage Probability Analysis and Optimization**|Guanchang Li et.al.|[2408.06969](http://arxiv.org/abs/2408.06969)|null|
 |**2024-08-13**|**Heavy-Ball Momentum Accelerated Actor-Critic With Function Approximation**|Yanjie Dong et.al.|[2408.06945](http://arxiv.org/abs/2408.06945)|null|
@@ -2187,6 +2197,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
