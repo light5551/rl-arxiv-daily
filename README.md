@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[2408.08242](http://arxiv.org/abs/2408.08242)|null|
+|**2024-08-15**|**Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators**|Mark Towers et.al.|[2408.08230](http://arxiv.org/abs/2408.08230)|**[link](https://github.com/pseudo-rnd-thoughts/temporal-reward-decomposition)**|
+|**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152](http://arxiv.org/abs/2408.08152)|null|
+|**2024-08-15**|**Independent Policy Mirror Descent for Markov Potential Games: Scaling to Large Number of Players**|Pragnya Alatur et.al.|[2408.08075](http://arxiv.org/abs/2408.08075)|null|
+|**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
+|**2024-08-15**|**Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx**|Ana Fernández del Río et.al.|[2408.08024](http://arxiv.org/abs/2408.08024)|null|
+|**2024-08-15**|**Experimental evaluation of offline reinforcement learning for HVAC control in buildings**|Jun Wang et.al.|[2408.07986](http://arxiv.org/abs/2408.07986)|null|
+|**2024-08-15**|**Meta SAC-Lag: Towards Deployable Safe Reinforcement Learning via MetaGradient-based Hyperparameter Tuning**|Homayoun Honari et.al.|[2408.07962](http://arxiv.org/abs/2408.07962)|null|
+|**2024-08-15**|**Solving a Rubik's Cube Using its Local Graph Structure**|Shunyu Yao et.al.|[2408.07945](http://arxiv.org/abs/2408.07945)|null|
+|**2024-08-15**|**IReCa: Intrinsic Reward-enhanced Context-aware Reinforcement Learning for Human-AI Coordination**|Xin Hao et.al.|[2408.07877](http://arxiv.org/abs/2408.07877)|null|
 |**2024-08-14**|**Off-Policy Reinforcement Learning with High Dimensional Reward**|Dong Neuck Lee et.al.|[2408.07660](http://arxiv.org/abs/2408.07660)|null|
 |**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647](http://arxiv.org/abs/2408.07647)|null|
 |**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
@@ -2197,6 +2207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
