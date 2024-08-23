@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities**|Yousef Emami et.al.|[2408.12548](http://arxiv.org/abs/2408.12548)|null|
+|**2024-08-22**|**PCGRL+: Scaling, Control and Generalization in Reinforcement Learning Level Generators**|Sam Earle et.al.|[2408.12525](http://arxiv.org/abs/2408.12525)|null|
+|**2024-08-22**|**EX-DRL: Hedging Against Heavy Losses with EXtreme Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2408.12446](http://arxiv.org/abs/2408.12446)|null|
+|**2024-08-22**|**Leveraging Unlabeled Data Sharing through Kernel Function Approximation in Offline Reinforcement Learning**|Yen-Ru Lai et.al.|[2408.12307](http://arxiv.org/abs/2408.12307)|null|
+|**2024-08-22**|**Domino-cooling Oscillator Networks with Deep Reinforcement Learning**|Sampreet Kalita et.al.|[2408.12271](http://arxiv.org/abs/2408.12271)|null|
+|**2024-08-22**|**UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model**|Xia Jiang et.al.|[2408.12214](http://arxiv.org/abs/2408.12214)|null|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/abs/2408.12190)|null|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/abs/2408.12187)|null|
+|**2024-08-22**|**Preference-Guided Reflective Sampling for Aligning Language Models**|Hai Ye et.al.|[2408.12163](http://arxiv.org/abs/2408.12163)|null|
 |**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816](http://arxiv.org/abs/2408.11816)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**Deviations from the Nash equilibrium and emergence of tacit collusion in a two-player optimal execution game with reinforcement learning**|Fabrizio Lillo et.al.|[2408.11773](http://arxiv.org/abs/2408.11773)|null|
@@ -2238,6 +2248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
