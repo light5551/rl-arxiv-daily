@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron**|Christian Schmid et.al.|[2409.03749](http://arxiv.org/abs/2409.03749)|null|
+|**2024-09-05**|**Differentiable Discrete Event Simulation for Queuing Network Control**|Ethan Che et.al.|[2409.03740](http://arxiv.org/abs/2409.03740)|null|
+|**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650](http://arxiv.org/abs/2409.03650)|null|
+|**2024-09-05**|**1 Modular Parallel Manipulator for Long-Term Soft Robotic Data Collection**|Kiyn Chin et.al.|[2409.03614](http://arxiv.org/abs/2409.03614)|null|
+|**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
+|**2024-09-05**|**Sparsifying Parametric Models with L0 Regularization**|Nicolò Botteghi et.al.|[2409.03489](http://arxiv.org/abs/2409.03489)|null|
+|**2024-09-05**|**Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection**|Sara Roos-Hoefgeest et.al.|[2409.03429](http://arxiv.org/abs/2409.03429)|null|
+|**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402](http://arxiv.org/abs/2409.03402)|null|
+|**2024-09-05**|**ELO-Rated Sequence Rewards: Advancing Reinforcement Learning Models**|Qi Ju et.al.|[2409.03301](http://arxiv.org/abs/2409.03301)|**[link](https://github.com/Zealoter/ERRL)**|
+|**2024-09-05**|**Robust synchronization and policy adaptation for networked heterogeneous agents**|Miguel F. Arevalo-Castiblanco et.al.|[2409.03273](http://arxiv.org/abs/2409.03273)|null|
 |**2024-09-04**|**Knowledge Transfer for Collaborative Misbehavior Detection in Untrusted Vehicular Environments**|Roshan Sedar et.al.|[2409.02844](http://arxiv.org/abs/2409.02844)|null|
 |**2024-09-04**|**Tractable Offline Learning of Regular Decision Processes**|Ahana Deb et.al.|[2409.02747](http://arxiv.org/abs/2409.02747)|null|
 |**2024-09-04**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
@@ -2251,7 +2261,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|null|
+|**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
 |**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472](http://arxiv.org/abs/2408.16472)|null|
 |**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150](http://arxiv.org/abs/2408.16150)|null|
@@ -2333,9 +2343,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
+|**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
 |**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
-|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|null|
+|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|**[link](https://github.com/lucky9-cyou/S2-NeRF)**|
 |**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
