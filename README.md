@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
+|**2024-09-06**|**Gaussian-Mixture-Model Q-Functions for Reinforcement Learning by Riemannian Optimization**|Minh Vu et.al.|[2409.04374](http://arxiv.org/abs/2409.04374)|null|
+|**2024-09-06**|**Refined Bounds on Near Optimality Finite Window Policies in POMDPs and Their Reinforcement Learning**|Yunus Emre Demirci et.al.|[2409.04351](http://arxiv.org/abs/2409.04351)|null|
+|**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224](http://arxiv.org/abs/2409.04224)|null|
+|**2024-09-06**|**Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering**|Jan Hofmann et.al.|[2409.04122](http://arxiv.org/abs/2409.04122)|null|
+|**2024-09-05**|**DRAL: Deep Reinforcement Adaptive Learning for Multi-UAVs Navigation in Unknown Indoor Environment**|Kangtong Mo et.al.|[2409.03930](http://arxiv.org/abs/2409.03930)|null|
+|**2024-09-05**|**Asynchronous Stochastic Approximation and Average-Reward Reinforcement Learning**|Huizhen Yu et.al.|[2409.03915](http://arxiv.org/abs/2409.03915)|null|
+|**2024-09-05**|**On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments**|Muxing Wang et.al.|[2409.03897](http://arxiv.org/abs/2409.03897)|null|
+|**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[2409.03881](http://arxiv.org/abs/2409.03881)|null|
 |**2024-09-05**|**Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron**|Christian Schmid et.al.|[2409.03749](http://arxiv.org/abs/2409.03749)|null|
 |**2024-09-05**|**Differentiable Discrete Event Simulation for Queuing Network Control**|Ethan Che et.al.|[2409.03740](http://arxiv.org/abs/2409.03740)|null|
 |**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650](http://arxiv.org/abs/2409.03650)|null|
