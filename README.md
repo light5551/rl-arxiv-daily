@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Robust Deep Reinforcement Learning for Volt-VAR Optimization in Active Distribution System under Uncertainty**|Zhengrong Chen et.al.|[2409.18937](http://arxiv.org/abs/2409.18937)|null|
+|**2024-09-27**|**HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models**|Yu Zhou et.al.|[2409.18893](http://arxiv.org/abs/2409.18893)|null|
+|**2024-09-27**|**ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning**|Jannis Becktepe et.al.|[2409.18827](http://arxiv.org/abs/2409.18827)|**[link](https://github.com/automl/arlbench)**|
+|**2024-09-27**|**LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis**|Hamed Babaei Giglou et.al.|[2409.18812](http://arxiv.org/abs/2409.18812)|null|
+|**2024-09-27**|**Autoregressive Policy Optimization for Constrained Allocation Tasks**|David Winkel et.al.|[2409.18735](http://arxiv.org/abs/2409.18735)|**[link](https://github.com/niklasdbs/paspo)**|
+|**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718](http://arxiv.org/abs/2409.18718)|null|
+|**2024-09-27**|**Refutation of Spectral Graph Theory Conjectures with Search Algorithms)**|Milo Roucairol et.al.|[2409.18626](http://arxiv.org/abs/2409.18626)|null|
+|**2024-09-27**|**TemporalPaD: a reinforcement-learning framework for temporal feature representation and dimension reduction**|Xuechen Mu et.al.|[2409.18597](http://arxiv.org/abs/2409.18597)|null|
+|**2024-09-27**|**Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen**|Miguel Costa et.al.|[2409.18574](http://arxiv.org/abs/2409.18574)|null|
+|**2024-09-27**|**Cost-Aware Dynamic Cloud Workflow Scheduling using Self-Attention and Evolutionary Reinforcement Learning**|Ya Shen et.al.|[2409.18444](http://arxiv.org/abs/2409.18444)|null|
 |**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
 |**2024-09-26**|**Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles**|Lewei He et.al.|[2409.18014](http://arxiv.org/abs/2409.18014)|null|
 |**2024-09-26**|**LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots**|Peilin Wu et.al.|[2409.17992](http://arxiv.org/abs/2409.17992)|null|
