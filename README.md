@@ -52,7 +52,7 @@
 |**2024-09-27**|**Robust Deep Reinforcement Learning for Volt-VAR Optimization in Active Distribution System under Uncertainty**|Zhengrong Chen et.al.|[2409.18937](http://arxiv.org/abs/2409.18937)|null|
 |**2024-09-27**|**HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models**|Yu Zhou et.al.|[2409.18893](http://arxiv.org/abs/2409.18893)|null|
 |**2024-09-27**|**ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning**|Jannis Becktepe et.al.|[2409.18827](http://arxiv.org/abs/2409.18827)|**[link](https://github.com/automl/arlbench)**|
-|**2024-09-27**|**LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis**|Hamed Babaei Giglou et.al.|[2409.18812](http://arxiv.org/abs/2409.18812)|null|
+|**2024-09-27**|**LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis**|Hamed Babaei Giglou et.al.|[2409.18812](http://arxiv.org/abs/2409.18812)|**[link](https://github.com/HamedBabaei/LLMs4Synthesis)**|
 |**2024-09-27**|**Autoregressive Policy Optimization for Constrained Allocation Tasks**|David Winkel et.al.|[2409.18735](http://arxiv.org/abs/2409.18735)|**[link](https://github.com/niklasdbs/paspo)**|
 |**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718](http://arxiv.org/abs/2409.18718)|null|
 |**2024-09-27**|**Refutation of Spectral Graph Theory Conjectures with Search Algorithms)**|Milo Roucairol et.al.|[2409.18626](http://arxiv.org/abs/2409.18626)|null|
@@ -1018,7 +1018,7 @@
 |**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-26**|**Q-Learning to navigate turbulence without a map**|Marco Rando et.al.|[2404.17495](http://arxiv.org/abs/2404.17495)|null|
 |**2024-04-26**|**Adaptive speed planning for Unmanned Vehicle Based on Deep Reinforcement Learning**|Hao Liu et.al.|[2404.17379](http://arxiv.org/abs/2404.17379)|null|
-|**2024-04-26**|**When to Trust LLMs: Aligning Confidence with Response Quality**|Shuchang Tao et.al.|[2404.17287](http://arxiv.org/abs/2404.17287)|null|
+|**2024-04-26**|**When to Trust LLMs: Aligning Confidence with Response Quality**|Shuchang Tao et.al.|[2404.17287](http://arxiv.org/abs/2404.17287)|**[link](https://github.com/taoshuchang/conqord)**|
 |**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225](http://arxiv.org/abs/2404.17225)|null|
 |**2024-04-26**|**An Explainable Deep Reinforcement Learning Model for Warfarin Maintenance Dosing Using Policy Distillation and Action Forging**|Sadjad Anzabi Zadeh et.al.|[2404.17187](http://arxiv.org/abs/2404.17187)|null|
 |**2024-04-25**|**Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach**|Panagiotis Promponas et.al.|[2404.17077](http://arxiv.org/abs/2404.17077)|**[link](https://github.com/ppromponas/compilerdqc)**|
@@ -1833,7 +1833,7 @@
 |**2023-12-22**|**YAYI 2: Multilingual Open-Source Large Language Models**|Yin Luo et.al.|[2312.14862](http://arxiv.org/abs/2312.14862)|null|
 |**2023-12-22**|**An investigation of belief-free DRL and MCTS for inspection and maintenance planning**|Daniel Koutas et.al.|[2312.14824](http://arxiv.org/abs/2312.14824)|null|
 |**2023-12-22**|**Hierarchical Multi-Agent Reinforcement Learning for Assessing False-Data Injection Attacks on Transportation Networks**|Taha Eghtesad et.al.|[2312.14625](http://arxiv.org/abs/2312.14625)|null|
-|**2023-12-22**|**Machine learning for structure-guided materials and process design**|Lukas Morand et.al.|[2312.14552](http://arxiv.org/abs/2312.14552)|null|
+|**2023-12-22**|**Machine learning for structure-guided materials and process design**|Lukas Morand et.al.|[2312.14552](http://arxiv.org/abs/2312.14552)|**[link](https://gitlab.com/tarekiraki/the_smtl_framework)**|
 |**2023-12-22**|**DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge**|Jiaming Lu et.al.|[2312.14532](http://arxiv.org/abs/2312.14532)|**[link](https://github.com/lujiaming-12138/dualight)**|
 |**2023-12-22**|**Not All Tasks Are Equally Difficult: Multi-Task Reinforcement Learning with Dynamic Depth Routing**|Jinmin He et.al.|[2312.14472](http://arxiv.org/abs/2312.14472)|null|
 |**2023-12-22**|**Safe Reinforcement Learning with Instantaneous Constraints: The Role of Aggressive Exploration**|Honghao Wei et.al.|[2312.14470](http://arxiv.org/abs/2312.14470)|null|
@@ -2699,7 +2699,7 @@
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
-|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|**[link](https://github.com/hzxie/GaussianCity)**|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133](http://arxiv.org/abs/2406.06133)|null|
@@ -2892,7 +2892,7 @@
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
 |**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
-|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|**[link](https://github.com/abhi1kumar/SUP-NeRF)**|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
