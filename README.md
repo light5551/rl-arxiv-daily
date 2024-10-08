@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
+|**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255](http://arxiv.org/abs/2410.05255)|**[link](https://github.com/dwanzhang-ai/seppo)**|
+|**2024-10-07**|**ETGL-DDPG: A Deep Deterministic Policy Gradient Algorithm for Sparse Reward Continuous Control**|Ehsan Futuhi et.al.|[2410.05225](http://arxiv.org/abs/2410.05225)|null|
+|**2024-10-07**|**Smart Jamming Attack and Mitigation on Deep Transfer Reinforcement Learning Enabled Resource Allocation for Network Slicing**|Shavbo Salehi et.al.|[2410.05153](http://arxiv.org/abs/2410.05153)|null|
+|**2024-10-07**|**PAMLR: A Passive-Active Multi-Armed Bandit-Based Solution for LoRa Channel Allocation**|Jihoon Yun et.al.|[2410.05147](http://arxiv.org/abs/2410.05147)|null|
+|**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
+|**2024-10-07**|**AlphaRouter: Quantum Circuit Routing with Reinforcement Learning and Tree Search**|Wei Tang et.al.|[2410.05115](http://arxiv.org/abs/2410.05115)|null|
+|**2024-10-07**|**Reinforcement Learning Control for Autonomous Hydraulic Material Handling Machines with Underactuated Tools**|Filippo A. Spinelli et.al.|[2410.05093](http://arxiv.org/abs/2410.05093)|null|
+|**2024-10-07**|**Efficient Model-Based Reinforcement Learning Through Optimistic Thompson Sampling**|Jasmine Bayrooti et.al.|[2410.04988](http://arxiv.org/abs/2410.04988)|null|
+|**2024-10-07**|**Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**|Chen Zhang et.al.|[2410.04936](http://arxiv.org/abs/2410.04936)|null|
 |**2024-10-04**|**Learning Humanoid Locomotion over Challenging Terrain**|Ilija Radosavovic et.al.|[2410.03654](http://arxiv.org/abs/2410.03654)|null|
 |**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
 |**2024-10-04**|**Open-World Reinforcement Learning over Long Short-Term Imagination**|Jiajian Li et.al.|[2410.03618](http://arxiv.org/abs/2410.03618)|null|
@@ -2505,6 +2515,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
+|**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873](http://arxiv.org/abs/2410.04873)|null|
+|**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402](http://arxiv.org/abs/2410.04402)|null|
+|**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
 |**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
