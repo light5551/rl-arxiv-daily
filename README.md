@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Hierarchical Universal Value Function Approximators**|Rushiv Arora et.al.|[2410.08997](http://arxiv.org/abs/2410.08997)|null|
+|**2024-10-11**|**Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control**|Devdhar Patel et.al.|[2410.08979](http://arxiv.org/abs/2410.08979)|null|
+|**2024-10-11**|**MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL**|Claas A Voelcker et.al.|[2410.08896](http://arxiv.org/abs/2410.08896)|null|
+|**2024-10-11**|**Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient**|Wenlong Wang et.al.|[2410.08893](http://arxiv.org/abs/2410.08893)|**[link](https://github.com/realwenlongwang/drama)**|
+|**2024-10-11**|**Adaptive optimization of wave energy conversion in oscillatory wave surge converters via SPH simulation and deep reinforcement learning**|Mai Ye et.al.|[2410.08871](http://arxiv.org/abs/2410.08871)|null|
+|**2024-10-11**|**Can we hop in general? A discussion of benchmark selection and design using the Hopper environment**|Claas A Voelcker et.al.|[2410.08870](http://arxiv.org/abs/2410.08870)|null|
+|**2024-10-11**|**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**|Zijiang Yan et.al.|[2410.08854](http://arxiv.org/abs/2410.08854)|null|
+|**2024-10-11**|**Public Transport Network Design for Equality of Accessibility via Message Passing Neural Networks and Reinforcement Learning**|Duo Wang et.al.|[2410.08841](http://arxiv.org/abs/2410.08841)|null|
+|**2024-10-11**|**SOLD: Reinforcement Learning with Slot Object-Centric Latent Dynamics**|Malte Mosbach et.al.|[2410.08822](http://arxiv.org/abs/2410.08822)|null|
+|**2024-10-11**|**Online Learning for Intelligent Thermal Management of Interference-coupled and Passively Cooled Base Stations**|Zhanwei Yu et.al.|[2410.08799](http://arxiv.org/abs/2410.08799)|null|
 |**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
 |**2024-10-10**|**Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**|Amrith Setlur et.al.|[2410.08146](http://arxiv.org/abs/2410.08146)|null|
 |**2024-10-10**|**VerifierQ: Enhancing LLM Test Time Compute with Q-Learning-based Verifiers**|Jianing Qi et.al.|[2410.08048](http://arxiv.org/abs/2410.08048)|null|
@@ -2442,7 +2452,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## SLAM
 
@@ -2530,12 +2540,15 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
+|**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
@@ -3328,7 +3341,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
