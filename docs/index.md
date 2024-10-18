@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-16**|**SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling**|Loris Gaven et.al.|[2410.12481](http://arxiv.org/abs/2410.12481)|null|
 |**2024-10-16**|**Sharpness-Aware Black-Box Optimization**|Feiyang Ye et.al.|[2410.12457](http://arxiv.org/abs/2410.12457)|null|
 |**2024-10-16**|**AoI-Aware Resource Allocation for Smart Multi-QoS Provisioning**|Jingqing Wang et.al.|[2410.12384](http://arxiv.org/abs/2410.12384)|null|
-|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|null|
+|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|**[link](https://github.com/lamm-mit/PRefLexOR)**|
 |**2024-10-16**|**GAN Based Top-Down View Synthesis in Reinforcement Learning Environments**|Usama Younus et.al.|[2410.12372](http://arxiv.org/abs/2410.12372)|null|
 |**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
 |**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833](http://arxiv.org/abs/2410.11833)|null|
