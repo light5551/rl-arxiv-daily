@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
+|**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
+|**2024-10-23**|**Cross-lingual Transfer of Reward Models in Multilingual Alignment**|Jiwoo Hong et.al.|[2410.18027](http://arxiv.org/abs/2410.18027)|null|
+|**2024-10-23**|**Dynamic Spectrum Access for Ambient Backscatter Communication-assisted D2D Systems with Quantum Reinforcement Learning**|Nguyen Van Huynh et.al.|[2410.17971](http://arxiv.org/abs/2410.17971)|null|
+|**2024-10-23**|**Slot: Provenance-Driven APT Detection through Graph Reinforcement Learning**|Wei Qiao et.al.|[2410.17910](http://arxiv.org/abs/2410.17910)|null|
+|**2024-10-23**|**Reinforcement Learning under Latent Dynamics: Toward Statistical and Algorithmic Modularity**|Philip Amortila et.al.|[2410.17904](http://arxiv.org/abs/2410.17904)|null|
+|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|null|
+|**2024-10-23**|**Learning Versatile Skills with Curriculum Masking**|Yao Tang et.al.|[2410.17744](http://arxiv.org/abs/2410.17744)|**[link](https://github.com/yaotang23/currmask)**|
+|**2024-10-23**|**Optimizing Load Scheduling in Power Grids Using Reinforcement Learning and Markov Decision Processes**|Dongwen Luo et.al.|[2410.17696](http://arxiv.org/abs/2410.17696)|null|
 |**2024-10-22**|**Few-shot In-Context Preference Learning Using Large Language Models**|Chao Yu et.al.|[2410.17233](http://arxiv.org/abs/2410.17233)|null|
 |**2024-10-22**|**DyPNIPP: Predicting Environment Dynamics for RL-based Robust Informative Path Planning**|Srujan Deolasee et.al.|[2410.17186](http://arxiv.org/abs/2410.17186)|null|
 |**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|**[link](https://github.com/flagshippioneering/pi-rldif)**|
@@ -2617,6 +2627,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932](http://arxiv.org/abs/2410.17932)|null|
+|**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839](http://arxiv.org/abs/2410.17839)|null|
+|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|null|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
