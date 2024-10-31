@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,9 +22,9 @@
 |**2024-10-29**|**Environment as Policy: Learning to Race in Unseen Tracks**|Hongze Wang et.al.|[2410.22308](http://arxiv.org/abs/2410.22308)|null|
 |**2024-10-29**|**EconoJax: A Fast & Scalable Economic Simulation in Jax**|Koen Ponse et.al.|[2410.22165](http://arxiv.org/abs/2410.22165)|**[link](https://github.com/ponseko/econojax)**|
 |**2024-10-29**|**Learning Successor Features the Simple Way**|Raymond Chua et.al.|[2410.22133](http://arxiv.org/abs/2410.22133)|null|
-|**2024-10-29**|**PC-Gym: Benchmark Environments For Process Control Problems**|Maximilian Bloor et.al.|[2410.22093](http://arxiv.org/abs/2410.22093)|null|
+|**2024-10-30**|**PC-Gym: Benchmark Environments For Process Control Problems**|Maximilian Bloor et.al.|[2410.22093](http://arxiv.org/abs/2410.22093)|null|
 |**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966](http://arxiv.org/abs/2410.21966)|null|
-|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|null|
+|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|**[link](https://github.com/SenneDeproost/CM-GP)**|
 |**2024-10-29**|**Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**|Jianlan Luo et.al.|[2410.21845](http://arxiv.org/abs/2410.21845)|null|
 |**2024-10-29**|**Robot Policy Learning with Temporal Optimal Transport Reward**|Yuwei Fu et.al.|[2410.21795](http://arxiv.org/abs/2410.21795)|**[link](https://github.com/fuyw/temporalot)**|
 |**2024-10-29**|**Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem**|Shaan Ul Haque et.al.|[2410.21704](http://arxiv.org/abs/2410.21704)|null|
@@ -2572,7 +2572,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## SLAM
 
@@ -2662,7 +2662,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## NeRF
 
@@ -3495,7 +3495,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

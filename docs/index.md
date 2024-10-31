@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -17,9 +17,9 @@ layout: default
 |**2024-10-29**|**Environment as Policy: Learning to Race in Unseen Tracks**|Hongze Wang et.al.|[2410.22308](http://arxiv.org/abs/2410.22308)|null|
 |**2024-10-29**|**EconoJax: A Fast & Scalable Economic Simulation in Jax**|Koen Ponse et.al.|[2410.22165](http://arxiv.org/abs/2410.22165)|**[link](https://github.com/ponseko/econojax)**|
 |**2024-10-29**|**Learning Successor Features the Simple Way**|Raymond Chua et.al.|[2410.22133](http://arxiv.org/abs/2410.22133)|null|
-|**2024-10-29**|**PC-Gym: Benchmark Environments For Process Control Problems**|Maximilian Bloor et.al.|[2410.22093](http://arxiv.org/abs/2410.22093)|null|
+|**2024-10-30**|**PC-Gym: Benchmark Environments For Process Control Problems**|Maximilian Bloor et.al.|[2410.22093](http://arxiv.org/abs/2410.22093)|null|
 |**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966](http://arxiv.org/abs/2410.21966)|null|
-|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|null|
+|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|**[link](https://github.com/SenneDeproost/CM-GP)**|
 |**2024-10-29**|**Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**|Jianlan Luo et.al.|[2410.21845](http://arxiv.org/abs/2410.21845)|null|
 |**2024-10-29**|**Robot Policy Learning with Temporal Optimal Transport Reward**|Yuwei Fu et.al.|[2410.21795](http://arxiv.org/abs/2410.21795)|**[link](https://github.com/fuyw/temporalot)**|
 |**2024-10-29**|**Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem**|Shaan Ul Haque et.al.|[2410.21704](http://arxiv.org/abs/2410.21704)|null|
