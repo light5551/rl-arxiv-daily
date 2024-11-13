@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-11-11**|**OCMDP: Observation-Constrained Markov Decision Process**|Taiyi Wang et.al.|[2411.07087](http://arxiv.org/abs/2411.07087)|null|
 |**2024-11-11**|**To Train or Not to Train: Balancing Efficiency and Training Cost in Deep Reinforcement Learning for Mobile Edge Computing**|Maddalena Boscaro et.al.|[2411.07086](http://arxiv.org/abs/2411.07086)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
-|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|null|
+|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|**[link](https://github.com/prisca-lab/q-learning_concentration)**|
 |**2024-11-11**|**Streetwise Agents: Empowering Offline RL Policies to Outsmart Exogenous Stochastic Disturbances in RTC**|Aditya Soni et.al.|[2411.06815](http://arxiv.org/abs/2411.06815)|null|
 |**2024-11-11**|**QuadWBG: Generalizable Quadrupedal Whole-Body Grasping**|Jilong Wang et.al.|[2411.06782](http://arxiv.org/abs/2411.06782)|null|
 |**2024-11-08**|**Safe Reinforcement Learning of Robot Trajectories in the Presence of Moving Obstacles**|Jonas Kiemel et.al.|[2411.05784](http://arxiv.org/abs/2411.05784)|null|
@@ -2652,7 +2652,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## SLAM
 
@@ -2744,7 +2744,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## NeRF
 
@@ -3599,7 +3599,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

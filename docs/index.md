@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -21,7 +21,7 @@ layout: default
 |**2024-11-11**|**OCMDP: Observation-Constrained Markov Decision Process**|Taiyi Wang et.al.|[2411.07087](http://arxiv.org/abs/2411.07087)|null|
 |**2024-11-11**|**To Train or Not to Train: Balancing Efficiency and Training Cost in Deep Reinforcement Learning for Mobile Edge Computing**|Maddalena Boscaro et.al.|[2411.07086](http://arxiv.org/abs/2411.07086)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
-|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|null|
+|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|**[link](https://github.com/prisca-lab/q-learning_concentration)**|
 |**2024-11-11**|**Streetwise Agents: Empowering Offline RL Policies to Outsmart Exogenous Stochastic Disturbances in RTC**|Aditya Soni et.al.|[2411.06815](http://arxiv.org/abs/2411.06815)|null|
 |**2024-11-11**|**QuadWBG: Generalizable Quadrupedal Whole-Body Grasping**|Jilong Wang et.al.|[2411.06782](http://arxiv.org/abs/2411.06782)|null|
 |**2024-11-08**|**Safe Reinforcement Learning of Robot Trajectories in the Presence of Moving Obstacles**|Jonas Kiemel et.al.|[2411.05784](http://arxiv.org/abs/2411.05784)|null|
