@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
+|**2024-11-15**|**Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability**|Pooja Aslami et.al.|[2411.10367](http://arxiv.org/abs/2411.10367)|null|
+|**2024-11-15**|**BMP: Bridging the Gap between B-Spline and Movement Primitives**|Weiran Liao et.al.|[2411.10336](http://arxiv.org/abs/2411.10336)|null|
+|**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
+|**2024-11-15**|**The Surprising Ineffectiveness of Pre-Trained Visual Representations for Model-Based Reinforcement Learning**|Moritz Schneider et.al.|[2411.10175](http://arxiv.org/abs/2411.10175)|null|
+|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[2411.10171](http://arxiv.org/abs/2411.10171)|null|
+|**2024-11-15**|**Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention**|Libo Wang et.al.|[2411.10156](http://arxiv.org/abs/2411.10156)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-15**|**That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design**|Anna Goldie et.al.|[2411.10053](http://arxiv.org/abs/2411.10053)|null|
+|**2024-11-15**|**Enforcing Cooperative Safety for Reinforcement Learning-based Mixed-Autonomy Platoon Control**|Jingyuan Zhou et.al.|[2411.10031](http://arxiv.org/abs/2411.10031)|null|
+|**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953](http://arxiv.org/abs/2411.09953)|null|
 |**2024-11-14**|**A Risk Sensitive Contract-unified Reinforcement Learning Approach for Option Hedging**|Xianhua Peng et.al.|[2411.09659](http://arxiv.org/abs/2411.09659)|null|
 |**2024-11-14**|**Tailoring interactions between active nematic defects with reinforcement learning**|Carlos Floyd et.al.|[2411.09588](http://arxiv.org/abs/2411.09588)|null|
 |**2024-11-14**|**Developement of Reinforcement Learning based Optimisation Method for Side-Sill Design**|Aditya Borse et.al.|[2411.09499](http://arxiv.org/abs/2411.09499)|null|
@@ -2688,6 +2698,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
@@ -2781,6 +2792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
