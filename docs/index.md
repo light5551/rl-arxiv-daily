@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
+|**2024-11-26**|**Ensuring Safety in Target Pursuit Control: A CBF-Safe Reinforcement Learning Approach**|Yaosheng Deng et.al.|[2411.17552](http://arxiv.org/abs/2411.17552)|null|
+|**2024-11-26**|**IMPROVE: Improving Medical Plausibility without Reliance on HumanValidation -- An Enhanced Prototype-Guided Diffusion Framework**|Anurag Shandilya et.al.|[2411.17535](http://arxiv.org/abs/2411.17535)|null|
+|**2024-11-26**|**BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving**|Teng Wang et.al.|[2411.17404](http://arxiv.org/abs/2411.17404)|null|
+|**2024-11-26**|**Joint Combinatorial Node Selection and Resource Allocations in the Lightning Network using Attention-based Reinforcement Learning**|Mahdi Salahshour et.al.|[2411.17353](http://arxiv.org/abs/2411.17353)|null|
+|**2024-11-26**|**Self-reconfiguration Strategies for Space-distributed Spacecraft**|Tianle Liu et.al.|[2411.17137](http://arxiv.org/abs/2411.17137)|null|
+|**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-26**|**CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening**|Amar Kulkarni et.al.|[2411.16996](http://arxiv.org/abs/2411.16996)|null|
+|**2024-11-25**|**Curvature Informed Furthest Point Sampling**|Shubham Bhardwaj et.al.|[2411.16995](http://arxiv.org/abs/2411.16995)|null|
 |**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
 |**2024-11-25**|**Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation**|Muhammad Burhan Hafez et.al.|[2411.16532](http://arxiv.org/abs/2411.16532)|**[link](https://github.com/wabbajack1/tapd)**|
 |**2024-11-25**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market**|Luca Di Persio et.al.|[2411.16519](http://arxiv.org/abs/2411.16519)|null|
@@ -2845,6 +2855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
+|**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
+|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
