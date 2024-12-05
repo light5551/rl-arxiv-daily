@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb**|Arnaud Bersier et.al.|[2412.03279](http://arxiv.org/abs/2412.03279)|null|
+|**2024-12-04**|**Learning on One Mode: Addressing Multi-Modality in Offline Reinforcement Learning**|Mianchu Wang et.al.|[2412.03258](http://arxiv.org/abs/2412.03258)|null|
+|**2024-12-04**|**Alignment at Pre-training! Towards Native Alignment for Arabic LLMs**|Juhao Liang et.al.|[2412.03253](http://arxiv.org/abs/2412.03253)|**[link](https://github.com/freedomintelligence/acegpt-v2)**|
+|**2024-12-04**|**Using Deep Reinforcement Learning to Enhance Channel Sampling Patterns in Integrated Sensing and Communication**|Federico Mason et.al.|[2412.03157](http://arxiv.org/abs/2412.03157)|null|
+|**2024-12-04**|**Experience-driven discovery of planning strategies**|Ruiqi He et.al.|[2412.03111](http://arxiv.org/abs/2412.03111)|null|
+|**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2412.03051](http://arxiv.org/abs/2412.03051)|null|
+|**2024-12-04**|**Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator**|Kaiwen Jiang et.al.|[2412.03012](http://arxiv.org/abs/2412.03012)|null|
+|**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
+|**2024-12-04**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
 |**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699](http://arxiv.org/abs/2412.02699)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
 |**2024-12-03**|**AI-Driven Resource Allocation Framework for Microservices in Hybrid Cloud Platforms**|Biman Barua et.al.|[2412.02610](http://arxiv.org/abs/2412.02610)|null|
@@ -2798,6 +2808,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
@@ -2894,6 +2906,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
