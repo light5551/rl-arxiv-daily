@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332](http://arxiv.org/abs/2501.01332)|null|
+|**2025-01-02**|**Towards Intelligent Antenna Positioning: Leveraging DRL for FAS-Aided ISAC Systems**|Shunxing Yang et.al.|[2501.01281](http://arxiv.org/abs/2501.01281)|null|
+|**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
+|**2025-01-02**|**Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method**|Ruichen Zhang et.al.|[2501.01141](http://arxiv.org/abs/2501.01141)|null|
+|**2025-01-02**|**Communicating Unexpectedness for Out-of-Distribution Multi-Agent Reinforcement Learning**|Min Whoo Lee et.al.|[2501.01140](http://arxiv.org/abs/2501.01140)|null|
+|**2025-01-02**|**Symmetries-enhanced Multi-Agent Reinforcement Learning**|Nikolaos Bousias et.al.|[2501.01136](http://arxiv.org/abs/2501.01136)|null|
+|**2025-01-02**|**Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning**|Chenglu Sun et.al.|[2501.01085](http://arxiv.org/abs/2501.01085)|null|
+|**2025-01-02**|**Enhancing Neural Adaptive Wireless Video Streaming via Lower-Layer Information Exposure and Online Tuning**|Lingzhi Zhao et.al.|[2501.01044](http://arxiv.org/abs/2501.01044)|null|
+|**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
+|**2025-01-02**|**Deep Reinforcement Learning for Job Scheduling and Resource Management in Cloud Computing: An Algorithm-Level Review**|Yan Gu et.al.|[2501.01007](http://arxiv.org/abs/2501.01007)|null|
 |**2024-12-30**|**Advances in Multi-agent Reinforcement Learning: Persistent Autonomy and Robot Learning Lab Report 2024**|Reza Azadeh et.al.|[2412.21088](http://arxiv.org/abs/2412.21088)|null|
 |**2024-12-30**|**Learning Epidemiological Dynamics via the Finite Expression Method**|Jianda Du et.al.|[2412.21049](http://arxiv.org/abs/2412.21049)|null|
 |**2024-12-30**|**Weber-Fechner Law in Temporal Difference learning derived from Control as Inference**|Keiichiro Takahashi et.al.|[2412.21004](http://arxiv.org/abs/2412.21004)|null|
