@@ -44,7 +44,7 @@ layout: default
 |**2024-12-27**|**DeepSeek-V3 Technical Report**|DeepSeek-AI et.al.|[2412.19437](http://arxiv.org/abs/2412.19437)|**[link](https://github.com/deepseek-ai/deepseek-v3)**|
 |**2024-12-27**|**Low-Rank Contextual Reinforcement Learning from Heterogeneous Human Feedback**|Seong Jin Lee et.al.|[2412.19436](http://arxiv.org/abs/2412.19436)|null|
 |**2024-12-27**|**Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**|Kiran Koshy Thekumparampil et.al.|[2412.19396](http://arxiv.org/abs/2412.19396)|null|
-|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|**[link](https://github.com/ReserveJudgement/Centaur-GPT)**|
 |**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563](http://arxiv.org/abs/2412.18563)|**[link](https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37)**|
 |**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
 |**2024-12-24**|**Joint Adaptive OFDM and Reinforcement Learning Design for Autonomous Vehicles: Leveraging Age of Updates**|Mamady Delamou et.al.|[2412.18500](http://arxiv.org/abs/2412.18500)|null|
@@ -129,7 +129,7 @@ layout: default
 |**2024-12-12**|**Does Low Spoilage Under Cold Conditions Foster Cultural Complexity During the Foraging Era? -- A Theoretical and Computational Inquiry**|Minhyeok Lee et.al.|[2412.09335](http://arxiv.org/abs/2412.09335)|null|
 |**2024-12-12**|**Learning to be Indifferent in Complex Decisions: A Coarse Payoff-Assessment Model**|Philippe Jehiel et.al.|[2412.09321](http://arxiv.org/abs/2412.09321)|null|
 |**2024-12-12**|**Reconfigurable Intelligent Surface for Internet of Robotic Things**|Wanli Ni et.al.|[2412.09117](http://arxiv.org/abs/2412.09117)|null|
-|**2024-12-12**|**In-Dataset Trajectory Return Regularization for Offline Preference-based Reinforcement Learning**|Songjun Tu et.al.|[2412.09104](http://arxiv.org/abs/2412.09104)|null|
+|**2024-12-12**|**In-Dataset Trajectory Return Regularization for Offline Preference-based Reinforcement Learning**|Songjun Tu et.al.|[2412.09104](http://arxiv.org/abs/2412.09104)|**[link](https://github.com/TU2021/DTR)**|
 |**2024-12-12**|**Reasoning-Aware Query-Focused Summarization over Multi-Table Data**|Xiaochuan Lin et.al.|[2412.08970](http://arxiv.org/abs/2412.08970)|null|
 |**2024-12-12**|**From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning**|Pusen Dong et.al.|[2412.08920](http://arxiv.org/abs/2412.08920)|null|
 |**2024-12-11**|**Learning Sketch Decompositions in Planning via Deep Reinforcement Learning**|Michael Aichmüller et.al.|[2412.08574](http://arxiv.org/abs/2412.08574)|null|
@@ -169,7 +169,7 @@ layout: default
 |**2024-12-06**|**Learning-based Control for Tendon-Driven Continuum Robotic Arms**|Nima Maghooli et.al.|[2412.04829](http://arxiv.org/abs/2412.04829)|null|
 |**2024-12-06**|**A Temporally Correlated Latent Exploration for Reinforcement Learning**|SuMin Oh et.al.|[2412.04775](http://arxiv.org/abs/2412.04775)|null|
 |**2024-12-06**|**Measuring Goal-Directedness**|Matt MacDermott et.al.|[2412.04758](http://arxiv.org/abs/2412.04758)|null|
-|**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426](http://arxiv.org/abs/2412.04426)|null|
+|**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426](http://arxiv.org/abs/2412.04426)|**[link](https://github.com/CLIVERCHEN/Marvel-O2O_Safe_RL)**|
 |**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
 |**2024-12-05**|**Finer Behavioral Foundation Models via Auto-Regressive Features and Advantage Weighting**|Edoardo Cetin et.al.|[2412.04368](http://arxiv.org/abs/2412.04368)|null|
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
@@ -2687,7 +2687,7 @@ layout: default
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
 |**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
 |**2023-11-09**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553](http://arxiv.org/abs/2311.05553)|null|
-|**2023-11-09**|**Multi-Agent Quantum Reinforcement Learning using Evolutionary Optimization**|Michael Kölle et.al.|[2311.05546](http://arxiv.org/abs/2311.05546)|null|
+|**2023-11-09**|**Multi-Agent Quantum Reinforcement Learning using Evolutionary Optimization**|Michael Kölle et.al.|[2311.05546](http://arxiv.org/abs/2311.05546)|**[link](https://github.com/michaelkoelle/qmarl-evo)**|
 |**2023-11-09**|**Anytime-Constrained Reinforcement Learning**|Jeremy McMahan et.al.|[2311.05511](http://arxiv.org/abs/2311.05511)|**[link](https://github.com/jermcmahan/anytime-constraints)**|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
 |**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|**[link](https://github.com/sheldonresearch/microsoft-scoring-system)**|
