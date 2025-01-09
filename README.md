@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624](http://arxiv.org/abs/2501.04624)|null|
+|**2025-01-08**|**HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs**|Nicolò Botteghi et.al.|[2501.04538](http://arxiv.org/abs/2501.04538)|null|
+|**2025-01-08**|**Safe Reinforcement Learning with Minimal Supervision**|Alexander Quessy et.al.|[2501.04481](http://arxiv.org/abs/2501.04481)|null|
+|**2025-01-08**|**Research on environment perception and behavior prediction of intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480](http://arxiv.org/abs/2501.04480)|null|
+|**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472](http://arxiv.org/abs/2501.04472)|null|
+|**2025-01-08**|**Risk-averse policies for natural gas futures trading using distributional reinforcement learning**|Félicien Hêche et.al.|[2501.04421](http://arxiv.org/abs/2501.04421)|null|
+|**2025-01-08**|**Constraints as Rewards: Reinforcement Learning for Robots without Reward Functions**|Yu Ishihara et.al.|[2501.04228](http://arxiv.org/abs/2501.04228)|null|
 |**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902](http://arxiv.org/abs/2501.03902)|null|
 |**2025-01-07**|**Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies**|Kexin Gu Baugh et.al.|[2501.03888](http://arxiv.org/abs/2501.03888)|null|
 |**2025-01-07**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
@@ -3104,6 +3112,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
