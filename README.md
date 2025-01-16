@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Computing Approximated Fixpoints via Dampened Mann Iteration**|Paolo Baldan et.al.|[2501.08950](http://arxiv.org/abs/2501.08950)|null|
+|**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
+|**2025-01-15**|**Reinforcement learning-based adaptive time-integration for nonsmooth dynamics**|David Riley et.al.|[2501.08934](http://arxiv.org/abs/2501.08934)|null|
+|**2025-01-15**|**Projection Implicit Q-Learning with Support Constraint for Offline Reinforcement Learning**|Xinchen Han et.al.|[2501.08907](http://arxiv.org/abs/2501.08907)|null|
+|**2025-01-15**|**Deep Learning Meets Queue-Reactive: A Framework for Realistic Limit Order Book Simulation**|Hamza Bodor et.al.|[2501.08822](http://arxiv.org/abs/2501.08822)|null|
+|**2025-01-15**|**Multi-visual modality micro drone-based structural damage detection**|Isaac Osei Agyemanga et.al.|[2501.08807](http://arxiv.org/abs/2501.08807)|null|
+|**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
+|**2025-01-15**|**SPEQ: Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio Reinforcement Learning**|Carlo Romeo et.al.|[2501.08669](http://arxiv.org/abs/2501.08669)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
+|**2025-01-15**|**RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation**|Kaiqu Liang et.al.|[2501.08617](http://arxiv.org/abs/2501.08617)|null|
 |**2025-01-14**|**FDPP: Fine-tune Diffusion Policy with Human Preference**|Yuxin Chen et.al.|[2501.08259](http://arxiv.org/abs/2501.08259)|null|
 |**2025-01-14**|**Dynamic Pricing in High-Speed Railways Using Multi-Agent Reinforcement Learning**|Enrique Adrian Villarrubia-Martin et.al.|[2501.08234](http://arxiv.org/abs/2501.08234)|null|
 |**2025-01-14**|**Optimization of Link Configuration for Satellite Communication Using Reinforcement Learning**|Tobias Rohe et.al.|[2501.08220](http://arxiv.org/abs/2501.08220)|null|
@@ -3049,6 +3059,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
@@ -3152,9 +3163,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
 |**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
