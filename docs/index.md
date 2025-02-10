@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails**|Yihe Deng et.al.|[2502.05163](http://arxiv.org/abs/2502.05163)|null|
+|**2025-02-07**|**Use of Winsome Robots for Understanding Human Feedback (UWU)**|Jessica Eggers et.al.|[2502.05118](http://arxiv.org/abs/2502.05118)|null|
+|**2025-02-07**|**3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery**|Xiuyuan Hu et.al.|[2502.05107](http://arxiv.org/abs/2502.05107)|null|
+|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/abs/2502.05078)|null|
+|**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069](http://arxiv.org/abs/2502.05069)|null|
+|**2025-02-07**|**Seasonal Station-Keeping of Short Duration High Altitude Balloons using Deep Reinforcement Learning**|Tristan K. Schuler et.al.|[2502.05014](http://arxiv.org/abs/2502.05014)|null|
+|**2025-02-07**|**A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning Enhanced Approach**|Taiyi Wang et.al.|[2502.05001](http://arxiv.org/abs/2502.05001)|null|
+|**2025-02-07**|**Enhancing Pre-Trained Decision Transformers with Prompt-Tuning Bandits**|Finn Rietz et.al.|[2502.04979](http://arxiv.org/abs/2502.04979)|null|
+|**2025-02-07**|**Towards Smarter Sensing: 2D Clutter Mitigation in RL-Driven Cognitive MIMO Radar**|Adam Umra et.al.|[2502.04967](http://arxiv.org/abs/2502.04967)|null|
+|**2025-02-07**|**Fast Adaptive Anti-Jamming Channel Access via Deep Q Learning and Coarse-Grained Spectrum Prediction**|Jianshu Zhang et.al.|[2502.04963](http://arxiv.org/abs/2502.04963)|null|
 |**2025-02-06**|**DexterityGen: Foundation Controller for Unprecedented Dexterity**|Zhao-Heng Yin et.al.|[2502.04307](http://arxiv.org/abs/2502.04307)|null|
 |**2025-02-06**|**PILAF: Optimal Human Preference Sampling for Reward Modeling**|Yunzhen Feng et.al.|[2502.04270](http://arxiv.org/abs/2502.04270)|null|
 |**2025-02-06**|**Behavioral Entropy-Guided Dataset Generation for Offline Reinforcement Learning**|Wesley A. Suttle et.al.|[2502.04141](http://arxiv.org/abs/2502.04141)|null|
@@ -3296,6 +3306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
