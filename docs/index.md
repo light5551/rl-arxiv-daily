@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Recurrent Auto-Encoders for Enhanced Deep Reinforcement Learning in Wilderness Search and Rescue Planning**|Jan-Hendrik Ewers et.al.|[2502.19356](http://arxiv.org/abs/2502.19356)|null|
+|**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
+|**2025-02-26**|**WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies**|William Solow et.al.|[2502.19308](http://arxiv.org/abs/2502.19308)|null|
+|**2025-02-26**|**Combining Planning and Reinforcement Learning for Solving Relational Multiagent Domains**|Nikhilesh Prabhakar et.al.|[2502.19297](http://arxiv.org/abs/2502.19297)|null|
+|**2025-02-26**|**Deep Computerized Adaptive Testing**|Jiguang Li et.al.|[2502.19275](http://arxiv.org/abs/2502.19275)|null|
+|**2025-02-26**|**Can RLHF be More Efficient with Imperfect Reward Models? A Policy Coverage Perspective**|Jiawei Huang et.al.|[2502.19255](http://arxiv.org/abs/2502.19255)|null|
+|**2025-02-26**|**Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time**|Jiazheng Li et.al.|[2502.19230](http://arxiv.org/abs/2502.19230)|null|
+|**2025-02-26**|**When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning**|Yijiang River Dong et.al.|[2502.19158](http://arxiv.org/abs/2502.19158)|null|
+|**2025-02-26**|**Policy Testing with MDPFuzz (Replicability Study)**|Quentin Mazouni et.al.|[2502.19116](http://arxiv.org/abs/2502.19116)|null|
+|**2025-02-26**|**XSS Adversarial Attacks Based on Deep Reinforcement Learning: A Replication and Extension Study**|Samuele Pasini et.al.|[2502.19095](http://arxiv.org/abs/2502.19095)|null|
 |**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
 |**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
 |**2025-02-25**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Fengshuo Bai et.al.|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
@@ -3322,6 +3332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
@@ -3430,6 +3441,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
+|**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125](http://arxiv.org/abs/2502.19125)|null|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
 |**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
