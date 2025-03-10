@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -22,7 +22,7 @@ layout: default
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 |**2025-03-06**|**Energy-Aware Task Offloading for Rotatable STAR-RIS-Enhanced Mobile Edge Computing Systems**|Dongdong Yang et.al.|[2503.04397](http://arxiv.org/abs/2503.04397)|null|
 |**2025-03-06**|**Delay-Aware Digital Twin Synchronization in Mobile Edge Networks with Semantic Communications**|Bin Li et.al.|[2503.04387](http://arxiv.org/abs/2503.04387)|null|
-|**2025-03-06**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
+|**2025-03-07**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
 |**2025-03-06**|**Frequency Hopping Synchronization by Reinforcement Learning for Satellite Communication System**|Inkyu Kim et.al.|[2503.04266](http://arxiv.org/abs/2503.04266)|null|
 |**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
 |**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660](http://arxiv.org/abs/2503.03660)|null|
