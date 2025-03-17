@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
-|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|null|
+|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|**[link](https://github.com/Fancy-MLLM/R1-onevision)**|
 |**2025-03-13**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561](http://arxiv.org/abs/2503.10561)|null|
 |**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559](http://arxiv.org/abs/2503.10559)|null|
 |**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509](http://arxiv.org/abs/2503.10509)|null|
 |**2025-03-13**|**Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality**|Wei Xiao et.al.|[2503.10484](http://arxiv.org/abs/2503.10484)|null|
 |**2025-03-13**|**SortingEnv: An Extendable RL-Environment for an Industrial Sorting Process**|Tom Maus et.al.|[2503.10466](http://arxiv.org/abs/2503.10466)|null|
-|**2025-03-13**|**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**|Liang Wen et.al.|[2503.10460](http://arxiv.org/abs/2503.10460)|null|
+|**2025-03-13**|**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**|Liang Wen et.al.|[2503.10460](http://arxiv.org/abs/2503.10460)|**[link](https://github.com/qihoo360/light-r1)**|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421](http://arxiv.org/abs/2503.10421)|null|
 |**2025-03-12**|**Strategyproof Reinforcement Learning from Human Feedback**|Thomas Kleine Buening et.al.|[2503.09561](http://arxiv.org/abs/2503.09561)|null|
