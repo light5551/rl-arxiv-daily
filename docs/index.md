@@ -25,7 +25,7 @@ layout: default
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421](http://arxiv.org/abs/2503.10421)|null|
 |**2025-03-12**|**Strategyproof Reinforcement Learning from Human Feedback**|Thomas Kleine Buening et.al.|[2503.09561](http://arxiv.org/abs/2503.09561)|null|
-|**2025-03-12**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**|Bowen Jin et.al.|[2503.09516](http://arxiv.org/abs/2503.09516)|null|
+|**2025-03-12**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**|Bowen Jin et.al.|[2503.09516](http://arxiv.org/abs/2503.09516)|**[link](https://github.com/petergriffinjin/search-r1)**|
 |**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513](http://arxiv.org/abs/2503.09513)|null|
 |**2025-03-12**|**Reinforcement Learning is all You Need**|Yongsheng Lian et.al.|[2503.09512](http://arxiv.org/abs/2503.09512)|null|
 |**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501](http://arxiv.org/abs/2503.09501)|null|
@@ -39,23 +39,23 @@ layout: default
 |**2025-03-11**|**Hierarchical Multi Agent DRL for Soft Handovers Between Edge Clouds in Open RAN**|F. Giarrè et.al.|[2503.08493](http://arxiv.org/abs/2503.08493)|null|
 |**2025-03-11**|**Hybrid Deep Reinforcement Learning for Radio Tracer Localisation in Robotic-assisted Radioguided Surgery**|Hanyi Zhang et.al.|[2503.08492](http://arxiv.org/abs/2503.08492)|null|
 |**2025-03-12**|**An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
-|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
+|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|**[link](https://github.com/valeoai/v-max)**|
 |**2025-03-11**|**Gait in Eight: Efficient On-Robot Learning for Omnidirectional Quadruped Locomotion**|Nico Bohlinger et.al.|[2503.08375](http://arxiv.org/abs/2503.08375)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Qiang Zhang et.al.|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 |**2025-03-11**|**Trinity: A Modular Humanoid Robot AI System**|Jingkai Sun et.al.|[2503.08338](http://arxiv.org/abs/2503.08338)|null|
 |**2025-03-11**|**Evaluating Interpretable Reinforcement Learning by Distilling Policies into Programs**|Hector Kohler et.al.|[2503.08322](http://arxiv.org/abs/2503.08322)|null|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
 |**2025-03-11**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
-|**2025-03-10**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523](http://arxiv.org/abs/2503.07523)|null|
+|**2025-03-10**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523](http://arxiv.org/abs/2503.07523)|**[link](https://github.com/zhangquanchen/visrl)**|
 |**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
-|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|**[link](https://github.com/nice-hku/dress)**|
 |**2025-03-10**|**The Interplay of AI-and-RAN: Dynamic Resource Allocation for Converged 6G Platform**|Syed Danial Ali Shah et.al.|[2503.07420](http://arxiv.org/abs/2503.07420)|null|
 |**2025-03-10**|**Cost-Effective Design of Grid-tied Community Microgrid**|Moslem Uddin et.al.|[2503.07414](http://arxiv.org/abs/2503.07414)|null|
 |**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411](http://arxiv.org/abs/2503.07411)|null|
 |**2025-03-10**|**Towards Safe Robot Foundation Models**|Maximilian Tölle et.al.|[2503.07404](http://arxiv.org/abs/2503.07404)|null|
 |**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
 |**2025-03-10**|**AttentionSwarm: Reinforcement Learning with Attention Control Barier Function for Crazyflie Drones in Dynamic Environments**|Grik Tadevosyan et.al.|[2503.07376](http://arxiv.org/abs/2503.07376)|null|
-|**2025-03-10**|**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**|Fanqing Meng et.al.|[2503.07365](http://arxiv.org/abs/2503.07365)|null|
+|**2025-03-10**|**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**|Fanqing Meng et.al.|[2503.07365](http://arxiv.org/abs/2503.07365)|**[link](https://github.com/modalminds/mm-eureka)**|
 |**2025-03-10**|**Artificial Utopia: Simulation and Intelligent Agents for a Democratised Future**|Yannick Oswald et.al.|[2503.07364](http://arxiv.org/abs/2503.07364)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696](http://arxiv.org/abs/2503.05696)|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646](http://arxiv.org/abs/2503.05646)|null|
@@ -66,7 +66,7 @@ layout: default
 |**2025-03-07**|**RiLoCo: An ISAC-oriented AI Solution to Build RIS-empowered Networks**|Guillermo Encinas-Lago et.al.|[2503.05480](http://arxiv.org/abs/2503.05480)|null|
 |**2025-03-07**|**Controllable Complementarity: Subjective Preferences in Human-AI Collaboration**|Chase McDonald et.al.|[2503.05455](http://arxiv.org/abs/2503.05455)|null|
 |**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**|Jiaxing Zhao et.al.|[2503.05379](http://arxiv.org/abs/2503.05379)|null|
-|**2025-03-07**|**Adversarial Policy Optimization for Offline Preference-based Reinforcement Learning**|Hyungkyu Kang et.al.|[2503.05306](http://arxiv.org/abs/2503.05306)|null|
+|**2025-03-07**|**Adversarial Policy Optimization for Offline Preference-based Reinforcement Learning**|Hyungkyu Kang et.al.|[2503.05306](http://arxiv.org/abs/2503.05306)|**[link](https://github.com/oh-lab/APPO)**|
 |**2025-03-06**|**Sample-Optimal Agnostic Boosting with Unlabeled Data**|Udaya Ghai et.al.|[2503.04706](http://arxiv.org/abs/2503.04706)|null|
 |**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697](http://arxiv.org/abs/2503.04697)|null|
 |**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679](http://arxiv.org/abs/2503.04679)|null|
@@ -85,13 +85,13 @@ layout: default
 |**2025-03-05**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515](http://arxiv.org/abs/2503.03515)|null|
 |**2025-03-05**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning**|Borong Zhang et.al.|[2503.03480](http://arxiv.org/abs/2503.03480)|null|
 |**2025-03-05**|**Navigating Intelligence: A Survey of Google OR-Tools and Machine Learning for Global Path Planning in Autonomous Vehicles**|Alexandre Benoit et.al.|[2503.03338](http://arxiv.org/abs/2503.03338)|null|
-|**2025-03-05**|**Benchmarking Dynamic SLO Compliance in Distributed Computing Continuum Systems**|Alfreds Lapkovskis et.al.|[2503.03274](http://arxiv.org/abs/2503.03274)|null|
+|**2025-03-05**|**Benchmarking Dynamic SLO Compliance in Distributed Computing Continuum Systems**|Alfreds Lapkovskis et.al.|[2503.03274](http://arxiv.org/abs/2503.03274)|**[link](https://github.com/AlfredsLapkovskis/VideoStreamEnv)**|
 |**2025-03-05**|**Less is more? Rewards in RL for Cyber Defence**|Elizabeth Bates et.al.|[2503.03245](http://arxiv.org/abs/2503.03245)|null|
 |**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
 |**2025-03-04**|**Meta-Learning to Explore via Memory Density Feedback**|Kevin L. McKee et.al.|[2503.02831](http://arxiv.org/abs/2503.02831)|null|
 |**2025-03-04**|**Quantitative Resilience Modeling for Autonomous Cyber Defense**|Xavier Cadet et.al.|[2503.02780](http://arxiv.org/abs/2503.02780)|null|
 |**2025-03-04**|**Learning-Based Passive Fault-Tolerant Control of a Quadrotor with Rotor Failure**|Jiehao Chen et.al.|[2503.02649](http://arxiv.org/abs/2503.02649)|null|
-|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
+|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|**[link](https://github.com/wenqing-2021/On_Ramp_Merge_Safe_RL)**|
 |**2025-03-04**|**Rewarding Doubt: A Reinforcement Learning Approach to Confidence Calibration of Large Language Models**|Paul Stangel et.al.|[2503.02623](http://arxiv.org/abs/2503.02623)|null|
 |**2025-03-04**|**Reinforcement Learning-based Threat Assessment**|Wuzhou Sun et.al.|[2503.02612](http://arxiv.org/abs/2503.02612)|null|
 |**2025-03-04**|**What Makes a Model Breathe? Understanding Reinforcement Learning Reward Function Design in Biomechanical User Simulation**|Hannah Selder et.al.|[2503.02571](http://arxiv.org/abs/2503.02571)|null|
@@ -569,7 +569,7 @@ layout: default
 |**2024-12-17**|**Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method**|Jiate Li et.al.|[2412.13134](http://arxiv.org/abs/2412.13134)|**[link](https://github.com/JetRichardLee/GSE-METP)**|
 |**2024-12-17**|**Active Reinforcement Learning Strategies for Offline Policy Improvement**|Ambedkar Dukkipati et.al.|[2412.13106](http://arxiv.org/abs/2412.13106)|null|
 |**2024-12-17**|**Reservoir Computing for Fast, Simplified Reinforcement Learning on Memory Tasks**|Kevin McKee et.al.|[2412.13093](http://arxiv.org/abs/2412.13093)|null|
-|**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
+|**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|**[link](https://github.com/vinczematyas/SMoSE)**|
 |**2024-12-17**|**Relational Neurosymbolic Markov Models**|Lennert De Smet et.al.|[2412.13023](http://arxiv.org/abs/2412.13023)|null|
 |**2024-12-17**|**Future Aspects in Human Action Recognition: Exploring Emerging Techniques and Ethical Influences**|Antonios Gasteratos et.al.|[2412.12990](http://arxiv.org/abs/2412.12990)|null|
 |**2024-12-17**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|**[link](https://github.com/ai4pdlab/dpo_plm)**|
@@ -2913,7 +2913,7 @@ layout: default
 |**2023-12-15**|**Peer Learning: Learning Complex Policies in Groups from Scratch via Action Recommendations**|Cedric Derstroff et.al.|[2312.09950](http://arxiv.org/abs/2312.09950)|**[link](https://github.com/kramerlab/peerlearning)**|
 |**2023-12-15**|**Assume-Guarantee Reinforcement Learning**|Milad Kazemi et.al.|[2312.09938](http://arxiv.org/abs/2312.09938)|null|
 |**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935](http://arxiv.org/abs/2312.09935)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
-|**2023-12-15**|**Sample-Efficient Learning to Solve a Real-World Labyrinth Game Using Data-Augmented Model-Based Reinforcement Learning**|Thomas Bi et.al.|[2312.09906](http://arxiv.org/abs/2312.09906)|null|
+|**2023-12-15**|**Sample-Efficient Learning to Solve a Real-World Labyrinth Game Using Data-Augmented Model-Based Reinforcement Learning**|Thomas Bi et.al.|[2312.09906](http://arxiv.org/abs/2312.09906)|**[link](https://github.com/thomasbi1/cyberrunner)**|
 |**2023-12-15**|**Small Dataset, Big Gains: Enhancing Reinforcement Learning by Offline Pre-Training with Model Based Augmentation**|Girolamo Macaluso et.al.|[2312.09844](http://arxiv.org/abs/2312.09844)|null|
 |**2023-12-15**|**Benchmarking the Full-Order Model Optimization Based Imitation in the Humanoid Robot Reinforcement Learning Walk**|Ekaterina Chaikovskaya et.al.|[2312.09757](http://arxiv.org/abs/2312.09757)|null|
 |**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708](http://arxiv.org/abs/2312.09708)|null|
@@ -3574,7 +3574,7 @@ layout: default
 |**2025-03-05**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|**[link](https://github.com/moorethreads/litegs)**|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887](http://arxiv.org/abs/2503.00887)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|null|
+|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|**[link](https://github.com/nepfaff/scalable-real2sim)**|
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
@@ -3774,7 +3774,7 @@ layout: default
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|**[link](https://github.com/xiaobiaodu/MVGS)**|
 |**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
-|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|**[link](https://github.com/rzhevcherkasy/bmvc24-gsim)**|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
@@ -4311,7 +4311,7 @@ layout: default
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|**[link](https://github.com/xingy038/ctnerf)**|
-|**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
+|**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|**[link](https://github.com/guikunchen/awesome3dgs)**|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771](http://arxiv.org/abs/2401.03771)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
 |**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203](http://arxiv.org/abs/2401.03203)|null|
