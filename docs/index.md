@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
+|**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474](http://arxiv.org/abs/2504.10474)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-14**|**The Communication and Computation Trade-off in Wireless Semantic Communications**|Xuyang Chen et.al.|[2504.10357](http://arxiv.org/abs/2504.10357)|null|
+|**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337](http://arxiv.org/abs/2504.10337)|null|
+|**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
+|**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[2504.10266](http://arxiv.org/abs/2504.10266)|null|
+|**2025-04-14**|**Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins**|Collins O. Ogbodo et.al.|[2504.10248](http://arxiv.org/abs/2504.10248)|null|
+|**2025-04-14**|**Deep Reasoning Translation via Reinforcement Learning**|Jiaan Wang et.al.|[2504.10187](http://arxiv.org/abs/2504.10187)|null|
+|**2025-04-14**|**MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning**|Zhaopeng Feng et.al.|[2504.10160](http://arxiv.org/abs/2504.10160)|null|
 |**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
 |**2025-04-11**|**Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics**|Alessia Loi et.al.|[2504.08686](http://arxiv.org/abs/2504.08686)|null|
 |**2025-04-11**|**Reinforcement Learning-Driven Plant-Wide Refinery Planning Using Model Decomposition**|Zhouchang Li et.al.|[2504.08642](http://arxiv.org/abs/2504.08642)|null|
@@ -3756,6 +3766,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
+|**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
+|**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
