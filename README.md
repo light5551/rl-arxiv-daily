@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
+|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
+|**2025-05-05**|**Teaching the social media generation: rethinking learning without sacrificing quality**|Sepinoud Azimi et.al.|[2505.02770](http://arxiv.org/abs/2505.02770)|null|
+|**2025-05-05**|**The use of Artificial Intelligence for Intervention and Assessment in Individuals with ASD**|Aggeliki Sideraki et.al.|[2505.02747](http://arxiv.org/abs/2505.02747)|null|
+|**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|null|
+|**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686](http://arxiv.org/abs/2505.02686)|null|
+|**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
+|**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666](http://arxiv.org/abs/2505.02666)|null|
 |**2025-05-02**|**Stabilizing Temporal Difference Learning via Implicit Stochastic Approximation**|Hwanwoo Kim et.al.|[2505.01361](http://arxiv.org/abs/2505.01361)|null|
 |**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
@@ -3791,6 +3801,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
@@ -3918,6 +3929,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
+|**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|null|
+|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
+|**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
