@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710](http://arxiv.org/abs/2505.03710)|null|
+|**2025-05-06**|**Policy Gradient Adaptive Control for the LQR: Indirect and Direct Approaches**|Feiran Zhao et.al.|[2505.03706](http://arxiv.org/abs/2505.03706)|null|
+|**2025-05-06**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586](http://arxiv.org/abs/2505.03586)|null|
+|**2025-05-06**|**Ergodic Generative Flows**|Leo Maxime Brunswic et.al.|[2505.03561](http://arxiv.org/abs/2505.03561)|null|
+|**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558](http://arxiv.org/abs/2505.03558)|null|
+|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
+|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/abs/2505.03439)|null|
+|**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432](http://arxiv.org/abs/2505.03432)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
@@ -3801,6 +3811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
