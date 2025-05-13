@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797](http://arxiv.org/abs/2505.07797)|null|
+|**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
+|**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
+|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
+|**2025-05-12**|**A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms**|Dieu-Donne Fangnon et.al.|[2505.07660](http://arxiv.org/abs/2505.07660)|null|
+|**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608](http://arxiv.org/abs/2505.07608)|**[link](https://github.com/xiaomimimo/mimo)**|
+|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607](http://arxiv.org/abs/2505.07607)|null|
+|**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|
+|**2025-05-12**|**A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models**|Junjie Ye et.al.|[2505.07591](http://arxiv.org/abs/2505.07591)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
 |**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182](http://arxiv.org/abs/2505.06182)|null|
 |**2025-05-09**|**Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning**|Haokun Yu et.al.|[2505.06122](http://arxiv.org/abs/2505.06122)|null|
@@ -3961,6 +3971,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
