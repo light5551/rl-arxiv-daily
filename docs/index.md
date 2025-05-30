@@ -7,23 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-29**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
 |**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648](http://arxiv.org/abs/2505.22648)|null|
-|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
 |**2025-05-28**|**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**|Ganqu Cui et.al.|[2505.22617](http://arxiv.org/abs/2505.22617)|null|
 |**2025-05-28**|**HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym**|Ngoc La et.al.|[2505.22597](http://arxiv.org/abs/2505.22597)|null|
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
 |**2025-05-28**|**Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs**|Changhao Song et.al.|[2505.22548](http://arxiv.org/abs/2505.22548)|null|
 |**2025-05-28**|**Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation**|Hongyi Zhou et.al.|[2505.22492](http://arxiv.org/abs/2505.22492)|null|
-|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
+|**2025-05-29**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
