@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
+|**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
+|**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185](http://arxiv.org/abs/2506.04185)|null|
+|**2025-06-04**|**Horizon Reduction Makes RL Scalable**|Seohong Park et.al.|[2506.04168](http://arxiv.org/abs/2506.04168)|null|
+|**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
+|**2025-06-04**|**Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning**|Muling Wu et.al.|[2506.04065](http://arxiv.org/abs/2506.04065)|null|
+|**2025-06-04**|**Crowd-SFT: Crowdsourcing for LLM Alignment**|Alex Sotiropoulos et.al.|[2506.04063](http://arxiv.org/abs/2506.04063)|null|
+|**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[2506.04040](http://arxiv.org/abs/2506.04040)|null|
+|**2025-06-04**|**Interpretability by Design for Efficient Multi-Objective Reinforcement Learning**|Qiyue Xia et.al.|[2506.04022](http://arxiv.org/abs/2506.04022)|null|
+|**2025-06-04**|**Boosting Open-Source LLMs for Program Repair via Reasoning Transfer and LLM-Guided Reinforcement Learning**|Xunzhu Tang et.al.|[2506.03921](http://arxiv.org/abs/2506.03921)|null|
 |**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136](http://arxiv.org/abs/2506.03136)|null|
 |**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
 |**2025-06-04**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
