@@ -52,20 +52,20 @@
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
-|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|**[link](https://github.com/open-thought/reasoning-gym)**|
 |**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
 |**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784](http://arxiv.org/abs/2505.24784)|null|
 |**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
-|**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
+|**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|**[link](https://github.com/open-thought/reasoning-gym)**|
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
-|**2025-06-03**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
+|**2025-06-03**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|**[link](https://github.com/longmalongma/tw-grpo)**|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
 |**2025-05-29**|**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**|Lucas N. Alegre et.al.|[2505.23708](http://arxiv.org/abs/2505.23708)|null|
 |**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|**[link](https://github.com/hiyouga/easyr1)**|
 |**2025-05-29**|**Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models**|Lang Cao et.al.|[2505.23667](http://arxiv.org/abs/2505.23667)|null|
 |**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663](http://arxiv.org/abs/2505.23663)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
 |**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/abs/2505.23657)|null|
@@ -89,7 +89,7 @@
 |**2025-05-27**|**Data-Driven Cellular Mobility Management via Bayesian Optimization and Reinforcement Learning**|Mohamed Benzaghta et.al.|[2505.21249](http://arxiv.org/abs/2505.21249)|null|
 |**2025-05-27**|**Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies**|Felix Chalumeau et.al.|[2505.21236](http://arxiv.org/abs/2505.21236)|null|
 |**2025-05-27**|**Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**|Mingyang Song et.al.|[2505.21178](http://arxiv.org/abs/2505.21178)|null|
-|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|null|
+|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|**[link](https://github.com/uw-nsl/temporal_forgetting)**|
 |**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175](http://arxiv.org/abs/2505.20175)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
@@ -264,7 +264,7 @@
 |**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663](http://arxiv.org/abs/2505.00663)|null|
 |**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/abs/2505.00662)|**[link](https://github.com/rucbm/deepcritic)**|
 |**2025-05-02**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
-|**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
+|**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|**[link](https://github.com/QingyuanWuNothing/DFBT)**|
 |**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
 |**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
 |**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
@@ -486,7 +486,7 @@
 |**2025-03-31**|**Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning**|Matej Jusup et.al.|[2503.24183](http://arxiv.org/abs/2503.24183)|**[link](https://github.com/mjusup1501/mf-vehicle-rebalancing)**|
 |**2025-03-31**|**Learning a Canonical Basis of Human Preferences from Binary Ratings**|Kailas Vodrahalli et.al.|[2503.24150](http://arxiv.org/abs/2503.24150)|null|
 |**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140](http://arxiv.org/abs/2503.24140)|null|
-|**2025-03-31**|**Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning**|Florian Rupp et.al.|[2503.24099](http://arxiv.org/abs/2503.24099)|null|
+|**2025-03-31**|**Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning**|Florian Rupp et.al.|[2503.24099](http://arxiv.org/abs/2503.24099)|**[link](https://github.com/FlorianRupp/feast-and-forage-env)**|
 |**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070](http://arxiv.org/abs/2503.24070)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
