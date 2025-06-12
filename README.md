@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**|Hao Peng et.al.|[2506.09942](http://arxiv.org/abs/2506.09942)|null|
+|**2025-06-11**|**The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability**|Jiachen Hu et.al.|[2506.09940](http://arxiv.org/abs/2506.09940)|null|
+|**2025-06-11**|**"What are my options?": Explaining RL Agents with Diverse Near-Optimal Alternatives (Extended)**|Noel Brindise et.al.|[2506.09901](http://arxiv.org/abs/2506.09901)|null|
+|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
+|**2025-06-11**|**Foundation Model-Aided Deep Reinforcement Learning for RIS-Assisted Wireless Communication**|Mohammad Ghassemi et.al.|[2506.09855](http://arxiv.org/abs/2506.09855)|null|
+|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/abs/2506.09820)|null|
+|**2025-06-11**|**Automatic Treatment Planning using Reinforcement Learning for High-dose-rate Prostate Brachytherapy**|Tonghe Wang et.al.|[2506.09805](http://arxiv.org/abs/2506.09805)|null|
+|**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[2506.09800](http://arxiv.org/abs/2506.09800)|null|
+|**2025-06-11**|**ComfyUI-R1: Exploring Reasoning Models for Workflow Generation**|Zhenran Xu et.al.|[2506.09790](http://arxiv.org/abs/2506.09790)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Deep Reinforcement Learning-Based RAN Slicing with Efficient Inter-Slice Isolation in Tactical Wireless Networks**|Abderrahime Filali et.al.|[2506.09039](http://arxiv.org/abs/2506.09039)|null|
 |**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033](http://arxiv.org/abs/2506.09033)|null|
@@ -4051,6 +4061,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
@@ -4185,6 +4196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
