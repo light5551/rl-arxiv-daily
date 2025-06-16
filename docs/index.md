@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986](http://arxiv.org/abs/2506.11986)|null|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Visual Pre-Training on Unlabeled Images using Reinforcement Learning**|Dibya Ghosh et.al.|[2506.11967](http://arxiv.org/abs/2506.11967)|null|
+|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
+|**2025-06-13**|**Breaking Habits: On the Role of the Advantage Function in Learning Causal State Representations**|Miguel Suau et.al.|[2506.11912](http://arxiv.org/abs/2506.11912)|null|
+|**2025-06-13**|**Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients**|Chapa Sirithunge et.al.|[2506.11906](http://arxiv.org/abs/2506.11906)|null|
+|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902](http://arxiv.org/abs/2506.11902)|null|
+|**2025-06-13**|**An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing**|Haochen Sun et.al.|[2506.11882](http://arxiv.org/abs/2506.11882)|null|
+|**2025-06-13**|**LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection**|Ce Lyu et.al.|[2506.11870](http://arxiv.org/abs/2506.11870)|null|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
 |**2025-06-12**|**Spurious Rewards: Rethinking Training Signals in RLVR**|Rulin Shao et.al.|[2506.10947](http://arxiv.org/abs/2506.10947)|null|
 |**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
