@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758](http://arxiv.org/abs/2506.14758)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**Adaptive Accompaniment with ReaLchords**|Yusong Wu et.al.|[2506.14723](http://arxiv.org/abs/2506.14723)|null|
+|**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648](http://arxiv.org/abs/2506.14648)|null|
+|**2025-06-17**|**On Quantum BSDE Solver for High-Dimensional Parabolic PDEs**|Howard Su et.al.|[2506.14612](http://arxiv.org/abs/2506.14612)|null|
+|**2025-06-17**|**TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization**|Mingkang Zhu et.al.|[2506.14574](http://arxiv.org/abs/2506.14574)|null|
+|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
+|**2025-06-17**|**Zeroth-Order Optimization is Secretly Single-Step Policy Optimization**|Junbin Qiu et.al.|[2506.14460](http://arxiv.org/abs/2506.14460)|null|
+|**2025-06-17**|**Toward Rich Video Human-Motion2D Generation**|Ruihao Xi et.al.|[2506.14428](http://arxiv.org/abs/2506.14428)|null|
+|**2025-06-17**|**Unsupervised Skill Discovery through Skill Regions Differentiation**|Ting Xiao et.al.|[2506.14420](http://arxiv.org/abs/2506.14420)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
