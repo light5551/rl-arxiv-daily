@@ -60,15 +60,15 @@
 |**2025-06-23**|**Policy gradient methods for ordinal policies**|Simón Weinberger et.al.|[2506.18614](http://arxiv.org/abs/2506.18614)|null|
 |**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Xuanyu Zhang et.al.|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
-|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|**[link](https://github.com/umass-embodied-agi/mirage)**|
 |**2025-06-20**|**BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning**|Xuechen Zhang et.al.|[2506.17211](http://arxiv.org/abs/2506.17211)|null|
-|**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204](http://arxiv.org/abs/2506.17204)|null|
+|**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204](http://arxiv.org/abs/2506.17204)|**[link](https://github.com/lilucse/sparsenetwork4drl)**|
 |**2025-06-20**|**Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity**|Samin Yeasar Arnob et.al.|[2506.17155](http://arxiv.org/abs/2506.17155)|null|
 |**2025-06-20**|**When Can Model-Free Reinforcement Learning be Enough for Thinking?**|Josiah P. Hanna et.al.|[2506.17124](http://arxiv.org/abs/2506.17124)|null|
-|**2025-06-20**|**TransDreamerV3: Implanting Transformer In DreamerV3**|Shruti Sadanand Dongare et.al.|[2506.17103](http://arxiv.org/abs/2506.17103)|null|
+|**2025-06-20**|**TransDreamerV3: Implanting Transformer In DreamerV3**|Shruti Sadanand Dongare et.al.|[2506.17103](http://arxiv.org/abs/2506.17103)|**[link](https://github.com/xiaonazhou/transdreamerv3)**|
 |**2025-06-20**|**Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs**|Ricardo Rei et.al.|[2506.17080](http://arxiv.org/abs/2506.17080)|null|
 |**2025-06-20**|**Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment**|Leizhen Wang et.al.|[2506.17029](http://arxiv.org/abs/2506.17029)|null|
-|**2025-06-20**|**Robust Reinforcement Learning for Discrete Compositional Generation via General Soft Operators**|Marco Jiralerspong et.al.|[2506.17007](http://arxiv.org/abs/2506.17007)|null|
+|**2025-06-20**|**Robust Reinforcement Learning for Discrete Compositional Generation via General Soft Operators**|Marco Jiralerspong et.al.|[2506.17007](http://arxiv.org/abs/2506.17007)|**[link](https://github.com/marcojira/tgm)**|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684](http://arxiv.org/abs/2506.15684)|null|
 |**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662](http://arxiv.org/abs/2506.15662)|null|
 |**2025-06-18**|**CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization**|Ranting Hu et.al.|[2506.15654](http://arxiv.org/abs/2506.15654)|null|
@@ -93,8 +93,8 @@
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
 |**2025-06-16**|**PB $^2$ : Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741](http://arxiv.org/abs/2506.13741)|null|
-|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
-|**2025-06-16**|**Value-Free Policy Optimization via Reward Partitioning**|Bilal Faye et.al.|[2506.13702](http://arxiv.org/abs/2506.13702)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|**[link](https://github.com/langfengq/timemaster)**|
+|**2025-06-16**|**Value-Free Policy Optimization via Reward Partitioning**|Bilal Faye et.al.|[2506.13702](http://arxiv.org/abs/2506.13702)|**[link](https://github.com/b-faye/rpo)**|
 |**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695](http://arxiv.org/abs/2506.13695)|null|
 |**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690](http://arxiv.org/abs/2506.13690)|null|
 |**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672](http://arxiv.org/abs/2506.13672)|null|
@@ -1109,7 +1109,7 @@
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-17**|**ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring**|Kenneth Bonilla-Ormachea et.al.|[2501.09926](http://arxiv.org/abs/2501.09926)|**[link](https://github.com/edwintsalcedo/forestprotector)**|
 |**2025-01-17**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
-|**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
+|**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|**[link](https://github.com/PeilangLi/explain-to-interpret-rl)**|
 |**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
 |**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
