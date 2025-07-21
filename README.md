@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,9 +26,9 @@
 |**2025-07-17**|**Spectral Bellman Method: Unifying Representation and Exploration in RL**|Ofir Nabati et.al.|[2507.13181](http://arxiv.org/abs/2507.13181)|null|
 |**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
 |**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/abs/2507.13158)|null|
-|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
+|**2025-07-18**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
-|**2025-07-17**|**From a Mixed-Policy Perspective: Improving Differentiable Automatic Post-editing Optimization**|Hongze Tan et.al.|[2507.12931](http://arxiv.org/abs/2507.12931)|null|
+|**2025-07-18**|**Improving DAPO from a Mixed-Policy Perspective**|Hongze Tan et.al.|[2507.12931](http://arxiv.org/abs/2507.12931)|null|
 |**2025-07-16**|**Improving Reinforcement Learning Sample-Efficiency using Local Approximation**|Mohit Prashant et.al.|[2507.12383](http://arxiv.org/abs/2507.12383)|null|
 |**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
 |**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
@@ -4285,7 +4285,7 @@
 |**2023-10-04**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
 |**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## SLAM
 
@@ -4424,7 +4424,7 @@
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## NeRF
 
@@ -5590,7 +5590,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
