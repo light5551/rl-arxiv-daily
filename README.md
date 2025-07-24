@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**How Should We Meta-Learn Reinforcement Learning Algorithms?**|Alexander David Goldie et.al.|[2507.17668](http://arxiv.org/abs/2507.17668)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Generalized Advantage Estimation for Distributional Policy Gradients**|Shahil Shaik et.al.|[2507.17530](http://arxiv.org/abs/2507.17530)|null|
+|**2025-07-23**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning**|Yu Li et.al.|[2507.17512](http://arxiv.org/abs/2507.17512)|null|
+|**2025-07-23**|**Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning**|Situo Zhang et.al.|[2507.17448](http://arxiv.org/abs/2507.17448)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
@@ -4462,6 +4472,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field**|Yuzhe Zhu et.al.|[2507.17351](http://arxiv.org/abs/2507.17351)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
